@@ -14,7 +14,7 @@ papers also have an osf repo associated with them. Follow the rabbit!
 ---
 
 **Batailler, C.**, Brannon, S. M., Teas, P. E., & Gawronski, B. (2021). A signal detection approach to understandingthe identification of fake news. <video controls>
-  <source src="{{ .Site.BaseURL }}/videos/60934678-2a14-4c08-aca6-545c994f02ed.mov" type="video/mov">
+  <source src="{{ .Site.BaseURL }}/static/videos/60934678-2a14-4c08-aca6-545c994f02ed.mov" type="video/mov">
   Your browser does not support the video tag.
 </video>
 
