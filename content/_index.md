@@ -16,6 +16,6 @@ image_left: true
 
 show_action_link: true
 action_link: /blog/
-action_label: "Confession: That is a AI generated image of myself! &rarr;"
+action_label: "Confession: That is an AI generated image of myself &rarr;"
 action_type: text
 ---
