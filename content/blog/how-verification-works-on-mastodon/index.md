@@ -1,20 +1,20 @@
 ---
 date: 2022-11-10
 
-title: Personal reflections as a first-time manager
+title: Reflections as a first-time manager
 subtitle: |
-  The challenge of being responsible for shaping a person's future and career without any formal training - a typical scenario."
+  The challenge of being responsible for shaping a person's future and
+  career without any formal training - a typical scenario."
 
 summary: |
-  There is a process that does not cost $8 and that limit the risk of 
-  impersonation on Mastodon. It has exactly two steps and can be done in less 
-  than 5 minutes.
+  Managing can be a formidable task - some may find it effortless
+  while others may struggle. Nevertheless, I've gleaned valuable insights
+  through my experience, and I'd like to share my key learnings below.
 
 description: |
-    Mastodon can help people know that your account is linked to 
-    other resources on the internet. Learn about how to set that up.
+    my journey managing a non-tech graduate in the tech field of data science.
 
-author: Cédric Batailler
+author: Hamzah Javaid
 
 show_post_date: true
 show_author_byline: true
