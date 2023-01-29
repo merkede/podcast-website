@@ -1,7 +1,7 @@
 ---
-title: Notes
+title: Personal Blog
 description: |
-  These are some field notes which are worth sharing. Cool kids would call it 
+  I've run out of envelopes on which to write. So I'm writing what cool kids would call  
   a blog.
 
 show_post_thumbnail: true
