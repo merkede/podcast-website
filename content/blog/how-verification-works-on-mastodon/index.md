@@ -1,7 +1,7 @@
 ---
 date: 2022-11-10
 
-title: Reflections : first-time manager
+title: Reflections - first-time manager
 subtitle: |
   The challenge of shaping a person's future and career without any formal training - a typical scenario.
 
