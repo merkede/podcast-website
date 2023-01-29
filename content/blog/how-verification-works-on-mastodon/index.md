@@ -1,9 +1,9 @@
 ---
 date: 2022-11-10
 
-title: Reflections as a first-time manager
+title: Reflections : first-time manager
 subtitle: |
-  The challenge of being responsible for shaping a person's future and
+  The challenge of shaping a person's future and
   career without any formal training - a typical scenario."
 
 summary: |
@@ -25,9 +25,9 @@ draft: false
 
 freeze: auto
 tags:
-- Mastodon
-- Social media
-- Security
+- Manager
+- Reflections
+
 ---
 
 With all the drama around the buyout of Twitter, a lot of people around me
