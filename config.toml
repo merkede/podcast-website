@@ -23,7 +23,7 @@ googleAnalytics = "G-CSC1TRYSDL"
 
 # HUGO-APERO SETTINGS ---------------------------------------------------------
 [params]
-  orgName = "Hamzah Javaid"
+  orgName = "Made by Hamzah Javaid"
   orgLocal = ""
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
 
