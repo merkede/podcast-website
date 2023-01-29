@@ -42,20 +42,15 @@ the Twitter certification.
 
 And **the answer is yes**, but **it's a bit different**.
 
-## Mastodon's verification features
+## Don't be dogmatic with Plan A
 
-If you carefully read
-[Maston's documentation](https://docs.joinmastodon.org/user/profile/#fields),
-you will find the following:
+Winston Churchill famously had the quote:
 
-> Document-based verification and blue ticks are not possible without a central authority. However, Mastodon can cross-reference the links you put on your profile to prove that you are the real owner of those links. In case one of those links is your personal homepage that is known and trusted, it can serve as the next-best-thing to identity verification.
+> “Those who plan do better than those who do not plan, even should they rarely stick to their plan”.
 
-So, Mastodon has a feature that allows one to verify its identity. It is
-implemented very differently than Twitter, but in a way that is consistent with
-how Mastodon is structured. In a nutshell, **it can make explicit the fact that
-you are also the owner of a resource on the web** (be it a blog or a GitHub
-profile). This is not a blue mark but, when visiting your profile,
-a green mark will appear next to the link that you validated.
+Embedded within this quote is the acknowledgement - it's not alweays possible to stick to your plan. As a first-time manager, I set goals, objectives, and targets for my direct report (DR). I naively assumed they would be followed, but I was wrong. My DR was hard-working and intelligent, but sometimes people prefer to do things their own way. Our project changed and time became limited, but I still pushed my DR to meet the objectives. This approach only made things worse.
+
+Lesson Learned: Having a plan is essential for success, but being able to adapt and have a backup plan is equally important. Flexibility and an open-minded approach to change can ensure that even when things don't go according to plan, the ultimate goal can still be achieved.
 
 ------------------------------------------------------------------------
 
