@@ -13,9 +13,11 @@ papers also have an osf repo associated with them. Follow the rabbit!
 
 ---
 
-**Batailler, C.**, Brannon, S. M., Teas, P. E., & Gawronski, B. (2021). A signal detection approach to understandingthe identification of fake news. _Perspectives on Psychological Science_, 174569162098613. [10.1177/1745691620986135](https://doi.org/10.1177/1745691620986135)  
-[<i class="fa-solid fa-file-pdf"></i>](pdf/2021_BBTG_PPS.pdf)
-[<i class="ai ai-osf"></i>](https://osf.io/uc9me/)
+**Batailler, C.**, Brannon, S. M., Teas, P. E., & Gawronski, B. (2021). A signal detection approach to understandingthe identification of fake news. <video controls>
+  <source src="{{ .Site.BaseURL }}/videos/60934678-2a14-4c08-aca6-545c994f02ed.mov" type="video/mov">
+  Your browser does not support the video tag.
+</video>
+
 
 **Batailler, C.**, Muller, D., Nurra, C., Rougier, M., & Trouilloud, D. (2021). Math approach training changes implicitidentification with math: A close preregistered replication. _Journal of Experimental Social Psychology_, _92_, 104059. [10.1016/j.jesp.2020.104059](https://doi.org/10.1016/j.jesp.2020.104059)  
 [<i class="fa-solid fa-file-pdf"></i>](pdf/2021_BMNRT_JESP.pdf)
