@@ -43,7 +43,7 @@ googleAnalytics = "G-CSC1TRYSDL"
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water
-  theme = "peach"
+  theme = "sky"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/learn/color-themes/
@@ -96,14 +96,6 @@ googleAnalytics = "G-CSC1TRYSDL"
     url = "/license/"
     weight = 1
 
-[[params.social]]
-    icon = "mastodon"
-    icon_pack = "fab"
-    url = "https://fosstodon.org/@cedricbatailler"
-[[params.social]]
-    icon      = "github" 
-    icon_pack = "fab"
-    url       = "https://github.com/cedricbatailler"
 [[params.social]]
     icon      = "linkedin" 
     icon_pack = "fab"
