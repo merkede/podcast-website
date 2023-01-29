@@ -1,10 +1,9 @@
 ---
 date: 2022-11-10
 
-title: How to get verified on Mastodon?
+title: Personal reflections as a first-time manager
 subtitle: |
-  Or, is there an equivalent to Twitter's blue mark (yes) and how to set that 
-  up (see below)?
+  The challenge of being responsible for shaping a person's future and career without any formal training - a typical scenario."
 
 summary: |
   There is a process that does not cost $8 and that limit the risk of 
