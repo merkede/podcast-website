@@ -3,8 +3,7 @@ date: 2022-11-10
 
 title: Reflections : first-time manager
 subtitle: |
-  The challenge of shaping a person's future and
-  career without any formal training - a typical scenario.
+  The challenge of shaping a person's future and career without any formal training - a typical scenario.
 
 summary: |
   Managing can be a formidable task - some may find it effortless
