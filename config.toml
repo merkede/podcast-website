@@ -1,7 +1,6 @@
-baseURL = 'https://cedricbatailler.me/'
 
 languageCode = 'en-us'
-title = 'Cédric Batailler'
+title = 'Hamzah Javaid'
 
 theme = 'apero'
 
@@ -23,14 +22,14 @@ googleAnalytics = "G-CSC1TRYSDL"
 
 # HUGO-APERO SETTINGS ---------------------------------------------------------
 [params]
-  orgName = "Cédric Batailler"
+  orgName = "Hamzah Javaid"
   orgLocal = ""
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
 
   favicon = ""
   logo = ""
 
-  mainSections = ["blog", "projects", "pubs"]
+  mainSections = ["Personal blog", "Projects", "Podcast"]
   navallcaps = true
 
   # TODO: update social sharing image
@@ -62,7 +61,7 @@ googleAnalytics = "G-CSC1TRYSDL"
 
   [params.utterances]
     use_utterances = true
-    repo_name = "cedricbatailler/cedricbatailler.me"
+    repo_name = "merkede/podcast-website"
     issue_term = "title" # url, pathname, or title
     theme = "github-light"
     label = "comments :crystal_ball:"
@@ -70,7 +69,7 @@ googleAnalytics = "G-CSC1TRYSDL"
 # NAVBAR ----------------------------------------------------------------------
 [menu]
   [[menu.header]]
-    name = "Notes"
+    name = "Personal blog"
     title = "My project portfolio"
     url = "/blog/"
     weight = 1
@@ -80,7 +79,7 @@ googleAnalytics = "G-CSC1TRYSDL"
     url = "/projects/"
     weight = 1
   [[menu.header]]
-    name = "Pubs"
+    name = "Podcast"
     title = "My project portfolio"
     url = "/pubs/"
     weight = 2
@@ -107,15 +106,7 @@ googleAnalytics = "G-CSC1TRYSDL"
 [[params.social]]
     icon      = "linkedin" 
     icon_pack = "fab"
-    url       = "https://www.linkedin.com/in/cedricbatailler/"
-[[params.social]]
-    icon      = "google-scholar" 
-    icon_pack = "ai"
-    url       = "https://scholar.google.fr/citations?user=3KAcQowAAAAJ"
-[[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    url = "https://twitter.com/cedricbatailler"
+    url       = "https://www.linkedin.com/in/hamzah-j/"
 [[params.social]]
     icon      = "cv" 
     icon_pack = "ai"
