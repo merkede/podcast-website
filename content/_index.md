@@ -1,6 +1,6 @@
 ---
 title: "Hamzah Javaid"
-subtitle: "Data scientist (with philosophical tendencies)"
+subtitle: "Lead Data scientist (with philosophical tendencies)"
 
 description: "Tl:dr |
 
