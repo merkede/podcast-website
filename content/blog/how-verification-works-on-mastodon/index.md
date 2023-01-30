@@ -53,7 +53,7 @@ Embedded within this quote is the acknowledgement - making a plan is everything,
 
 ------------------------------------------------------------------------
 
-{{< figure src="img/fosstodon-verification.jpeg" caption="The Making of a Manager by Julie Zhuo" alt="A screenshot of my audiobook library on the Audible app." >}}
+{{< figure src="img/fosstodon-verification.png" caption="The Making of a Manager by Julie Zhuo" alt="A screenshot of my audiobook library on the Audible app." >}}
 
 ------------------------------------------------------------------------
 
