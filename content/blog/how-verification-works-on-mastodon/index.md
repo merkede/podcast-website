@@ -40,7 +40,7 @@ As a budding philosopher, I always start with “why”. Personally, I find I su
 - What is expected of me?
 - How do I know if I’ve succeeded, whatever ‘success’ is?
 
-The truth is, I never fully answered these questions but asking the why helped me shape and understand the how. As I now reflect on my first stint as Data Science manager, here are 3 key reflections.
+The truth is, I never fully answered these questions but asking the why helped me shape and understand the how. **As I now reflect on my first stint as Data Science manager, here are 3 key reflections**.
 
 
 ## Don't be dogmatic with Plan A
