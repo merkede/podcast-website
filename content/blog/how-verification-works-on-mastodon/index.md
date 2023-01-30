@@ -29,18 +29,19 @@ tags:
 
 ---
 
-With all the drama around the buyout of Twitter, a lot of people around me
-have started joining Mastodon instances. **This is a whole new world to
-discover**. Danielle Navarro wrote
-[an amazing piece](https://blog.djnavarro.net/posts/2022-11-03_what-i-know-about-mastodon/)
-on how Mastodon is a different place than Twitter, and it is really
-worth reading it. Even though it is easy to understand that the two places
-differ, you might still be looking for features that are on Twitter. And, one
-question you could have could be whether there is an equivalent for
-([what used to be](https://www.theverge.com/2022/11/9/23449821/twitter-blue-verification-check-mark-subscribers))
-the Twitter certification.
+Management is so much more than a team hitting their OKRs and achieving a company’s objective. You have the power to influence a person’s mental wellbeing, their hopes and desires, their confidence and self-development. Management is coaching, training, mentoring and so much more. At least that was my belief going into the role - I took the role of manager extremely seriously. 
 
-And **the answer is yes**, but **it's a bit different**.
+>	"people leave managers not companies"
+
+As a budding philosopher, I always start with “why”. Personally, I find I subscribe to a somewhat deterministic view, and so I asked myself the following questions: 
+
+- Why do I want to be a manager?
+- Why this person and why me?
+- What is expected of me?
+- How do I know if I’ve succeeded, whatever ‘success’ is?
+
+The truth is, I never fully answered these questions but asking the why helped me shape and understand the how. As I now reflect on my first stint as Data Science manager, here are 3 key reflections.
+
 
 ## Don't be dogmatic with Plan A
 
