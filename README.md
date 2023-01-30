@@ -1,4 +1,4 @@
-# cedricbatailler.me
+# hamzahjavaid.com
 
 <!-- badges: start -->
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1aa91859-ff67-4752-9808-92281a370135/deploy-status)](https://app.netlify.com/sites/cedricbatailler/deploys)
