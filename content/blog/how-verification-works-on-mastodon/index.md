@@ -51,6 +51,12 @@ Winston Churchill famously had the quote:
 
 Embedded within this quote is the acknowledgement - making a plan is everything, whether or not you are able to stick with it is not always in your control. As a first-time manager, I set goals, objectives, and targets for my direct report (DR) as best I could. I read 'Measure what matters' by John Doerr and had started listening to my first ever audiobook 'The Making of a Manager' by Julie Zhuo - what more could you ask more. 
 
+------------------------------------------------------------------------
+
+{{< figure src="img/fosstodon-verification.png" caption="The Making of a Manager by Julie Zhuo" alt="A screenshot of my audiobook library on the Audible app." >}}
+
+------------------------------------------------------------------------
+
 I naively assumed the next 8 months would all go to plan ... it couldn't have been further from the truth. It wasn't that my DR wasn't hard-working, ambitious or intelligent in fact quite the opposite but rather I'd forgetten an important teaching:
 
 > "Humans are as different on the inside as they are on the outside"
@@ -61,11 +67,7 @@ sometimes people prefer to do things their own way. Our project changed and time
 
 Lesson Learned: Having a plan is essential for success, but being able to adapt and have a backup plan is equally important. Flexibility and an open-minded approach to change can ensure that even when things don't go according to plan, the ultimate goal can still be achieved.
 
-------------------------------------------------------------------------
 
-{{< figure src="img/fosstodon-verification.png" caption="A verified link will have a green tick next to its label on your profile." alt="A screenshot of a Mastodon profile with two links in the field section. One of them appears with a green mark next to it." >}}
-
-------------------------------------------------------------------------
 
 ## How to set up Mastodon crosslink verification?
 
