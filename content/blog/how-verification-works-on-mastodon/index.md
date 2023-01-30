@@ -29,7 +29,7 @@ tags:
 
 ---
 
-Management is so much more than a team hitting their OKRs and achieving a company’s objective. You have the power to influence a person’s mental wellbeing, their hopes and desires, their confidence and self-development. Management is coaching, training, mentoring and so much more. At least that was my belief going into the role - I took the role of manager extremely seriously. 
+**Management is so much more than a team hitting their OKRs and achieving a company’s objective**. You have the power to influence a person’s mental wellbeing, their hopes and desires, their confidence and self-development. Management is coaching, training, mentoring and so much more. At least that was my belief going into the role - I took the role of manager extremely seriously. 
 
 >	"people leave managers not companies"
 
