@@ -11,7 +11,7 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: But what is he doing?
+  title: My Project Work
   description: |
     A collection of projects which made the final cut. Have a look.
 
