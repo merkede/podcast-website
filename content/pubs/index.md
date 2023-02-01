@@ -1,7 +1,7 @@
 ---
-title: "Publications"
-subtitle: Lookin' for some bedside reading?
-author: Cédric Batailler
+title: "Podcast"
+subtitle: Lookin' for some bedside listening?
+author: Hamzah Javaid
 layout: single-sidebar
 date: "2022-09-23"
 ---
