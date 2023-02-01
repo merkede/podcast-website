@@ -1,7 +1,7 @@
 ---
 date: 2022-09-24
 
-title: Biking is awesome, so is making tables.
+title: Behavioural pyschology, my new craze.
 summary: | 
   Let's use the `{gt}` package to see which of largest cities in France are the 
   most bike friendly. Because tables deserve love as much as plots.
