@@ -1,6 +1,6 @@
 ---
 title: "Hamzah Javaid"
-subtitle: "Lead Data scientist (with philosophical tendencies)"
+subtitle: "Data scientist (with philosophical tendencies)"
 
 description: "TL;DR  |
     I am a lead data scientist with a passion for philosophy, who also enjoys writing and creating podcasts. While my writing may not be on par with the
