@@ -1,8 +1,8 @@
 ---
 title: Projects
 description: |
-  Have a look at the different projects I have worked on.
-author: "Cédric Batailler"
+  Ssmple of different projects I've worked on.
+author: "Hamzah Javaid"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
@@ -18,7 +18,7 @@ sidebar:
 # set up common front matter for all pages inside blog/
 cascade:
   type: project
-  author: "Cédric Batailler"
+  author: "Hamzah Javaid"
   show_author_byline: true
   show_post_date: true
   show_comments: true # see site config to choose Disqus or Utterances
