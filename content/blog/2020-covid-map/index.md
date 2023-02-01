@@ -1,10 +1,10 @@
 ---
 date: 2020-05-12
 
-title: Mapping COVID-19 data in France with R
+title: Thinking with 'Mental Models'
 summary: | 
-  How to use R to map Covid-related data. This could almost have become
-  covidtracker.fr but I had a doctoral dissertation to write.
+  Deconstructing why and how we think using mental models. The key to take a Data Scientist
+  from mom's basement to the C-suite floor.
 
 format: hugo
 
