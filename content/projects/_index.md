@@ -13,11 +13,10 @@ layout: list-sidebar # list, list-sidebar, list-grid
 sidebar: 
   title: My Project Work
   description: |
-    A collection of projects which made the final cut. Have a look |
-      > Predictive Maintanence
-      > Wrap Note Automation
-      > Biogas Fuel level prediction
-      >
+    A collection of projects which made the final cut. Have a look 
+      - Predictive Maintanence
+      - Wrap Note Automation
+      - Biogas Fuel level prediction
     
 # set up common front matter for all pages inside blog/
 cascade:
