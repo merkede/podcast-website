@@ -69,7 +69,13 @@ Lesson Learned: Having a plan is essential for success, but being able to adapt 
 
 
 
-## How to set up Mastodon crosslink verification?
+## Quarterly and Annual performance reviews are nerve wracking
+
+Allow your team members to be honest, to openly say what they feel and most importantly dom't judge them. As a manager, I remember 
+
+> We are more honest with search engines than with our family
+
+
 
 To set that up, the only thing one has to do to get the green check mark is to
 reference a ressource that has a link back to their Mastodon profile. Be
@@ -89,11 +95,9 @@ have a `rel=me` attribute)
 link to your Mastodon profile**
 3. Profit?
 
-## This is not a Twitter certification
+## Humans are not code, you find this out quite quickly ...
 
-Obviously, this procedure is not exactly like the Twitter certification. It is
-free, you can do it on your own, and **it is not there for prestige**. It's
-there for security reasons.
+You need to manage people as they want to be managed.
 
 In a way, it is closer to a public mail verification (with a website instead
 of mail) than the blue badge, but it if you believe that a verification
