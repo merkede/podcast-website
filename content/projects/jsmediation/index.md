@@ -1,7 +1,7 @@
 ---
-title: JSmediation
+title: Predictive Maintanence
 summary: |
-  In social science, statistical mediation models are a popular method to show
+  Let's not work to solve a problem, let us try In social science, statistical mediation models are a popular method to show
   causality. The `JSmediation` package implements mediation models in an 
   easy-to-use R package.
 date: 2019-06-13
@@ -19,7 +19,17 @@ links:
     url: https://github.com/cedricbatailler/jsmediation
 ---
 
-# Showing causality
+# First Principles Thinking
+
+- Our stakeholder approaches us with the problem 'Are breakdowns predictable?'
+
+The short answer, if I was a betting man, would be 'I think so'. Perhaps another answer could involve
+answering the questions with a series of questions:
+
+1) Why are you asking?
+2) What problem are you trying to solve?
+3) Is it a problem worth solving?
+4) Do we collect the data --- data collection is huge here!!
 
 Effects things have on other are sometimes indirect. Let's take an example
 involving a soccer ball and a broken glass. Sometimes, you will break a glass by
@@ -31,6 +41,9 @@ on which was the glass[^1]. Indirect.
 And, sometimes, it is important to investigate how these indirect effets are 
 chained. It is known that people are less likely to buy drugs with complex 
 name[^2]. But why? What is the chain behind this effect?
+
+
+# Is this a problem? Is it worth solving?
 
 **Mediation analysis** is a statistical tool that can be use to find out that 
 the reason why people are less likely to buy drugs with complex name is because 
