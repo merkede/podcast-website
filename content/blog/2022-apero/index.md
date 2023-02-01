@@ -2,7 +2,7 @@
 date: 2022-10-26
 
 title: First Principles Thinking
-subtitle: Reason by first principles not be analogy.
+subtitle: Philosophy and reasoning without analogy.
 author: Hamzah Javaid
 
 show_post_date: true
@@ -21,15 +21,13 @@ format: hugo
 freeze: auto
 ---
 
-I recently noticed that I probably don't spend as much time writing as I
-should. *This is the kind of thoughts you can get by doing a
-PhD*. This post is me trying to address this problem. Let's write more, let's
-blog.
+Boil things down to their fundemantal truths, what can we say for certain and then
+reason up from there.
 
 As a first post, I decided to offer a small tour of this website. Or rather,
 of how it works. Let's go on an adventure!
 
-# A Fresh New Start
+# DeCarte and Aristotle Philosophy
 
 {{< figure src="img/jan-kahanek-g3O5ZtRk2E4-unsplash.jpg" caption="Photo by Jan Kahánek." >}}
 
