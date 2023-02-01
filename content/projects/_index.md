@@ -1,7 +1,7 @@
 ---
 title: Projects
 description: |
-  Ssmple of different projects I've worked on.
+  Sample of a few projects I've worked on.
 author: "Hamzah Javaid"
 show_post_thumbnail: true
 show_author_byline: true
