@@ -1,9 +1,9 @@
 ---
 date: 2022-10-26
 
-title: Quarto, Hugo, Apero
-subtitle: How to set up a minimal (but pretty) website in the modern era.
-author: Cédric Batailler
+title: First Principles Thinking
+subtitle: Reason by first principles not be analogy.
+author: Hamzah Javaid
 
 show_post_date: true
 show_author_byline: true
