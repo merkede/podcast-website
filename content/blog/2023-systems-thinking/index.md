@@ -1,17 +1,15 @@
 ---
-date: 2022-11-10
+date: 2022-06-10
 
 title: Reductionist view vs System view
 subtitle: |
-  The challenge of shaping a person's future and career without any formal training - a typical scenario.
+  Sharing two scientific methods of attaining knowledge.
 
 summary: |
-  Managing can be a formidable task - some may find it effortless
-  while others may struggle. Nevertheless, I've gleaned valuable insights
-  through my experience, and I'd like to share my key learnings below.
+  .........
 
 description: |
-    my journey managing a non-tech graduate in the tech field of data science.
+    ....
 
 author: Hamzah Javaid
 
@@ -29,7 +27,11 @@ tags:
 
 ---
 
-**Management is so much more than a team hitting their OKRs and achieving a company’s objective**. You have the power to influence a person’s mental wellbeing, their hopes and desires, their confidence and self-development. Management is coaching, training, mentoring and so much more. At least that was my belief going into the role - I took the role of manager extremely seriously. 
+**A reductionist view** To understand the whole we must break it down into it's component parts and study each component.
+
+**A system's view** To understand the whole, you must study it as a whole and understand how the various components interact, inter-relate and are interconnected to produce an outcome that is greater than the sum of its parts.
+
+You have the power to influence a person’s mental wellbeing, their hopes and desires, their confidence and self-development. Management is coaching, training, mentoring and so much more. At least that was my belief going into the role - I took the role of manager extremely seriously. 
 
 >	"people leave managers not companies"
 
