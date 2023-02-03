@@ -2,7 +2,7 @@
 title: "Hamzah Javaid"
 subtitle: "Data scientist (with philosophical tendencies)"
 
-description: "TL;DR  >|
+description: "TL;DR  |
     I am a Data Scientist with a passion for philosophy. I believe in being a generalist, sitting at the corner of data science + product + strategy"
 
 text_align_left: true
