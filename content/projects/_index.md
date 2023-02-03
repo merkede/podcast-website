@@ -18,6 +18,7 @@ sidebar:
       - Wrap Note Automation
       - Biogas Fuel level prediction
       - HH Settlement short term forecasting
+      - UIG forecasting
     
 # set up common front matter for all pages inside blog/
 cascade:
