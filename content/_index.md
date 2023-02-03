@@ -3,9 +3,7 @@ title: "Hamzah Javaid"
 subtitle: "Data scientist (with philosophical tendencies)"
 
 description: "TL;DR  |
-    I am a lead data scientist with a passion for philosophy, who also enjoys writing and creating podcasts. While my writing may not be on par with the
-    greats like Shakespeare, in true data science fashion I have sought the assistance of ChatGPT to enhance this introduction. Please take a gander, read
-    on, and listen to my podcast."
+    I am a Data Scientist with a passion for philosophy. I believe in being a generalist, sitting at the corner of data science + product + strategy. I may or may not have sought the assitance of ChatGPT in writing this introduction ...."
 
 text_align_left: true
 
