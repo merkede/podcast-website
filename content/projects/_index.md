@@ -17,6 +17,7 @@ sidebar:
       - Predictive Maintanence
       - Wrap Note Automation
       - Biogas Fuel level prediction
+      - HH Settlement short term forecasting
     
 # set up common front matter for all pages inside blog/
 cascade:
