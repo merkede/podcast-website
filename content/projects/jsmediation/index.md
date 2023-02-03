@@ -37,6 +37,15 @@ answering the questions with a series of questions:
 
 [Have](https://www.databricks.com/glossary/predictive-maintenance)
 
+# Refurbushed vs. Non-refurbished
+
+
+
+# Association rule mining
+
+
+
+# Anomaly part order detection
 
 a look at [the documentation](https://jsmediation.cedricbatailler.me/) and 
 give it a shot!
