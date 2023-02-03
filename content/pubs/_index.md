@@ -1,7 +1,7 @@
 ---
-title: A Project Portfolio
-description: "Some of the projects I've been involved with"
-author: "Zoë Turner"
+title: Podcast
+description: "Welcome to the 1 Gallon Podcast"
+author: "Hamzah Javaid"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
@@ -13,7 +13,7 @@ sidebar:
   title: Packages, GitHub code repositories and Hackathons I've contributed to.
   description: |
     
-  author: "Zoë Turner"
+  author: "Hamzah Javaid"
   text_link_label: ""
   text_link_url: ""
   show_sidebar_adunit: false # show ad container
