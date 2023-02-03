@@ -7,7 +7,7 @@ theme = 'apero'
 
 ignoreFiles = [ "\\.qmd$", "\\.ipynb$" ]
 
-googleAnalytics = "G-CSC1TRYSDL"
+googleAnalytics = ""
 
 [markup]
   defaultMarkdownHandler = "goldmark"
@@ -38,7 +38,7 @@ googleAnalytics = "G-CSC1TRYSDL"
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "cedricbatailler"
+  twitter = ""
 
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -68,6 +68,13 @@ googleAnalytics = "G-CSC1TRYSDL"
     label = "comments :crystal_ball:"
 
 # NAVBAR ----------------------------------------------------------------------
+
+
+  # show/hide social icons in site header/footer/home page
+  socialInHeader = false
+  socialInFooter = true
+  socialInHome = true
+  
 [menu]
   [[menu.header]]
     name = "Personal blog"
