@@ -35,7 +35,10 @@ answering the questions with a series of questions:
 
 > Using IoT and data analytics to predict and prevent breakdowns can reduce overall downtime by 50%. (McKinsey)
 
-Have a look at [the documentation](https://jsmediation.cedricbatailler.me/) and 
+[Have](https://www.databricks.com/glossary/predictive-maintenance)
+
+
+a look at [the documentation](https://jsmediation.cedricbatailler.me/) and 
 give it a shot!
 
 [^1]: Yeah. It happens.
