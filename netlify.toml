@@ -1,5 +1,3 @@
-"https://cedricbatailler-cv.netlify.app/"
-
 [build] 
   publish = "public"
   command = "hugo"
