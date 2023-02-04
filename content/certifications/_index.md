@@ -1,9 +1,9 @@
 ---
-title: A collection of paper
+title: Certification
 description: "Some of the projects I've been involved with"
 author: "Hamzah Javaid"
 show_post_thumbnail: true
-show_author_byline: true
+show_author_byline: false
 show_post_date: false
 # for listing page layout
 layout: list-grid # list, list-sidebar, list-grid
@@ -25,7 +25,7 @@ cascade:
   show_disqus_comments: false # see disqusShortname in site config
   # for single-sidebar layout only
   sidebar:
-    text_link_label: View all projects
+    text_link_label: View certifications
     text_link_url: /certifications/
     show_sidebar_adunit: true # show ad container
 ---
