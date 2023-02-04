@@ -1,7 +1,7 @@
 ---
 title: "Azure AI Engineer Associate"
 subtitle: ""
-excerpt: "I succesfully put my Azure skills to the test and passed the Azure AI Associate exam."
+excerpt: "I succesfully put my Azure skills to the test and passed the Azure AI Engineer Associate exam."
 date: "2022-11-06"
 date_end: "2019-11-07"
 author: "Hamzah Javaid"
@@ -25,4 +25,6 @@ links:
 ### Azure AI Engineer
 ---
 
-I succesfully put my Azure skills to the test and passed the Azure AI Associate exam on Dec 2022.
+I succesfully put my Azure skills to the test and passed the Azure AI Engineer Associate exam on Dec 2022.
+
+https://www.credly.com/badges/c540857c-f8c3-42db-8c2c-f11fefafb30c/public_url
