@@ -1,6 +1,6 @@
 ---
-title: Podcast
-description: "Welcome to the 1 Gallon Podcast"
+title: My Podcast
+description: ""
 author: "Hamzah Javaid"
 show_post_thumbnail: true
 show_author_byline: true
