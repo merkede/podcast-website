@@ -34,7 +34,7 @@ googleAnalytics = ""
   favicon = ""
   logo = ""
 
-  mainSections = ["blog", "projects", "pubs","rapsheet"]
+  mainSections = ["blog", "projects", "pubs", "certifications"]
   navallcaps = true
 
   # TODO: update social sharing image
@@ -101,7 +101,7 @@ googleAnalytics = ""
    [[menu.header]]
     name = "Certifications"
     title = "My collection of paper"
-    url = "/rapsheet/"
+    url = "/certifications/"
     weight = 4
     
   [[menu.header]]
