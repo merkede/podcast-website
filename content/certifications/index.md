@@ -26,7 +26,7 @@ cascade:
   # for single-sidebar layout only
   sidebar:
     text_link_label: View all projects
-    text_link_url: /rapsheet/
+    text_link_url: /certifications/
     show_sidebar_adunit: true # show ad container
 ---
 
