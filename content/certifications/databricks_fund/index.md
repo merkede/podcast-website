@@ -16,7 +16,7 @@ links:
   icon_pack: fas
   name: website
   url: https://credentials.databricks.com/0f6fe2c1-92ae-405a-a69f-f6dba8a0ffb2
-  ---
+---
 
 ![Lakehouse Fundamentals](featured-hex.png)
 
