@@ -2,11 +2,11 @@
 title: My Podcast
 description: ""
 author: "Hamzah Javaid"
-show_post_thumbnail: false
+show_post_thumbnail: true
 show_author_byline: false
 show_post_date: false
 # for listing page layout
-layout: list-grid # list, list-sidebar, list-grid
+layout: list-grid
 
 # for list-sidebar layout
 sidebar: 
