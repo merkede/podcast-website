@@ -2,7 +2,7 @@
 title: "Databricks Fundamentals"
 subtitle: ""
 excerpt: "I put my data science skills to the test and passed the Databricks Fundamentals exam."
-date: 2022-04-11
+date: 2022-01-01
 author: "Hamzah Javaid"
 draft: false
 tags:
