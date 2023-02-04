@@ -1,7 +1,7 @@
 ---
 title: "Azure AI Engineer Associate"
 subtitle: ""
-excerpt: "I succesfully put my Azure skills to the test and passed the Data Scientist Associate exam."
+excerpt: "I succesfully put my Azure skills to the test and passed the Azure AI Associate exam."
 date: "2022-11-06"
 date_end: "2019-11-07"
 author: "Hamzah Javaid"
@@ -25,4 +25,4 @@ links:
 ### Azure AI Engineer
 ---
 
-I succesfully put my Azure skills to the test and passed the Data Scientist Associate exam on Dec 2022.
+I succesfully put my Azure skills to the test and passed the Azure AI Associate exam on Dec 2022.
