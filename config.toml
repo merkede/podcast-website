@@ -85,27 +85,29 @@ googleAnalytics = ""
     title = "My project portfolio"
     url = "/blog/"
     weight = 1
+    
   [[menu.header]]
     name = "Projects"
     title = "My project portfolio"
     url = "/projects/"
-    weight = 1
+    weight = 2
+    
   [[menu.header]]
     name = "Podcast"
     title = "My project portfolio"
     url = "/pubs/"
-    weight = 2
+    weight = 3
     
     name = "Certifications"
     title = "My collection of paper"
     url = "/rapsheet/"
-    weight = 3
+    weight = 4
     
   [[menu.header]]
     name = "Contact"
     title = "My project portfolio"
     url = "/contact/"
-    weight = 4   
+    weight = 5   
   
   [[menu.footer]]
     name = "License"
