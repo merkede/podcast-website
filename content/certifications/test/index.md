@@ -1,15 +1,15 @@
 ---
-title: "Health Economics Hackathon 2019"
-subtitle: "Successful in an application to Imperial College London's first health economics in R hackathon."
-excerpt: "Over 2 days in November 2019 Imperial College London hosted the first health economics in R hackathon. It involved small group project work developing novel health economics tools, as well as training in related data science skills."
-date: "2019-11-06"
+title: "Azure Data Scientist Associate"
+subtitle: ""
+excerpt: "I succesfully put my Azure skills to the test and passed the Data Scientist Associate exam."
+date: "2022-11-06"
 date_end: "2019-11-07"
-author: "Zoë Turner"
+author: "Hamzah Javaid"
 draft: false
 tags:
   - hackathon
 categories:
-  - R
+  - certification
 # layout options: single or single-sidebar
 layout: single
 links:
@@ -27,7 +27,7 @@ links:
   url: https://github.com/HealthEconomicsHackathon
 ---
 
-![Health Economics Hackathon 2019](featured-hex.png)
+![Azure Data Scientist Associate](featured-hex.png)
 
 ### Health Economics Hackathon 2019
 ---
