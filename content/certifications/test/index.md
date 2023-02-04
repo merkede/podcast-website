@@ -5,6 +5,7 @@ excerpt: "I succesfully put my Azure skills to the test and passed the Data Scie
 date: "2022-11-06"
 date_end: "2019-11-07"
 author: "Hamzah Javaid"
+show_post_thumbnail: true
 draft: false
 tags:
   - certification
