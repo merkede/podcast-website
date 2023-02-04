@@ -6,9 +6,9 @@ date: 2022-04-11
 author: "Hamzah Javaid"
 draft: false
 tags:
-  - ethics
+  - certification
 categories:
-  - ethics
+  - certification
 # layout options: single or single-sidebar
 layout: single
 links:
