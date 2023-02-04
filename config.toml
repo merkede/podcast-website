@@ -34,7 +34,7 @@ googleAnalytics = ""
   favicon = ""
   logo = ""
 
-  mainSections = ["blog", "projects", "pubs"]
+  mainSections = ["blog", "projects", "pubs","rapsheet"]
   navallcaps = true
 
   # TODO: update social sharing image
@@ -95,18 +95,30 @@ googleAnalytics = ""
     title = "My project portfolio"
     url = "/pubs/"
     weight = 2
+    
+    name = "Certifications"
+    title = "My collection of paper"
+    url = "/rapsheet/"
+    weight = 3
+    
   [[menu.header]]
     name = "Contact"
     title = "My project portfolio"
     url = "/contact/"
-    weight = 3
+    weight = 4   
   
   [[menu.footer]]
     name = "License"
     title = "License"
     url = "/license/"
     weight = 1
-
+    
+  [[menu.footer]]
+    name = "LinkedIn"
+    title = "linkedin"
+    url = "https://www.linkedin.com/in/hamzah-j/"
+    weight = 2
+    
 [[params.social]]
     icon      = "linkedin" 
     icon_pack = "fab"
