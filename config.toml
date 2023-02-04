@@ -98,6 +98,7 @@ googleAnalytics = ""
     url = "/pubs/"
     weight = 3
     
+   [[menu.header]]
     name = "Certifications"
     title = "My collection of paper"
     url = "/rapsheet/"
