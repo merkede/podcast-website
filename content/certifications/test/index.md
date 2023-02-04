@@ -20,7 +20,7 @@ links:
   url: https://www.credly.com/badges/c540857c-f8c3-42db-8c2c-f11fefafb30c/public_url
 ---
 
-![Azure AI Engineer Associate](image.png)
+![Azure AI Engineer Associate](featured-hex.png)
 
 ### Azure AI Engineer
 ---
