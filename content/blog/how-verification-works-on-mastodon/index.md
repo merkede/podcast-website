@@ -49,7 +49,7 @@ Winston Churchill famously had the quote:
 
 > “Those who plan do better than those who do not plan, even should they rarely stick to their plan”.
 
-Embedded within this quote is the acknowledgement - making a plan is everything, whether or not you are able to stick with it is not always in your control. As a first-time manager, I set goals, objectives, and targets for my direct report (DR) as best I could. I read 'Measure what matters' by John Doerr and had started listening to my first ever audiobook 'The Making of a Manager' by Julie Zhuo - what more could you ask more. 
+Embedded within this quote is the acknowledgement - making a plan is everything, whether or not you are able to stick with it is not always in your control. As a first-time manager, I set goals, objectives, and targets for my direct report (DR) as best I could. I read 'Measure what matters' by John Doerr and had started listening to my first ever audiobook 'The Making of a Manager' by Julie Zhuo and studied Google's Aristotle project - what more could you ask more. 
 
 ------------------------------------------------------------------------
 
