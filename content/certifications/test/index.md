@@ -1,5 +1,5 @@
 ---
-title: "Azure Data Scientist Associate"
+title: "Azure AI Engineer Associate"
 subtitle: ""
 excerpt: "I succesfully put my Azure skills to the test and passed the Data Scientist Associate exam."
 date: "2022-11-06"
@@ -7,7 +7,7 @@ date_end: "2019-11-07"
 author: "Hamzah Javaid"
 draft: false
 tags:
-  - hackathon
+  - certification
 categories:
   - certification
 # layout options: single or single-sidebar
