@@ -27,7 +27,7 @@ links:
   url: https://github.com/HealthEconomicsHackathon
 ---
 
-![Azure Data Scientist Associate](featured-hex.png)
+![Azure AI Engineer Associate](image.png)
 
 ### Health Economics Hackathon 2019
 ---
