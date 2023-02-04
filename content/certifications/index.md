@@ -22,7 +22,7 @@ sidebar:
     
 # set up common front matter for all pages inside blog/
 cascade:
-  type: project
+  type: certifications
   author: "Hamzah Javaid"
   show_author_byline: true
   show_post_date: true
@@ -31,6 +31,6 @@ cascade:
   # for single-sidebar layout
   sidebar:
     text_link_label: View all projects
-    text_link_url: /rapsheet/
+    text_link_url: /certifications/
     show_sidebar_adunit: false # show ad container
 ---
