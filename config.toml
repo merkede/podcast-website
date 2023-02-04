@@ -34,7 +34,7 @@ googleAnalytics = ""
   favicon = ""
   logo = ""
 
-  mainSections = ["blog", "projects", "pubs"]
+  mainSections = ["blog", "projects", "pubs","rapsheet"]
   navallcaps = true
 
   # TODO: update social sharing image
