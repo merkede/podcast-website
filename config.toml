@@ -1,9 +1,19 @@
 baseURL = "https://exquisite-cendol-df57ee.netlify.app/"
+theme = "hugo-apero"
+languageCode = "en"
+title = "Hugo Apéro"
+copyright = "" # set to override the auto generated copyright using org info and now year
+author = "Hamzah Javaid"
+googleAnalytics = ""
+disqusShortname = ""
+metaDataFormat = "yaml"
+footnoteReturnLinkContents = "&#8617;"
 
-languageCode = 'en-us'
-title = 'Hamzah Javaid'
 
-theme = 'apero'
+#languageCode = 'en-us'
+#title = 'Hamzah Javaid'
+
+#theme = 'apero'
 
 ignoreFiles = [ "\\.qmd$", "\\.ipynb$" ]
 
