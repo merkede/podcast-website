@@ -23,8 +23,8 @@ googleAnalytics = ""
 
 # HUGO-APERO SETTINGS ---------------------------------------------------------
 [params]
-  orgName = "Made by Hamzah Javaid"
-  orgLocal = ""
+  orgName = ""
+  orgLocal = "Made by Hamzah Javaid"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
 
   favicon = ""
