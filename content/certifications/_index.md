@@ -1,6 +1,6 @@
 ---
-title: Certification
-description: "Some of the projects I've been involved with"
+title: CERTIFICATIONS
+description: ""
 author: "Hamzah Javaid"
 show_post_thumbnail: true
 show_author_byline: false
