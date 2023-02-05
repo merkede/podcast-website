@@ -3,16 +3,12 @@ date: 2021-11-10
 
 title: Social Learning Theory
 subtitle: |
-
-summary: |
   Social Learning Theory, the brainchild of psychologist Albert Bandura, 
   sheds light on the fact that humans are capable of learning through the 
   observations and mimicking of those around them. 
-  This concept highlights the power of our environment in shaping our behaviors and attitudes, 
-  and presents a unique perspective for managers looking to foster a culture of excellence and 
-  growth within their team or organization. By identifying positive role models and providing opportunities 
-  for individuals to learn and emulate their practices, managers can create a thriving learning environment that drives success. T
-  he theory sheds a new light on the old saying: "Actions speak louder than words."
+
+summary: |
+  The theory sheds a new light on the old saying: "Actions speak louder than words."
 
 description: |
     my journey managing a non-tech graduate in the tech field of data science.
