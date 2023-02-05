@@ -8,11 +8,11 @@ subtitle: |
 summary: |
   .........
 
-description: |
-    The Reductionist and System views are two sides of a coin, both striving to decipher the mystery of the universe. However, the former dissects 
-    phenomena into its atomic elements, illuminating their behavior in a solitary light, while the latter sees the world through a kaleidoscopic lens, 
-    grasping the interwoven tapestry of all its elements, leading to a comprehensive understanding of the system at large.
-
+description: | 
+  The Reductionist and System views are two sides of a coin, both striving to decipher the mystery of the universe. However, the former dissects 
+  phenomena into its atomic elements, illuminating their behavior in a solitary light, while the latter sees the world through a kaleidoscopic lens, 
+  grasping the interwoven tapestry of all its elements, leading to a comprehensive understanding of the system at large.
+   
 author: Hamzah Javaid
 
 show_post_date: true
