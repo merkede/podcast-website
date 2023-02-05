@@ -1,7 +1,7 @@
 ---
 date: 2022-06-10
 
-title: Aristotle Project - Google
+title: Project Aristotle - Google
 subtitle: |
   The challenge of shaping a person's future and career without any formal training - a typical scenario.
 
