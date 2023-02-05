@@ -3,12 +3,12 @@ date: 2022-06-10
 
 title: Project Aristotle - Google
 subtitle: |
-  The challenge of shaping a person's future and career without any formal training - a typical scenario.
+
 
 summary: |
-  Managing can be a formidable task - some may find it effortless
-  while others may struggle. Nevertheless, I've gleaned valuable insights
-  through my experience, and I'd like to share my key learnings below.
+  Project Aristotle delves into the complex realm of human relationships and teamwork, offering a systematic approach to understanding and improving group 
+  dynamics. Through analyzing the various components that make up a successful team, Project Aristotle aims to break down and comprehend the intricacies 
+  of interpersonal relationships, ultimately leading to a holistic, more complete understanding of what makes a team truly great.
 
 description: |
     my journey managing a non-tech graduate in the tech field of data science.
