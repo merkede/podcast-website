@@ -1,9 +1,11 @@
 ---
 date: 2022-06-10
 
-title: Reductionist view vs System view
+title: Reductionist v/s System 
 subtitle: |
-  Sharing two scientific methods of attaining knowledge.
+  The Reductionist and System views are two sides of a coin, both striving to decipher the mystery of the universe. However, the former dissects phenomena 
+  into its atomic elements, illuminating their behavior in a solitary light, while the latter sees the world through a kaleidoscopic lens, grasping the 
+  interwoven tapestry of all its elements, leading to a comprehensive understanding of the system at large..
 
 summary: |
   .........
@@ -27,84 +29,46 @@ tags:
 
 ---
 
-**A reductionist view** To understand the whole we must break it down into it's component parts and study each component.
+**A Reductionist view** To understand the whole we must break it down into it's component parts and study each component.
 
-**A system's view** To understand the whole, you must study it as a whole and understand how the various components interact, inter-relate and are interconnected to produce an outcome that is greater than the sum of its parts.
+**A System view** To understand the whole, you must study it as a whole and understand how the various components interact, inter-relate and are interconnected to produce an outcome that is greater than the sum of its parts.
 
-You have the power to influence a person’s mental wellbeing, their hopes and desires, their confidence and self-development. Management is coaching, training, mentoring and so much more. At least that was my belief going into the role - I took the role of manager extremely seriously. 
+## Reductionist view
 
->	"people leave managers not companies"
+The reductionist viewpoint has a long and fascinating history, rooted in the scientific revolution of the 17th century and the works of early philosophers such as Francis Bacon and René Descartes. These thinkers believed that the natural world could be understood by breaking it down into its component parts and examining each piece individually, a process they referred to as "analysis." This approach was based on the idea that the behavior of complex systems could be understood by understanding the behavior of their individual parts.
 
-As a budding philosopher, I always start with “why”. Personally, I find I subscribe to a somewhat deterministic view, and so I asked myself the following questions: 
+One of the earliest proponents of reductionism was the ancient Greek philosopher, Democritus, who held that all matter could be reduced to individual atoms. This idea was later adopted by the philosopher René Descartes, who advocated for a reductionist approach to understanding the natural world. In the 17th century, the mechanistic philosophy of René Descartes had a profound impact on the development of science and the reductionist view became increasingly popular.
 
-- Why do I want to be a manager?
-- Why this person and why me?
-- What is expected of me?
-- How do I know if I’ve succeeded, whatever ‘success’ is?
+In the field of physics, the reductionist view was further strengthened by the work of Isaac Newton, who showed that the motion of objects in the physical world could be described in terms of simple mathematical laws. This reductionist approach to physics was highly successful and was applied to other areas of science, including biology and chemistry.
 
-The truth is, I never fully answered these questions but asking the why helped me shape and understand the how. **As I now reflect on my first stint as Data Science manager, here are 3 key reflections**.
+In the 20th century, the reductionist view was further developed by molecular biology and the study of the genetic code. The discovery of the structure of DNA provided a molecular explanation for many biological processes and cemented the reductionist approach as a dominant paradigm in biology.
 
-
-## Don't be dogmatic with Plan A
-
-Winston Churchill famously had the quote:
-
-> “Those who plan do better than those who do not plan, even should they rarely stick to their plan”.
-
-Embedded within this quote is the acknowledgement - making a plan is everything, whether or not you are able to stick with it is not always in your control. As a first-time manager, I set goals, objectives, and targets for my direct report (DR) as best I could. I read 'Measure what matters' by John Doerr and had started listening to my first ever audiobook 'The Making of a Manager' by Julie Zhuo - what more could you ask more. 
-
-------------------------------------------------------------------------
-
-{{< figure src="img/fosstodon-verification.png" caption="The Making of a Manager by Julie Zhuo" alt="A screenshot of my audiobook library on the Audible app." >}}
-
-------------------------------------------------------------------------
-
-I naively assumed the next 8 months would all go to plan ... it couldn't have been further from the truth. It wasn't that my DR wasn't hard-working, ambitious or intelligent in fact quite the opposite but rather I'd forgetten an important teaching:
-
-> "Humans are as different on the inside as they are on the outside"
-
-Behavioural pyscology teaches us many things about what drives and fundementally motivates human behaviours.  
-
-sometimes people prefer to do things their own way. Our project changed and time became limited, but I still pushed my DR to meet the objectives. This approach only made things worse.
-
-Lesson Learned: Having a plan is essential for success, but being able to adapt and have a backup plan is equally important. Flexibility and an open-minded approach to change can ensure that even when things don't go according to plan, the ultimate goal can still be achieved.
+However, despite its widespread use, the reductionist view has been criticized for its limitations. Some scientists and philosophers argue that it is impossible to fully understand complex systems by simply studying their parts, as the interactions between components can give rise to emergent phenomena that cannot be predicted based on a reductionist approach. This has led to the development of alternative approaches, such as systems thinking, which takes into account the relationships and interactions between components to provide a more comprehensive understanding of complex systems.
 
 
+## System view
 
-## Quarterly and Annual performance reviews are nerve wracking
+The system view is a holistic approach to understanding complex systems and phenomena. Unlike the reductionist view, which focuses on breaking down systems into their individual components in order to understand them, the system view takes a more integrated approach that considers the interconnectedness of all elements within a system.
 
-Allow your team members to be honest, to openly say what they feel and most importantly dom't judge them. As a manager, I remember 
+This view is rooted in the understanding that a system is greater than the sum of its parts and that the interactions between components within a system can have significant impacts on overall system behavior. Proponents of the system view believe that this approach leads to a deeper understanding of complex systems and allows for the identification of opportunities for innovation and improvement that may not be apparent through reductionist thinking.
 
-> We are more honest with search engines than with our family
+The system view has been popularized by thinkers such as Fritjof Capra, who in his book "The Web of Life" argues that, "the whole is greater than the sum of its parts and that the relationships between parts are more important than the parts themselves." Similarly, systems theorist Donella Meadows states, "systems thinking is a discipline for seeing wholes. It is a framework for seeing interrelationships rather than things, for seeing patterns of change rather than static “snapshots.”
+
+Experiments and studies have shown that the system view can lead to improved decision-making and problem-solving in complex systems, as it allows for a more comprehensive understanding of the interactions and dynamics at play. By taking a system view, individuals can identify and address root causes of issues rather than just their symptoms, leading to more sustainable solutions.
+
+In conclusion, the system view is a valuable and sophisticated approach to understanding complex systems that considers the interconnectedness of all elements and recognizes the importance of relationships between components. By embracing this perspective, individuals can gain a deeper understanding of complex systems, drive meaningful change, and foster innovation and progress.
 
 
+## Concluding remarks
 
-To set that up, the only thing one has to do to get the green check mark is to
-reference a ressource that has a link back to their Mastodon profile. Be
-careful, this link MUST have
-[a `rel="me"` attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Link_types/me).
-That is, when I wanted to get a green mark next to my website on
-[my Mastodon account](https://fosstodon.org/@cedricbatailler), all I had to do
-is to write the following:
+Reductionism and Systemism are two fundamentally different views of the world that have far-reaching implications for the way we understand and approach complex problems. Reductionism, as the name suggests, is a view that reduces complex phenomena to their simplest components in order to understand and explain them. This approach is often favored by scientists and engineers, as it provides a clear, simple and testable explanation of how things work.
 
-    <a rel="me" href="https://fosstodon.org/@cedricbatailler">Mastodon</a>
+Systemism, on the other hand, is a view that recognizes the interconnectedness of all things and the importance of considering the whole system in order to understand it. This approach is favored by holistic thinkers and emphasizes the importance of considering the context and interrelationships of all parts of a system in order to fully understand it.
 
-So, if you like lists:
-1. On your website, **put a link to your Mastodon profile** (the link must
-have a `rel=me` attribute)
-2. Go to **your Mastodon profile**, click **Edit profile**, and, in the
-**Profile metadata** section, **add a link to the resource where you put a
-link to your Mastodon profile**
-3. Profit?
+The choice between reductionism and systemism often depends on the specific problem being addressed and the individual's personal philosophical views. For example, when solving a technical problem, reductionism may be the most effective approach, as it provides a clear and simple explanation of how things work. In contrast, when addressing a social or environmental problem, systemism may be the more effective approach, as it considers the interconnectedness of all parts of the system and the impact of those interrelationships on the problem at hand.
 
-## Humans are not code, you find this out quite quickly ...
+In the words of environmental scientist, Donella Meadows, "To the reductionist, the system is nothing more than the sum of its parts. To the systems thinker, the parts are nothing more than manifestations of the system." This quote highlights the fundamental difference between the two views and the importance of considering the interrelationships between all parts of a system when addressing complex problems.
 
-You need to manage people as they want to be managed.
+It is also worth noting that both approaches have their limitations and strengths. Reductionism can lead to oversimplification and a failure to consider the broader context of a problem, while systemism can sometimes lead to complexity and a lack of focus on specific components of a system. In order to fully understand and address complex problems, it may be necessary to adopt a holistic and interdisciplinary approach that incorporates both reductionism and systemism.
 
-In a way, it is closer to a public mail verification (with a website instead
-of mail) than the blue badge, but it if you believe that a verification
-process should be a security feature, it gets the job done. **By taking 5 minutes
-to set that up, you seriously limit the risk of impersonation**. This is
-especially relevant on a website that allows anyone to open an account with
-the same username as yours on any instance. **Do it**.
-
+The choice between reductionism and systemism ultimately depends on the specific problem being addressed and the individual's philosophical views. Both approaches have their strengths and limitations and a holistic, interdisciplinary approach may be necessary to fully understand and address complex problems. As philosopher and systems thinker, Fritjof Capra, famously stated, "The whole is more than the sum of its parts." By adopting a systems view, individuals can gain a deeper understanding of complex problems and drive meaningful progress.
