@@ -1,5 +1,5 @@
 ---
-title: Twitter Dashboard (Hive product)
+title: Twitter Dashboard
 summary: |
   I built a Twitter Dashboard to monitor tweets related to our Hive products
   
