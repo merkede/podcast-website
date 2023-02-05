@@ -8,6 +8,10 @@ show_post_date: false
 # for listing page layout
 layout: list-grid # list, list-sidebar, list-grid
 
+type: project
+cascade:
+  type: project
+
 # for list-sidebar layout
 sidebar: 
   title: Packages, GitHub code repositories and Hackathons I've contributed to.
