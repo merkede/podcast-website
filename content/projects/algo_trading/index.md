@@ -1,5 +1,5 @@
 ---
-title: Simple Algo trading bot
+title: Algorithmic trading bot
 summary: |
   I built a algorthmic trading bot that places optimal trades with virtual money. It taught me many important coding lesssons and broadened my understanding 
   of economic concepts
