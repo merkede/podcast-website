@@ -28,7 +28,7 @@ To successfully practice first principles thinking, a strong foundation in the l
 
 As Aristotle once wisely stated, “The more you know, the more you can do.” And with first principles thinking, individuals can truly know and do more, pushing the boundaries of what’s possible and creating a brighter future for us all.
 
-# DeCarte Philosophy and First Principle Thinking
+## DeCarte Philosophy - First Principle Thinking
 
 René Descartes, the father of modern Western philosophy, is widely known for his contributions to the development of first principles thinking. Descartes is often credited for popularizing the idea of using systematic skepticism and doubt as a method for arriving at certain knowledge. He believed that the pursuit of truth and knowledge must begin with questioning everything we previously believed to be true, and only accepting those beliefs that could be logically deduced from self-evident first principles.
 
@@ -40,7 +40,7 @@ Another notable work by Descartes is "Discourse on Method", in which he lays out
 
 Through his works, Descartes has had a profound impact on the development of first principles thinking, and his ideas continue to be studied and discussed in academic circles to this day. As the philosopher Daniel C. Dennett notes in his book "Intuition Pumps and Other Tools for Thinking", "Descartes' project of finding indubitable foundations for all of our beliefs has had a profound and lasting impact on Western thought."
 
-## Aristotle Philosophy and First Principle Thinking
+## Aristotle Philosophy - First Principle Thinking
 
 Aristotle, the renowned Greek philosopher, was a pioneer in the field of first principles thinking. This method of inquiry involves breaking down complex problems into their most basic components in order to gain a deeper understanding of the underlying principles and relationships.
 
