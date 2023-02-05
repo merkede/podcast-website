@@ -11,194 +11,53 @@ show_author_byline: true
 draft: false
 
 summary: |
-    Follow me on a journey to build this website. The idea is to have a 
-    system that has the fewest steps as  possible to go from a blog post on 
-    my computer to a website living online. Among other, I discuss about 
-    Quarto, Hugo, Github, and Netlify.
+    First principles thinking is a powerful philosophical approach that explores the root causes of complex problems and breaks them down into their most elemental parts. With its unwavering focus on stripping away assumptions and preconceptions, this innovative method empowers individuals to think boldly, creatively, and independently, unlocking novel solutions to even the most intractable challenges.
 
 format: hugo
 
 freeze: auto
 ---
 
-Boil things down to their fundemantal truths, what can we say for certain and then
-reason up from there.
-
-As a first post, I decided to offer a small tour of this website. Or rather,
-of how it works. Let's go on an adventure!
-
-# DeCarte and Aristotle Philosophy
-
 {{< figure src="img/jan-kahanek-g3O5ZtRk2E4-unsplash.jpg" caption="Photo by Jan Kahánek." >}}
 
-So, to start blogging. The first thing one needs to do so is a website. I had
-one, but I wasn't really enthusiastic about it anymore. So all I had to do was
-to build a new system that would work for me. Ideally, this system should
-be minimal--meaning that it should have as few steps as possible between the
-writing of a blog post and its posting, and it should be super easy to show
-code running (because that's what I'd like to put here).
+First principles thinking is a revolutionary method of problem-solving that dares to question conventional wisdom and instead looks at the core building blocks of a system. This approach involves breaking down complex issues into their simplest components and examining each piece individually, allowing for a deeper understanding of the problem at hand.
 
-In the end, I decided to use some pieces of software that I had used
-before and adopt some other. I would use [Quarto](https://quarto.org/)
-to write the blog post and the code it contains, [Hugo](https://gohugo.io/) to
-generate a static website, and to ditch my old-fashioned Academic theme for
-the refreshing [Apéro](https://github.com/hugo-apero/). Here how it works.
+It is an invitation to think differently, to challenge assumptions, and to consider multiple perspectives, all with the goal of finding innovative solutions to complex problems. The beauty of first principles thinking is that it doesn’t just settle for the status quo, it delves into the depths of a problem and uncovers its root causes.
 
-## Quarto to Write and Run the Code
+To successfully practice first principles thinking, a strong foundation in the laws, principles, and technologies of the particular field is essential. It also takes a certain level of creativity, curiosity, and independent thinking to fully embrace this approach. But those who do, can expect to be rewarded with a comprehensive understanding of complex systems and the ability to drive meaningful change.
 
-You probably won't be surprised to learn that the first step of blogging is
-writing. And **I write in what is called Quarto documents**.
+As Aristotle once wisely stated, “The more you know, the more you can do.” And with first principles thinking, individuals can truly know and do more, pushing the boundaries of what’s possible and creating a brighter future for us all.
 
-[Quarto](https://quarto.org/) is a relatively new piece of tech developed by
-the amazing software engineers at [Posit](https://www.rstudio.com/)
-(ex-RStudio). Basically, it offers a way to **combine text and code into a
-single document**. You can run R, Python, or Julia from one place, and then
-decide to turn the annotated results as a PDF file, a markdown document or even a
-PowerPoint presentation.
+# DeCarte Philosophy and First Principle Thinking
 
-The main reasons I picked Quarto are twofold. It is **familiar** and
-**powerful**. First, familiar. Quarto looks a lot like the old
-[Rmarkdown](https://rmarkdown.rstudio.com/) format I was used to[^1]. This
-reduces by a fair amount what I would have to learn to
-build the website. Second, it supports a lot of languages, and even though R
-is--and will always remain--my first love, I have to say that I am looking
-forward to playing with Python (now that I have figured out how to configure my
-environment). Quarto appears to be an amazing tool for people with this
-polyglot mindset.
+René Descartes, the father of modern Western philosophy, is widely known for his contributions to the development of first principles thinking. Descartes is often credited for popularizing the idea of using systematic skepticism and doubt as a method for arriving at certain knowledge. He believed that the pursuit of truth and knowledge must begin with questioning everything we previously believed to be true, and only accepting those beliefs that could be logically deduced from self-evident first principles.
 
-In terms of organization, each of my blog post has its own folder which
-contains a Quarto document where I write the post (an `"index.qmd"`). As I said
-earlier, this document mixes some writing and some code and is used to
-produce an output. When I am done with a post, a `quarto render` command
-in my terminal will **produce a document with the code evaluated within**. In
-other words, a Quarto containing a code chunk with a `read_csv(...)` call in
-it, it will render a document that will show the actual content of the csv I want
-to open.
+One of Descartes' most famous works, "Meditations on First Philosophy", outlines his method of systematic doubt and presents his arguments for the existence of a benevolent God and the immortality of the soul. Through this work, Descartes established the foundation for modern Western philosophy and the scientific method.
 
-If you want to know more about Quarto, and are familiar with rmarkdown, this
-[blog post](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/)
-by Alison Hill is a great introduction!
+In the words of Descartes himself, "I will devote myself sincerely and without reservation to the general demolition of my opinions." This quote speaks to the core of first principles thinking and the importance of being willing to question our own beliefs in order to arrive at a deeper understanding of the truth.
 
-The output I'm asking Quarto to produce is
-[markdown](https://en.wikipedia.org/wiki/Markdown), which consists of a text
-file with minimal formatting (you can put things in *italics*, in **bold**),
-which is perfect for me because the actual pimping of the website won't
-happen here.
+Another notable work by Descartes is "Discourse on Method", in which he lays out a systematic approach to problem-solving. He believed that breaking down complex problems into their simplest components, and then approaching them methodically, would lead to a deeper understanding of the world. This idea is reflected in the famous quote from the work, "Divide each difficulty into as many parts as is feasible and necessary to resolve it."
 
-The next step is to **turn these markdown files into something pretty**, and
-build a website out of this.
+Through his works, Descartes has had a profound impact on the development of first principles thinking, and his ideas continue to be studied and discussed in academic circles to this day. As the philosopher Daniel C. Dennett notes in his book "Intuition Pumps and Other Tools for Thinking", "Descartes' project of finding indubitable foundations for all of our beliefs has had a profound and lasting impact on Western thought."
 
-## Hugo to Write the Website
+## Aristotle Philosophy and First Principle Thinking
 
-A website, most of the time, is nothing more than some files in [HTML
-format](https://en.wikipedia.org/wiki/HTML) put together and served on the
-internet. And, **to turn my markdown files into a bunch of files that can be
-served**, I decided to use is a
-[static website generator](https://en.wikipedia.org/wiki/Static_site_generator)
-called [Hugo](https://gohugo.io/).
+Aristotle, the renowned Greek philosopher, was a pioneer in the field of first principles thinking. This method of inquiry involves breaking down complex problems into their most basic components in order to gain a deeper understanding of the underlying principles and relationships.
 
-The job of a static website generator, as the name suggests, is to build a
-website whose content won't change very often. This is not the case of your
-regular social network that has a feed changing any time you go there. Static
-websites are mostly used for product pages, documentation, or blogs. A feature
-that is especially interesting with static websites is that they do not require
-a [backend](https://en.wikipedia.org/wiki/Frontend_and_backend) to run.
-**Once the website built, it can live its life by itself forever**. This
-should hopefully reduce the need for me to learn new things to
-put the blog online.
+In Aristotle's Nicomachean Ethics, he famously wrote, "We do not inquire in order to know, but we know in order to inquire." This statement captures the essence of first principles thinking, as it prioritizes gaining a foundational understanding of the world in order to guide further inquiry and discovery.
 
-So, back to [Hugo](https://gohugo.io/). The basic idea here is that it will
-**take my collection of markdown files and turns them into a website**. For
-Hugo to do its job, the only thing I had to do is to organize my files onto
-my computer in a way that is understable. Basically, my blog posts needed
-to be on a `content/` folder, and I had to put a config file in the root
-directory.
+Aristotle believed that knowledge was best acquired through a process of induction, where one moves from particular observations to general principles. This approach is in sharp contrast to deductive reasoning, which moves from general principles to specific conclusions.
 
-In a nutshell, all I have to do now is run `hugo server` in a terminal for
-**Hugo to build my website** and serve it onto a local server. How convenient?
+For Aristotle, the pursuit of first principles was not just an intellectual exercise, but also a moral obligation. He believed that understanding the fundamental truths of the world was essential for leading a virtuous life and achieving eudaimonia, or happiness.
 
-Now, of course, there is a bit of tuning to do so that your website
-actually looks like something. The first thing is to **pick a theme**.
+Aristotle's influence on first principles thinking cannot be overstated. His works have inspired countless thinkers over the centuries, and his approach continues to be used in a variety of fields, from philosophy and science to economics and politics.
 
-I had run a website before with Hugo, and decided to ditch my old theme[^2] for
-a fresh new one. I decided to go with the
-[Apéro](https://github.com/hugo-apero/hugo-apero) theme because it was pretty,
-but also because it was used by a looooot of people that inspire me
-([Julia Silge](https://juliasilge.com/) or
-[Jesse Mostipiak](https://www.jessemaegan.com/) to name a few). To use the
-theme, the only thing I had to do is to put its content in a
-`theme/` folder where my website lives[^3]. Once done, Hugo requires you to
-[set up the theme in the config file](https://gohugo.io/getting-started/configuration/#theme)
-and that's it. **My website was living on my computer**.
+In today's world, first principles thinking is more relevant than ever. With the constant barrage of information and the rapid pace of technological change, it is easy to become overwhelmed and lose sight of the underlying principles and values that guide our decisions and actions. By adopting a first principles approach, we can cut through the noise and focus on what truly matters, allowing us to make informed and meaningful contributions to the world.
 
-But of course, if the only place where my website lived was my computer, I
-probably would quickly lose my interest in blogging.
+So, whether we are seeking to understand the workings of the universe, the nature of human existence, or the best way to approach a complex problem, we can look to Aristotle's legacy of first principles thinking as a guide. With its emphasis on clear thinking, deep understanding, and virtuous action, this approach remains as relevant and inspiring today as it was over two thousand years ago.
 
-## Send Everything Online
+## Concluding remarks
 
-{{< figure src="img/jeremy-bezanger-LUjQCeKE0K0-unsplash.png" caption="Photo by Jeremy Bezanger." >}}
+First principles thinking is a game-changer in the world of problem-solving. It empowers individuals to think outside the box, break away from traditional approaches, and dare to question the status quo. The result is a clearer, more comprehensive understanding of complex systems and the potential to unleash innovative solutions that bring real progress.
 
-So far, I have a system that worked perfectly ... on my computer. Because I
-am not the most functional human being (but who is), it is very likely that
-I will lose all my interest in writing if no one can peer pressure me
-about it.
-
-To **share my website with the rest of the world**, I am used two tools, and
-these tools will be the last one I will talk about (for now):
-[GitHub](https://github.com/) and [Netlify](https://www.netlify.com/).
-
-GitHub is probably one of the websites I used the most on a daily basis.
-It serves two purposes in my workflow: I use it to **version and host** any
-piece of software I write. This is a place where my website (or, rather, its
-source code) exists. Netlify, the other tool, is (self-) described
-as **a platform that can use what I put on GitHub to serve my website**. In
-short, it takes the website's source code, runs the `hugo` command, and
-serves the results on the whole internet.
-
-With this setup, any change I make on my computer is then **pushed to
-GitHub** if I want to, and then **lives on the internet within a few minutes**
-(if not seconds).
-
-And that's it, anybody can read what I write!
-
-## Up to Work!
-
-This setup kind of setup is not uncommon, and has the advantage to be very well
-documented online. The Hugo team
-[wrote about it](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/),
-the Netlify
-[wrote about it](https://docs.netlify.com/integrations/frameworks/hugo/), and
-if you want to bypass the Hugo step and go straight from Quarto to Netlify,
-well the Quarto team
-[wrote about it](https://quarto.org/docs/publishing/netlify.html). Overall,
-setting up the website was a bit easier than I expected it. Already
-having a website running with a lot of the same tools sure helped, but I
-did spend more time looking for a pretty theme than working on the putting
-the website online.
-
-Now **the only thing left to do is blogging**. Remember, this was my original
-motivation? And, if everything goes smoothly, you can expect me to document
-some of my project right here! Fingers crossed. 🤞
-
-> **Note**
->
-> This blog post was originally written for an audience interested in
-> building their website, but who would not know where to start.
-> Maybe it was your case, maybe it was not. But now that you've read me,
-> maybe you want to know more. If that's the case, you should totally have a look
-> at [the actual code that builds this website](https://github.com/cedricbatailler/cedricbatailler.me/).
-
-[^1]: Actually, Quarto and Rmarkdown play well together, and it was a 5 minutes
-    job to convert an old Rmarkdown blog post into a new Quarto one.
-
-[^2]: I used to run a website with the Academic theme which was very
-    appropriate given my background. Recent changes in the project, however, added
-    a tight integration with a publishing plateform that I didn't plan on using.
-    To be honnest, I would not recommand using this theme now. The integration
-    made the theme almost unusable.
-
-[^3]: Actually, it is a simplification. I
-    [forked](https://github.com/cedricbatailler/hugo-apero/) the original theme
-    in Github so that I could make some minor tweaks, and I used this new repo as a
-    [git subtree](https://www.atlassian.com/git/tutorials/git-subtree) in my
-    project.
+To truly master this way of thinking, it calls for a combination of creativity, curiosity, and an unyielding spirit of independence. It’s a path less traveled, but one that yields rich rewards for those who embark on it. With first principles thinking, the sky's the limit! So let your imagination run wild, challenge the norm, and revel in the thrill of discovery as you forge a new path towards progress.
