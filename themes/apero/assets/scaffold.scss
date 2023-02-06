@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5, h6 {
 .site-brand,
 .site-links a,
 .site-header .social-icon-links a,
-.site-footer .site-copyright a,
+//.site-footer .site-copyright a,
 .site-footer .social-icon-links a,
 .page-main a.link {
   @extend .#{$navLinkColor};
@@ -86,9 +86,9 @@ h1, h2, h3, h4, h5, h6 {
 .page-sidebar a:not(.link) {
   @extend .#{$sidebarLinkColor};
 }
-.site-footer {
-  @extend .#{$footerTextColor};
-}
+//.site-footer {
+//  @extend .#{$footerTextColor};
+//}
 
 // apply tachyons classes to blog post and single page markdown
 .post-body,
