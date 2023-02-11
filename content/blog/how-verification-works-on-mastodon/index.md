@@ -69,6 +69,11 @@ Lesson Learned: Having a plan is essential for success, but being able to adapt 
 
 
 
+## The desire to be a people pleaser. A manager can be friendly but not a friend
+
+
+
+
 ## Quarterly and Annual performance reviews are nerve wracking
 
 Allow your team members to be honest, to openly say what they feel and most importantly dom't judge them. As a manager, I remember 
