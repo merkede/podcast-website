@@ -1,7 +1,7 @@
 ---
 date: 2022-11-10
 
-title: Activr Listening
+title: Active Listening
 subtitle: |
   The challenge of shaping a person's future and career without any formal training - a typical scenario.
 
@@ -22,7 +22,7 @@ draft: false
 
 freeze: auto
 tags:
-- Manager
+- Personal Development
 - Reflections
 
 ---
