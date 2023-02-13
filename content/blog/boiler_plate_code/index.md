@@ -33,13 +33,126 @@ tags:
 
 
 
-## Don't be dogmatic with Plan A
+## Boiler Plate Code
 
-Winston Churchill famously had the quote:
+<div id="top"></div>
 
-> “Those who plan do better than those who do not plan, even should they rarely stick to their plan”.
+[![Board Status](https://dev.azure.com/****/824b94ff-2a6c-4f15-994c-9a1122d737e2/5308930b-0a57-4797-98c8-df10a58a4b60/_apis/work/boardbadge/66871373-1db6-42eb-bebc-f62d4188726b?columnOptions=1)](https://dev.azure.com/Centrica-EngineeringServices/824b94ff-2a6c-4f15-994c-9a1122d737e2/_boards/board/t/5308930b-0a57-4797-98c8-df10a58a4b60/Microsoft.RequirementCategory/)
 
-Embedded within this quote is the acknowledgement - making a plan is everything, whether or not you are able to stick with it is not always in your control. As a first-time manager, I set goals, objectives, and targets for my direct report (DR) as best I could. I read 'Measure what matters' by John Doerr and had started listening to my first ever audiobook 'The Making of a Manager' by Julie Zhuo and studied Google's Aristotle project - what more could you ask more. 
+<h3 align="center">Wrap Note Automation | Status: Active</h3>
+</div>
+
+## Objective Supported
+![objective_image](***/images/strategy/contact.png?csf=1&web=1&e=NaBIbP)
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#project-overview">Project Overview</a>
+    </li>
+    <li>
+      <a href="#initial-mvp-breakdown">Initial MVP Breakdown</a>
+    </li>
+    <li>
+      <a href="#business-metric/s-targetted">Business metric/s targetted</a>
+    </li>
+    <li>
+      <a href="#stakeholders-&-ceremonies">Stakeholders & Ceremonies</a>
+    </li>
+    <li>
+      <a href="#additional-items-for-definition-of-ready">Additional Items for Definition of Ready</a>
+    </li>
+    <li>
+      <a href="#high-level-process-documentation">High level process documentation</a>
+    </li>
+    <li>
+      <a href="#data-location-/-details">Data location / Details</a>
+    </li>
+    <li>
+      <a href="#detailed-process-documentation">Detailed process documentation</a>
+    </li>
+  </ol>
+</details>
+
+## Project Overview:
+| Work Stream | Project Title | High Level Description | Type | Indicative business value | Initial timescale | Long Term Goal | Date Raised |
+| -----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| Net Zero | Wrap Note Automation (Contact Strategy) | Improving call centre efficiency by trialling the automation of wrap notes | POC | 💷TBC | 3 months | A proof of concept that allows for a decision to be made whether to take it trial and look to implement on a larger scale | Nov '22 |
+
+## Initial MVP Breakdown:
+- MVP 1: *********
+- MVP 2: *********
+- MVP 3: *********  
+
+
+## Business metric/s targetted:
+|  | 🤬 Complaints | ☎️ Contact | 🚦 NPS | 📆 Reschedules | 📊 Solver/RFT/FTF | ⏳ Efficiency/FTE | 💻 OAM |
+| -----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| Increase 🔼 / 🔽 Reduction | ✔️ |  | ✔️ |  |  | ✔️ |  |
+
+_________________________
+
+## Stakeholders & Ceremonies
+
+*✔️: Required, 💬: Optional Invite, ❌: Not required*
+
+| Event | 👨‍👩‍👦 Project Team | 👨‍🏫 Project Lead | 🗝️ Product Owner | 👨‍💻 Manager | 👩‍💼 Senior Manager | 🕵️‍♀️ Subject Matter Expert (SME)|
+| -----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+|  | *********,Hamzah, Ed | Eleanor ****| **** | **** | **** | **** |
+| **Backlog Planning & Refinement** | 💬 | ✔️ | ✔️ | 💬 | 💬 | ❌ |
+| **Action (Task) Planning** | 💬 | ✔️ | ❌ | 💬 | ❌ | ❌ |
+| **Stand-up** | ✔️ | ✔️ | ❌ | ✔️ | ❌ | ❌ |
+| **Sprint Review** | ✔️ | ✔️ | ✔️ | ✔️ | ✔️ | ❌ |
+| **Retrospective** | ✔️ | ✔️ | ❌ | 💬 | ❌ | ❌ |
+| **Team Meeting** | ✔️ | ✔️ | ❌ | ✔️ | 💬 | ❌ |
+| **DS Workshop** | ✔️ | ✔️ | ❌ | ✔️ | ❌ | ❌ |
+
+_________________________
+
+## Additional Items for Definition of Ready:
+| Item | Details | Notes / Mitigation (Optional) |
+| -----------: | :-----------: | :-----------: | 
+| Data location/s identified | ✔️ | [comment] |
+| Data location/s accessible | ✔️ | Accessible through extracts, but will require API access also |
+| Labour resource needed (eg # Data Scientists) | 2 x Data Scientists |  [comment] |
+| Technical Resource needed () | Databricks, Azure ML | [comment] |
+| Technical Skillset required | NLP  | [comment] |
+| Personal/Sensitive Data Used | ✔️ | Data obviscated and stored in locked down container  |
+| Privacy Impact Assessment Required | ✔️ | PIA Ref: ****|
+| Tangible output | Dataset summarisation of wrap notes | Highly sensitive data obviscated, and data stored in locked down container |
+| Other dependencies (Optional) | [List here] | [comment] |
+
+_________________________
+
+## High level process documentation:
+**Current process: -**  
+****
+
+Hive contact agent SME: **** (manager of call centre graduate **** - she is leaving her placement soon and her manager **** has agreed to take over for any questions)
+
+**Intended process: -**  
+****
+:::mermaid
+graph TD;
+    A[Customer speaks to agent] --> B(Agent fulfills what is required and hangs up call) --> C(Agent picks up next call) --> D[NLP model produces wrap notes from transcripts and attaches to account]
+:::
+
+## Data location / Details:
+****
+
+BLOCKER: ****
+BLOCKER: ****
+BLOCKER: ****
+
+## Intended progress of the project:  
+1) ****  
+2) ****
+3) ****
+
+
+
 
 ------------------------------------------------------------------------
 
