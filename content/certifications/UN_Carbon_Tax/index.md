@@ -20,7 +20,7 @@ links:
   url: https://www.credly.com/badges/c540857c-f8c3-42db-8c2c-f11fefafb30c/public_url
 ---
 
-![UN Carbon Taxation](featured-hex.png)
+![UN Carbon Taxation](featured-hex.jpeg)
 
 ### UN Carbon Taxation
 ---
