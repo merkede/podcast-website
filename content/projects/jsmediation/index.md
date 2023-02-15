@@ -16,7 +16,12 @@ links:
     url: https://github.com/cedricbatailler/jsmediation
 ---
 
-## Managing the stakeholder
+# TL;DR
+
+TL;DR - 
+
+
+# Managing the stakeholder
 
 - Our stakeholder approaches us with the problem 'Are breakdowns predictable?'
 
