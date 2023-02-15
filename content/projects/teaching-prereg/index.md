@@ -26,7 +26,9 @@ It would follow, that should half-hour be accurate enough to predict settlement 
 
 In order to test this – SMART and Settlement values have been compared under 2 iteration.
 
-
+------------------------------------------------------------------------
+{{< figure src="img/Agent_Tenure.jpg" caption="Average Agent Tenure and volumes of Agents by Tenure" >}}
+------------------------------------------------------------------------
 
 # What is Hedging ...
 
