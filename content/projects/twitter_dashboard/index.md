@@ -18,7 +18,12 @@ links:
     url: https://github.com/cedricbatailler/jsmediation
 ---
 
-# What is the problem, Is it a problem worth solving ...
+# TL;DR
+
+TL;DR - 
+
+
+What is the problem, Is it a problem worth solving ...
 
 # What is Hedging ...
 
