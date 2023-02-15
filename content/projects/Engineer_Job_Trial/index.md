@@ -27,30 +27,12 @@ links:
 # Hard Trial
 
 
-
-- Our stakeholder approaches us with the problem 'Are breakdowns predictable?'
-
-The short answer, if I was a betting man, would be 'I think so'. Perhaps another answer could involve
-answering the questions with a series of questions:
-
-1) Why are you asking?
-2) What problem are you trying to solve?
-3) Is it a problem worth solving?
-4) Do we collect the data --- data collection is huge here!!
-
-Effects things have on other are sometimes indirect. Let's take an example
-involving a soccer ball and a broken glass. Sometimes, you will break a glass by
-shooting the ball right onto it. But sometimes not. Sometimes, the ball will
-land next to a cat, a cat peacefully sleeping on someone's lap. Sometimes, the 
-cat will end up scared which will result in a jump right onto a table, table 
-on which was the glass[^1]. Indirect.
-
-And, sometimes, it is important to investigate how these indirect effets are 
-chained. It is known that people are less likely to buy drugs with complex 
-name[^2]. But why? What is the chain behind this effect?
+# Mlflow
 
 
-# Is this a problem? Is it worth solving?
+
+# Databricks
+
 
 **Mediation analysis** is a statistical tool that can be use to find out that 
 the reason why people are less likely to buy drugs with complex name is because 
