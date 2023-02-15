@@ -1,9 +1,7 @@
 ---
 title: HH Settlement short term forecasting
 summary: |
-  Let's not work to solve a problem, let us try In social science, statistical mediation models are a popular method to show
-  causality. The `JSmediation` package implements mediation models in an 
-  easy-to-use R package.
+  Real-time optimization & Balancing using Smart Meters
 date: 2019-06-13
 categories:
   - R package
@@ -27,7 +25,7 @@ The general purpose of this presentation is to ascertain the accuracy with which
 It would follow, that should half-hour be accurate enough to predict settlement values, so shall 10s SMART meter data.
 
 In order to test this – SMART and Settlement values have been compared under 2 iteration.
-![image](https://user-images.githubusercontent.com/123862480/219054915-b576743d-3f37-4474-8d2a-9a96b38f3bcf.png)
+
 
 
 # What is Hedging ...
