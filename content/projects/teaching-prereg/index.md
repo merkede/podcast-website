@@ -21,6 +21,15 @@ links:
 
 # What is the problem, Is it a problem worth solving ...
 
+The general purpose of this presentation is to ascertain the accuracy with which half-hour SMART meter data can be utilised to predict settlement values.
+
+
+It would follow, that should half-hour be accurate enough to predict settlement values, so shall 10s SMART meter data.
+
+In order to test this – SMART and Settlement values have been compared under 2 iteration.
+![image](https://user-images.githubusercontent.com/123862480/219054915-b576743d-3f37-4474-8d2a-9a96b38f3bcf.png)
+
+
 # What is Hedging ...
 
 - Our stakeholder approaches us with the problem 'Are breakdowns predictable?'
