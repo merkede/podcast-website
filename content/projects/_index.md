@@ -16,6 +16,7 @@ sidebar:
     A collection of projects which made the final cut. Have a look 
       - Predictive Maintanence
       - Wrap Note Automation
+      - Engineer Job Times
       - Biogas Fuel level prediction
       - HH Settlement short term forecasting
       - UIG forecasting
