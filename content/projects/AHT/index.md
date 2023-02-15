@@ -39,9 +39,12 @@ land next to a cat, a cat peacefully sleeping on someone's lap. Sometimes, the
 cat will end up scared which will result in a jump right onto a table, table 
 on which was the glass[^1]. Indirect.
 
-And, sometimes, it is important to investigate how these indirect effets are 
-chained. It is known that people are less likely to buy drugs with complex 
-name[^2]. But why? What is the chain behind this effect?
+
+------------------------------------------------------------------------
+
+{{< figure src="img/fosstodon-verification.png" caption="The Making of a Manager by Julie Zhuo" alt="A screenshot of my audiobook library on the Audible app." >}}
+
+------------------------------------------------------------------------
 
 
 # Is this a problem? Is it worth solving?
