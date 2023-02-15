@@ -18,6 +18,13 @@ links:
     url: https://github.com/cedricbatailler/jsmediation
 ---
 
+# TL;DR
+
+TL;DR - 
+
+
+
+
 # What is the problem, Is it a problem worth solving ...
 
 # Soft Trial
