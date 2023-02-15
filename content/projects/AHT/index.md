@@ -42,7 +42,7 @@ on which was the glass[^1]. Indirect.
 
 ------------------------------------------------------------------------
 
-{{< figure src="img/fosstodon-verification.png" caption="The Making of a Manager by Julie Zhuo" alt="A screenshot of my audiobook library on the Audible app." >}}
+{{< figure src="img/Agent_Tenure.jpg" caption="The Making of a Manager by Julie Zhuo" alt="A screenshot of my audiobook library on the Audible app." >}}
 
 ------------------------------------------------------------------------
 
