@@ -17,7 +17,12 @@ links:
     url: https://github.com/cedricbatailler/jsmediation
 ---
 
-# What is the problem, Is it a problem worth solving ...
+# TL;DR
+
+TL;DR - 
+
+
+What is the problem, Is it a problem worth solving ...
 
 The general purpose of this presentation is to ascertain the accuracy with which half-hour SMART meter data can be utilised to predict settlement values.
 
