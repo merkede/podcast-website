@@ -26,11 +26,60 @@ It would follow, that should half-hour be accurate enough to predict settlement 
 
 In order to test this – SMART and Settlement values have been compared under 2 iteration.
 
-------------------------------------------------------------------------
-
-{{< figure src="img/HH_Settlement_1.jpg" caption="Average Agent Tenure and volumes of Agents by Tenure" >}}
 
 ------------------------------------------------------------------------
+
+{{< figure src="img/HH_Settlement_1.jpg" caption="HH Smart consumption v/s settlement values" >}}
+
+------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------
+
+{{< figure src="img/HH_Settlement_2.jpg" caption="Leveraging local weather station data as input features" >}}
+
+------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------
+
+{{< figure src="img/HH_Settlement_3.jpg" caption="%MAPE, delta between SMART & Settlement values" >}}
+
+------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------
+
+{{< figure src="img/HH_Settlement_4.jpg" caption="Different Settlement Runs" >}}
+
+------------------------------------------------------------------------
+
+
+
+
+
+------------------------------------------------------------------------
+
+{{< figure src="img/HH_Settlement_5.jpg" caption="GSP and the corresponding map" >}}
+
+------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------
+
+{{< figure src="img/HH_Settlement_6.jpg" caption="NBP consumption v/s Meter consumption" >}}
+
+------------------------------------------------------------------------
+
 
 # What is Hedging ...
 
