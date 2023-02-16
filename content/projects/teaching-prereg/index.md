@@ -1,5 +1,5 @@
 ---
-title: HH Settlement short term forecasting
+title: HH short-term forecasting
 summary: |
   Real-time optimization & Balancing using Smart Meters
 date: 2019-06-13
