@@ -11,11 +11,11 @@ links:
   - icon: link
     icon_pack: fas
     name: docs
-    url: https://jsmediation.cedricbatailler.me/
+    url: https://github.com/merkede3/Engineer_Job_Trial/
   - icon: github
     icon_pack: fab
     name: source
-    url: https://github.com/cedricbatailler/jsmediation
+    url: https://github.com/merkede3/Engineer_Job_Trial/
 ---
 
 # TL;DR
