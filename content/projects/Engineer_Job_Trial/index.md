@@ -38,7 +38,14 @@ TL;DR -
 
 
 
-# Databricks
+# Databricks Workflow
+
+
+
+# Deep learning pyspark
+
+
+# Job times per part required (fan vs PCB), Job times per boiler
 
 
 **Mediation analysis** is a statistical tool that can be use to find out that 
