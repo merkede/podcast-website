@@ -11,7 +11,7 @@ links:
   - icon: link
     icon_pack: fas
     name: docs
-    url: https://github.com/merkede3/Engineer_Job_Trial/
+    url: https://github.com/merkede3/Engineer_Job_Trial/blob/main/docs/project_plan.md
   - icon: github
     icon_pack: fab
     name: source
@@ -22,7 +22,7 @@ links:
 
 TL;DR - 
 
-
+Productionisation of an end-to-end machine learning model built using Azure ML and Databricks, reducing allocated engineer job times by 15%, saving £2million per annum, driving efficiencies and cost savings.
 
 
 # What is the problem, Is it a problem worth solving ...
