@@ -20,7 +20,9 @@ links:
 
 # TL;DR
 
-TL;DR - 
+The results of our POC resulted in the complete removal of wrap notes, following a succesful small scale trial intergration with AWS and Salesforce. Cost savings of £200k per annum. 
+
+
 
 
 What is the problem, Is it a problem worth solving ...
