@@ -19,13 +19,15 @@ links:
 
 # TL;DR
 
-The results of our POC resulted in the complete removal of webchat wrap notes, following a succesful small scale trial integration with AWS and Salesforce. Cost savings of £200k per annum. 
+After successfully integrating AWS and Salesforce in a small-scale trial, the results of our proof of concept (POC) showed that we could completely remove webchat wrap notes. This would lead to an annual cost saving of £200k.
+
+# Business Context
+
+As Net Zero streams such as heat pumps, EVs, PHJones, and HIVE become more popular in line with Government policies on cleaner energy, Centrica Net Zero anticipates a substantial increase in contact demand in the upcoming months and years. Therefore, a strategy is being developed to handle this surge in contact demand, especially in light of increasing operating expense costs.
 
 # Business Problem
 
-Centrica Net Zero is expecting significantly higher contact demand in the coming months and years as Net Zero streams (heat pumps, EVs, PHJones, HIVE) gain in popularity - in line with Government policies on cleaner energy. A strategy is being devised to cope with this increased contact demand particularly in light of rising OPEX costs.
-
-Can the data science team help lower contact OPEX costs to better manage balance sheets and deliver cost savings as part of the wider Net Zero Contact Strategy.
+The wider Net Zero Contact Strategy aims to manage balance sheets and achieve cost savings. In this context, can the data science team assist in reducing contact operating expenses (OPEX)?
 
 # Definition
 
