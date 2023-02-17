@@ -21,20 +21,21 @@ links:
 
 The results of our POC resulted in the complete removal of webchat wrap notes, following a succesful small scale trial integration with AWS and Salesforce. Cost savings of £200k per annum. 
 
-
 # Business Problem
 
 Centrica Net Zero is expecting significantly higher contact demand in the coming months and years as Net Zero streams (heat pumps, EVs, PHJones, HIVE) gain in popularity - in line with Government policies on cleaner energy. A strategy is being devised to cope with this increased contact demand particularly in light of rising OPEX costs.
 
 Can the data science team help lower contact OPEX costs to better manage balance sheets and deliver cost savings as part of the wider Net Zero Contact Strategy.
 
-# Soft Trial
+# Definition
+
+Wrap - Wrap is the timeframe after a call or webhat conversation that the agent summarises or notes the purpose and any key details in the call for future reference.
 
 
 
 # Association rule mining
 
-Handing out a spare replacement hub adaptor with every purchase is less than the cost of a  call for ordering and filing a complaint for a broken adaptor is higher than the unit cost of the product.
+Providing customers with a spare replacement hub adaptor for every purchase costs less than the combined cost of customers calling to order a replacement and filing a complaint for a broken adaptor. This is because the cost of these customer service interactions is higher than the unit cost of the product.
 
 
 # Mlflow
