@@ -1,8 +1,7 @@
 ---
 title: Wrap notes automation
 summary: |
-  I built a algorthmic trading bot that places optimal trades with virtual money. It taught me many important coding lesssons and broadened my understanding 
-  of economic concepts
+  Led two data scientists on a Net Zero Strategy project, developed an automation tool providing cost savings of 200k per annum. Delivered key recommendations and insights to Director and senior leadership.
 date: 2021-06-13
 categories:
   - R package
