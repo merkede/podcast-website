@@ -73,12 +73,13 @@ Active listening can help managers and leaders to resolve conflicts more effecti
 
 There are several academic references that support the importance of active listening. Here are some notable references:
 
-Goleman, D. (2006). Emotional Intelligence: Why It Can Matter More Than IQ. New York: Bantam.
-Covey, S. R. (2004). The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change. New York: Free Press.
-Brownell, J. (2011). Listening: Attitudes, Principles, and Skills. Boston: Pearson.
-Quotes
+(1) Goleman, D. (2006). Emotional Intelligence: Why It Can Matter More Than IQ. New York: Bantam.
+(2) Covey, S. R. (2004). The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change. New York: Free Press.
+(3) Brownell, J. (2011). Listening: Attitudes, Principles, and Skills. Boston: Pearson.
 
-- Here are some notable quotes about the importance of active listening:
+- Quotes
+
+Here are some notable quotes about the importance of active listening:
 
 "The most basic of all human needs is the need to understand and be understood. The best way to understand people is to listen to them." - Ralph Nichols
 
