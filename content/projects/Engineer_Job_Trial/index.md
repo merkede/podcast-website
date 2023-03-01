@@ -27,25 +27,58 @@ Productionisation of an end-to-end machine learning model built using Azure ML a
 
 # What is the problem, Is it a problem worth solving ...
 
-# Soft Trial
+The core business challenge that we are addressing lies in optimizing our processes and resources to address the issue of overbooking and rescheduling of appointments at British Gas, a Service function of Centrica. Our customers rely on us to resolve their problems quickly and efficiently, especially when it pertains to our Homecare product insurance offering that requires engineer visits for installation, repair, or service. To ensure customer satisfaction and timely resolution of their problems, it is imperative to optimize our processes and allocate resources efficiently.
+
+Upon conducting a thorough analysis, we identified a key problem - engineers were completing their tasks much faster than the allotted time and on occasion 'gaming the system', which resulted in inefficiencies and a lack of accurate job time predictions.
+
+> To address these issues, I proposed the business should optimize our resource allocation, and maximize our profitability by tackling the issue of overbooking and rescheduling of appointments head-on. 
+
+This is achieved by reducing allocated job times in accordance with actual time spent on the job. By doing so, we can increase the number of jobs completed in a day and provide customers with more precise job time predictions, reducing the number of reschedules, and increasing customer satisfaction. Implementing guardrails and optimizing our systems will prevent any further gaming of the system by engineers.
+
+## The approach 
+
+### Model choice
+
+In order to implement our Data Science solution, I needed to run an automated pyspark regression model on Azure Databricks that would provide optimised engineer job times. The model including some of the following features:
 
 
 
-# Hard Trial
+
+### Experimental Design
+
+In order to implement our model in the real world, I had a few consideration
+
+(1) What metric should I use to measure performance?
+(2) How do we implement this whilst ensuring guardrails are present
+(3) How will this be percieved by our engineers on the ground?
+
+In order to answer the first - it was key to setup an experimental design and a two step process, soft trial & hard trial.
 
 
-# Mlflow
+, I needed to engage with the stakeholders  first needed to 
+Test Patch
+Control Patch
+
+
+## Soft Trial
 
 
 
-# Databricks Workflow
+## Hard Trial
+
+
+## Mlflow
 
 
 
-# Deep learning pyspark
+## Databricks Workflow
 
 
-# Job times per part required (fan vs PCB), Job times per boiler
+
+## Deep learning pyspark
+
+
+## Job times per part required (fan vs PCB), Job times per boiler
 
 
 **Mediation analysis** is a statistical tool that can be use to find out that 
