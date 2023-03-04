@@ -39,7 +39,7 @@ This is achieved by reducing allocated job times in accordance with actual time 
 
 ### ML Model
 
-To implement our Data Science solution, I leveraged an automated PySpark regression model on Azure Databricks to deliver optimised engineer job times. After evaluating multiple models, such as random forest, gradient boosting, and deep learning, I employed feature engineering to enhance the model's accuracy. By thoughtfully selecting and engineering these features, the model was able to deliver superior performance and provide significant value to our organization:
+To implement our Data Science solution, I leveraged an automated PySpark pipeline regression model on Azure Databricks to deliver optimised engineer job times. After evaluating multiple models, such as random forest, gradient boosting, and deep learning, I employed feature engineering to enhance the model's accuracy. By thoughtfully selecting and engineering these features, the model was able to deliver superior performance and provide significant value to our organization:
 
 - Holidays
 - Weather (incl. Temp, Solar Rad, Precip, Cloud Cover)
