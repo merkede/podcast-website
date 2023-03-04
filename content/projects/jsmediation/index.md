@@ -60,6 +60,11 @@ answering the questions with a series of questions:
 ## Anomaly part order detection
 
 
+
+
+
+
+
 ## Literature review
 
 Predictive maintenance is a critical aspect of modern businesses, aimed at proactively identifying potential failures in complex systems and reducing downtime, thus providing a competitive edge. By leveraging data science and machine learning techniques, predictive maintenance enables organizations to make informed decisions about maintenance operations, minimize unplanned downtime, and optimize resource utilization.
