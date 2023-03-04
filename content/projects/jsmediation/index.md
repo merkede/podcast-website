@@ -56,10 +56,14 @@ answering the questions with a series of questions:
 ## Association rule mining
 
 
+------------------
+
+{{< figure src="excel2.jpg" caption="Association maps between parts that are ordered together during a domestic boiler gas repair" >}}
+
+------------------
+
 
 ## Anomaly part order detection
-
-
 
 
 
