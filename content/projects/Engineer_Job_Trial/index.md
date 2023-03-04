@@ -66,33 +66,42 @@ In order to answer the first - it was key to setup an experimental design and a 
 
 - Test & Control Patch : During the hard trial, I would monitor the performance of the patches but also compare it's performance against another patch of similar conditions that were still using the old times. The patch changed served as the 'Control Patch' whilst the patch of similar conditions would become the 'Test Patch'
 
+------------------------------------------------------------------------
+{{< figure src="images/control.jpg" caption="Designing an experiment in which engineers with new times form the test and engineers with standard times form control group" >}}
+------------------------------------------------------------------------
+
 ## Soft Trial
 
 - A 2 week trial showed we outperformed current times at a ratio of 7 to 3, saving time on each and every job performed by our engineers. Scaling these times up represents huge savings in the additional number of jobs we can perform, the speed at which we can tackle our backlog during winter and customer satisfaaction in reducing forced errors.
 
-
+------------------------------------------------------------------------
+{{< figure src="images/Picture_1.jpg" caption="A well performing soft trial allowed for the progression to a hard trial and productionisation of the model" >}}
 ------------------------------------------------------------------------
 
-{{< figure src="images/Picture_1.jpg" caption="A well performing soft trial paved the way for a hard trial and productionisation." >}}
-
-------------------------------------------------------------------------
 
 ## Hard Trial
 
 
-## Mlflow
+## Mlflow 2.0
 
-Mlflow was used to track model metrics and artifcats, manage ML end-to-end 
+Mlflow was the secret sauce that helped me create a top-performing model. With its advanced tracking and organization capabilities, I was able to streamline my workflow and optimize my models, all while keeping my track of all my experiments is a neat and organized manner.
+
+Mlflow enabled me to register the model, track metrics, and perform nested runs to compare different ensemble models. Mlflow's model registry and versioning capabilities ensured that my models were stored securely and easily accessible, and its integration with TensorFlow, PyTorch, and Scikit-learn made it easy to use. It's seamsless integration with pyspark was essential for this project, given the scale of the data. 
+
 
 ## Databricks Workflow
 
-The model was scheduled using Databricks Workflows - this allows you to schedule your tasks
+Tatabricks Workflow allowed me to schedule and connect notebooks, creating an end-to-end pipeline that streamlined the entire process. The automation of the data ingestion pipeline and intermediary pipelines through to model registry, model performance, and unit/integration testing enabled me to track and monitor the performance of the models in real-time.
+
+------------------------------------------------------------------------
+{{< figure src="images/workflows.jpg" caption="Databricks workflows allows you to schedule multiple scripts (ingestion to inference) to run on different clusters." >}}
+------------------------------------------------------------------------
 
 
-## Deep learning pyspark
+## Monitoring model performance
 
 
-## Job times per part required (fan vs PCB), Job times per boiler
+
 
 
 **Mediation analysis** is a statistical tool that can be use to find out that 
