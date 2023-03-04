@@ -53,7 +53,28 @@ answering the questions with a series of questions:
 
 
 
+
+------------------
+
+{{< figure src="excel_graph6.jpg" caption="Comparing lifetime of two different PCB brand parts for a BAXI boiler & a refubished equivalent (blue)" >}}
+
+
+{{< figure src="excel_graph5.jpg" caption="Comparing lifetime of two different PCB brand parts for a Gloworm boiler & a refubished equivalent (blue)" >}}
+
+------------------
+
 ## Association rule mining
+
+
+
+------------------
+
+{{< figure src="excel1.jpg" caption="Association between parts that are ordered together by field engineers during a domestic boiler gas repair" >}}
+
+------------------
+
+
+
 
 
 ------------------
