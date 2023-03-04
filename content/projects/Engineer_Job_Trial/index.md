@@ -95,7 +95,7 @@ Mlflow enabled me to register the model, track metrics, and perform nested runs 
 
 - Databricks Workflow
 
-Tatabricks Workflow allowed me to schedule and connect notebooks, creating an end-to-end pipeline that streamlined the entire process. The automation of the data ingestion pipeline and intermediary pipelines through to model registry, model performance, and unit/integration testing enabled me to track and monitor the performance of the models in real-time.
+Databricks Workflow allowed me to schedule and connect notebooks, creating an end-to-end pipeline that streamlined the entire process. The automation of the data ingestion pipeline and intermediary pipelines through to model registry, model performance, and unit/integration testing enabled me to track and monitor the performance of the models in real-time.
 
 ------------------------------------------------------------------------
 {{< figure src="images/workflows.jpeg" caption="Databricks workflows allows you to schedule multiple scripts (ingestion to inference) to run on different clusters." >}}
