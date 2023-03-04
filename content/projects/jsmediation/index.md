@@ -10,10 +10,14 @@ categories:
 
 
 links:
+  - icon: link
+    icon_pack: fas
+    name: docs
+    url: https://github.com/merkede3/predictive_maintenance/blob/main/docs/project_plan.md
   - icon: github
     icon_pack: fab
     name: source
-    url: https://github.com/
+    url: https://github.com/merkede3/predictive_maintenance/blob/main/src/shiny_dashboard.R
 ---
 
 ### TL;DR
