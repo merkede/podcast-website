@@ -107,7 +107,7 @@ Databricks Workflow allowed me to schedule and connect notebooks, creating an en
 ------------------------------------------------------------------------
 
 
-- Monitoring model performance
+### Monitoring model performance
 
 In order to effectively monitor the performance of the model, I engaged a data engineer to help connect Databricks with PowerBI to produce a dashboard that visualizes the mean absolute error (MAE) of the model over each run. By integrating these two powerful tools, I was able to create a seamless workflow that allowed for real-time monitoring of the model's performance. The dashboard provided stakeholders with a clear understanding of how the model was performing and helped to identify areas for improvement. 
 
@@ -116,7 +116,6 @@ To ensure seamless and accessible visualization of the project's progress, I dec
 ------------------------------------------------------------------------
 {{< figure src="images/powerbi.jpeg" caption="Databricks workflows allows you to schedule multiple scripts (ingestion to inference) to run on different clusters." >}}
 ------------------------------------------------------------------------
-
 
 ## Making an impact
 
