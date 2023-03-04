@@ -71,6 +71,11 @@ In order to answer the first - it was key to setup an experimental design and a 
 - A 2 week trial showed we outperformed current times at a ratio of 7 to 3, saving time on each and every job performed by our engineers. Scaling these times up represents huge savings in the additional number of jobs we can perform, the speed at which we can tackle our backlog during winter and customer satisfaaction in reducing forced errors.
 
 
+------------------------------------------------------------------------
+
+{{< figure src="images/picture1.jpeg" caption="A well performing soft trial paved the way for a hard trial and productionisation." >}}
+
+------------------------------------------------------------------------
 
 ## Hard Trial
 
