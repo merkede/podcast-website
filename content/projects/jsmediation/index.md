@@ -13,25 +13,27 @@ links:
   - icon: github
     icon_pack: fab
     name: source
-    url: https://github.com/cedricbatailler/jsmediation
+    url: https://github.com/
 ---
 
-# TL;DR
+### TL;DR
 
-TL;DR - 
+TL;DR - I developed an R Shiny app that assists field engineers choose the best parts for repairs, available on their tablets during a job, to enhance customer satisfaction. The app influenced business decisions on the procurement and installation of original parts, reducing repeat appointments and boosting customer NPS.
 
 
 ## AFT and Cox-Propotional Hazard (CPH) ... survival analysis using SPARK
 
-# Managing the stakeholder
+### Defining the probem
 
-- Our stakeholder approaches us with the problem 'Are breakdowns predictable?'
+- Managing stakeholders
+
+> Our stakeholder approaches us with the problem 'Are breakdowns predictable?'
 
 Upon initial review of the issue, two potential solutions presented themselves: utilizing historical time-series data to forecast equipment breakdowns or implementing a time-to-failure algorithm. However, prior to pursuing these technical approaches, it is crucial to gain a thorough understanding of the business problem being addressed. 
 
 This includes conducting a cost-benefit analysis to determine the potential impact of a solution and to weigh the resources required against the value they will bring to the organization. By taking a strategic and data-driven approach, we can ensure that any solution we implement aligns with our overall business goals and delivers a meaningful return on investment.
 
-## First Principles Thinking
+### First Principles Thinking
 
 
 
@@ -43,7 +45,6 @@ answering the questions with a series of questions:
 3) Is it a problem worth solving?
 4) Do we collect the data --- data collection is huge here!!
 
-## Is this a problem? Is it worth solving?
 
 > Using IoT and data analytics to predict and prevent breakdowns can reduce overall downtime by 50%. (McKinsey)
 
@@ -51,7 +52,7 @@ answering the questions with a series of questions:
 
 
 
-## Time to failure
+### Time to failure
 
 
 ------------------
@@ -59,7 +60,7 @@ answering the questions with a series of questions:
 ------------------
 
 
-## Refurbushed vs. Non-refurbished
+### Refurbushed vs. Non-refurbished parts
 
 
 
@@ -73,7 +74,7 @@ answering the questions with a series of questions:
 
 ------------------
 
-## Association rule mining
+### Association rule mining
 
 
 
@@ -87,7 +88,7 @@ answering the questions with a series of questions:
 ------------------
 
 
-## Anomaly part order detection
+### Anomaly part order detection
 
 
 
@@ -97,7 +98,7 @@ answering the questions with a series of questions:
 
 ------------------
 
-## Literature review
+### Literature review
 
 Predictive maintenance is a critical aspect of modern businesses, aimed at proactively identifying potential failures in complex systems and reducing downtime, thus providing a competitive edge. By leveraging data science and machine learning techniques, predictive maintenance enables organizations to make informed decisions about maintenance operations, minimize unplanned downtime, and optimize resource utilization.
 
