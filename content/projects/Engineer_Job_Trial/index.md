@@ -23,7 +23,7 @@ links:
 Productionisation of an end-to-end machine learning model built using Azure ML and Databricks, reducing allocated engineer job times by 15%, saving £2million per annum, driving efficiencies and cost savings.
 
 
-## What is the problem, Is it a problem worth solving ...
+### Defining the problem
 
 > The core business challenge that we are addressing lies in optimizing our processes and resources to address the issue of overbooking and rescheduling of appointments at British Gas, a Service function of Centrica. 
 
@@ -35,9 +35,9 @@ Upon conducting a thorough analysis, we identified a key problem - engineers wer
 
 This is achieved by reducing allocated job times in accordance with actual time spent on the job. By doing so, we can increase the number of jobs completed in a day and provide customers with more precise job time predictions, reducing the number of reschedules, and increasing customer satisfaction. Implementing guardrails and optimizing our systems will prevent any further gaming of the system by engineers.
 
-## The approach 
+### The approach 
 
-### Model
+### ML Model
 
 To implement our Data Science solution, I leveraged an automated PySpark regression model on Azure Databricks to deliver optimised engineer job times. After evaluating multiple models, such as random forest, gradient boosting, and deep learning, I employed feature engineering to enhance the model's accuracy. By thoughtfully selecting and engineering these features, the model was able to deliver superior performance and provide significant value to our organization:
 
@@ -50,6 +50,8 @@ To implement our Data Science solution, I leveraged an automated PySpark regress
 - Business Customer
 - Type of Appliance (Boiler)
 - Many More 😀
+
+Due to the large size of the dataset, traditional data processing tools such as pandas were not suitable for the task. I chose to use Databricks and PySpark to handle the data. Databricks is an optimal choice for working with Spark, providing a powerful and scalable environment that can handle large-scale data processing efficiently. By leveraging the capabilities of PySpark, I was able to perform complex transformations and feature engineering on the data, which would have been a challenge using traditional tools.
 
 ### Experimental Design
 
