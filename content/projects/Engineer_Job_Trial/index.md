@@ -52,19 +52,19 @@ In order to implement our Data Science solution, I needed to run an automated py
 
 ### Experimental Design
 
-In order to implement our model in the real world, I had a few consideration
+Implementing our model in the real world required careful consideration, including determining the performance metric, implementing the changes while ensuring guardrails were in place, and ensuring that the changes would be well-received by our engineers on the ground. To address these issues, I developed an experimental design that involved a two-step process:
 
-(1) What metric should I use to measure performance?
-(2) How do we implement this whilst ensuring guardrails are present
-(3) How will this be percieved by our engineers on the ground?
+- Soft Trial:
 
-In order to answer the first - it was key to setup an experimental design and a two step process - namely a soft trial & hard trial.
+To measure performance, I ran my model alongside actual jobs for a period of two weeks without officially changing the times in the system. At the end of the trial, I compared the results against actual job times to assess performance.
 
- - Soft Trial: I would simulate the changes by running my model side-by-side with the actual jobs for a period of 2 weeks, without officially changing the times in the system. In doing so, at the end of the two weeks I would compare my results against actual job times and assess performance.
- 
- - Hard Trial: Upon sucessful performance from the Soft Trial, changes would be made to the live system and monitoring and guardrails in place to assess performance. The changes would require a 'change request' being issued and field managers were not able to inform any engineers, as this was confidential and could affect engineer morale.
+- Hard Trial: 
 
-- Test & Control Patch : During the hard trial, I would monitor the performance of the patches but also compare it's performance against another patch of similar conditions that were still using the old times. The patch changed served as the 'Control Patch' whilst the patch of similar conditions would become the 'Test Patch'
+Upon successful performance in the soft trial, changes were made to the live system, and monitoring and guardrails were put in place to assess performance. Changes required a 'change request' to be issued, and field managers were not able to inform any engineers to maintain confidentiality and avoid affecting morale.
+
+- Test & Control Patch:
+
+During the hard trial, I monitored the performance of the patches and compared it against a control patch of similar conditions that still used the old times to ensure that the changes were effective. This approach helped us implement the changes while minimizing disruption and ensuring that we delivered improvements that met our goals.
 
 ------------------------------------------------------------------------
 {{< figure src="images/control.jpeg" caption="Designing an experiment in which engineers with new times form the test and engineers with standard times form control group" >}}
