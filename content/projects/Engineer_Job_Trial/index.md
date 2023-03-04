@@ -67,7 +67,7 @@ In order to answer the first - it was key to setup an experimental design and a 
 - Test & Control Patch : During the hard trial, I would monitor the performance of the patches but also compare it's performance against another patch of similar conditions that were still using the old times. The patch changed served as the 'Control Patch' whilst the patch of similar conditions would become the 'Test Patch'
 
 ------------------------------------------------------------------------
-{{< figure src="images/control.jpg" caption="Designing an experiment in which engineers with new times form the test and engineers with standard times form control group" >}}
+{{< figure src="images/control.jpeg" caption="Designing an experiment in which engineers with new times form the test and engineers with standard times form control group" >}}
 ------------------------------------------------------------------------
 
 ## Soft Trial
@@ -94,7 +94,7 @@ Mlflow enabled me to register the model, track metrics, and perform nested runs 
 Tatabricks Workflow allowed me to schedule and connect notebooks, creating an end-to-end pipeline that streamlined the entire process. The automation of the data ingestion pipeline and intermediary pipelines through to model registry, model performance, and unit/integration testing enabled me to track and monitor the performance of the models in real-time.
 
 ------------------------------------------------------------------------
-{{< figure src="images/workflows.jpg" caption="Databricks workflows allows you to schedule multiple scripts (ingestion to inference) to run on different clusters." >}}
+{{< figure src="images/workflows.jpeg" caption="Databricks workflows allows you to schedule multiple scripts (ingestion to inference) to run on different clusters." >}}
 ------------------------------------------------------------------------
 
 
@@ -104,17 +104,7 @@ Tatabricks Workflow allowed me to schedule and connect notebooks, creating an en
 
 
 
-**Mediation analysis** is a statistical tool that can be use to find out that 
-the reason why people are less likely to buy drugs with complex name is because 
-they percieved the drugs as more dangerous. While there are several ways to
-conduct mediation analysis, the `JSmediation` package implements the best one
-of them[^3]: joint-significance.
 
-Have a look at [the documentation](https://jsmediation.cedricbatailler.me/) and 
-give it a shot!
+## Making an impact
 
-[^1]: Yeah. It happens.
-
-[^2]: Dohle, S., & Siegrist, M. (2014). Fluency of pharmaceutical drug names predicts perceived hazardousness, assumed side effects and willingness to buy. _Journal of Health Psychology_, _19_(10), 1241-1249. doi: 10.1177/1359105313488974
-
-[^3]: This has to be understood as the one with the lowest number of false positive. Yzerbyt, V., Muller, D., **Batailler, C.**, & Judd, C. M. (2018). New recommendations for testing indirect effects in medi‑ational models: The need to report and test component paths. _Journal of Personality and Social Psychology_, _115_(6), 929–943. 10.1037/pspa0000132
+I am incredibly proud of the impact that my project has had on our customers. As a data scientist, it's rare to see your work go beyond the experimentation stage and actually make it into production, but this project was different. I was able to deliver a top-performing model that provided real benefits to our customers, and knowing that my work was making a difference was an incredibly rewarding experience. Looking back on the project, I am grateful for the opportunity to work on something that had a real-world impact and for the support and collaboration of my team. It's moments like these that make me proud to be a data scientist and motivate me to continue pushing the boundaries of what's possible.
