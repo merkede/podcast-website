@@ -70,26 +70,27 @@ In order to answer the first - it was key to setup an experimental design and a 
 {{< figure src="images/control.jpeg" caption="Designing an experiment in which engineers with new times form the test and engineers with standard times form control group" >}}
 ------------------------------------------------------------------------
 
-## Soft Trial
+### Soft Trial
 
-- A 2 week trial showed we outperformed current times at a ratio of 7 to 3, saving time on each and every job performed by our engineers. Scaling these times up represents huge savings in the additional number of jobs we can perform, the speed at which we can tackle our backlog during winter and customer satisfaaction in reducing forced errors.
+- After conducting a 2-week trial, we found that our engineers were able to complete their tasks significantly faster using our new method, outperforming the current times at a ratio of 7 to 3. This time savings on each job adds up quickly when scaled across the total number of jobs we perform, resulting in substantial cost savings and increased capacity for additional jobs. Moreover, the improved efficiency of our engineers during winter backlog periods results in improved customer satisfaction by reducing forced errors.
+
 
 ------------------------------------------------------------------------
 {{< figure src="images/Picture_1.jpg" caption="A well performing soft trial allowed for the progression to a hard trial and productionisation of the model" >}}
 ------------------------------------------------------------------------
 
 
-## Hard Trial
+### Hard Trial
 
 
-## Mlflow 2.0
+- Mlflow 2.0
 
 Mlflow was the secret sauce that helped me create a top-performing model. With its advanced tracking and organization capabilities, I was able to streamline my workflow and optimize my models, all while keeping my track of all my experiments is a neat and organized manner.
 
 Mlflow enabled me to register the model, track metrics, and perform nested runs to compare different ensemble models. Mlflow's model registry and versioning capabilities ensured that my models were stored securely and easily accessible, and its integration with TensorFlow, PyTorch, and Scikit-learn made it easy to use. It's seamsless integration with pyspark was essential for this project, given the scale of the data. 
 
 
-## Databricks Workflow
+- Databricks Workflow
 
 Tatabricks Workflow allowed me to schedule and connect notebooks, creating an end-to-end pipeline that streamlined the entire process. The automation of the data ingestion pipeline and intermediary pipelines through to model registry, model performance, and unit/integration testing enabled me to track and monitor the performance of the models in real-time.
 
@@ -98,7 +99,7 @@ Tatabricks Workflow allowed me to schedule and connect notebooks, creating an en
 ------------------------------------------------------------------------
 
 
-## Monitoring model performance
+- Monitoring model performance
 
 
 
