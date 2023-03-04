@@ -73,7 +73,7 @@ In order to answer the first - it was key to setup an experimental design and a 
 
 ------------------------------------------------------------------------
 
-{{< figure src="images/picture1.jpeg" caption="A well performing soft trial paved the way for a hard trial and productionisation." >}}
+{{< figure src="images/picture_1.jpeg" caption="A well performing soft trial paved the way for a hard trial and productionisation." >}}
 
 ------------------------------------------------------------------------
 
