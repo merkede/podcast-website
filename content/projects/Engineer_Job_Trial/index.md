@@ -6,6 +6,8 @@ date: 2021-06-13
 categories:
   - projects
   - engineer
+  - machine learning
+  - production
 
 links:
   - icon: link
@@ -92,6 +94,9 @@ Mlflow was the secret sauce that helped me create a top-performing model. With i
 
 Mlflow enabled me to register the model, track metrics, and perform nested runs to compare different ensemble models. Mlflow's model registry and versioning capabilities ensured that my models were stored securely and easily accessible, and its integration with TensorFlow, PyTorch, and Scikit-learn made it easy to use. It's seamsless integration with pyspark was essential for this project, given the scale of the data. 
 
+- Batch Inference
+
+Due to infrastructure limitations, batch inference was the only viable option for this project. To enable batch inference, a series of notebooks were created to form the ML lifecycle, and were scheduled and triggered using Databricks workflow. The notebooks were stored in an Azure DevOps repository, allowing for testing pipelines to be triggered and facilitating complete CI/CD production.
 
 - Databricks Workflow
 
@@ -104,9 +109,13 @@ Databricks Workflow allowed me to schedule and connect notebooks, creating an en
 
 - Monitoring model performance
 
+In order to effectively monitor the performance of the model, I engaged a data engineer to help connect Databricks with PowerBI to produce a dashboard that visualizes the mean absolute error (MAE) of the model over each run. By integrating these two powerful tools, I was able to create a seamless workflow that allowed for real-time monitoring of the model's performance. The dashboard provided stakeholders with a clear understanding of how the model was performing and helped to identify areas for improvement. 
 
+To ensure seamless and accessible visualization of the project's progress, I decided to integrate PowerBI with Databricks. Although Databricks has in-built dashboard features, it would require stakeholders to obtain a license or for the dashboard endpoint to be hosted as a web service, which could be cumbersome. As each member of the company has access to PowerBI by default, integrating the two platforms was the most practical choice. 
 
-
+------------------------------------------------------------------------
+{{< figure src="images/powerbi.jpeg" caption="Databricks workflows allows you to schedule multiple scripts (ingestion to inference) to run on different clusters." >}}
+------------------------------------------------------------------------
 
 
 ## Making an impact
