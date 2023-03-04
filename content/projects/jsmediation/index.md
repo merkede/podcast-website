@@ -93,7 +93,7 @@ answering the questions with a series of questions:
 
 ------------------
 
-{{< figure src="excel2.jpg" caption="Association maps between parts that are ordered together during a domestic boiler gas repair" >}}
+{{< figure src="excel3.jpg" caption="A control chart highlighting unusually high / low part orders made by field engineers, triggering alert notifications " >}}
 
 ------------------
 
