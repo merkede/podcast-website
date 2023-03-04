@@ -49,6 +49,16 @@ answering the questions with a series of questions:
 
 [Have](https://www.databricks.com/glossary/predictive-maintenance)
 
+
+
+## Time to failure
+
+
+------------------
+{{< figure src="excel_graph.jpg" caption="Analysing time to failure of a particular part used by British Gas engineers during boiler repair visits" >}}
+------------------
+
+
 ## Refurbushed vs. Non-refurbished
 
 
@@ -71,13 +81,6 @@ answering the questions with a series of questions:
 
 {{< figure src="excel1.jpg" caption="Association between parts that are ordered together by field engineers during a domestic boiler gas repair" >}}
 
-------------------
-
-
-
-
-
-------------------
 
 {{< figure src="excel2.jpg" caption="Association maps between parts that are ordered together during a domestic boiler gas repair" >}}
 
@@ -88,7 +91,11 @@ answering the questions with a series of questions:
 
 
 
+------------------
 
+{{< figure src="excel2.jpg" caption="Association maps between parts that are ordered together during a domestic boiler gas repair" >}}
+
+------------------
 
 ## Literature review
 
