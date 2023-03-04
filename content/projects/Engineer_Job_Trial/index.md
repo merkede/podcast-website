@@ -18,16 +18,16 @@ links:
     url: https://github.com/merkede3/Engineer_Job_Trial/
 ---
 
-# TL;DR
-
-TL;DR - 
+### TL;DR
 
 Productionisation of an end-to-end machine learning model built using Azure ML and Databricks, reducing allocated engineer job times by 15%, saving £2million per annum, driving efficiencies and cost savings.
 
 
-# What is the problem, Is it a problem worth solving ...
+## What is the problem, Is it a problem worth solving ...
 
-The core business challenge that we are addressing lies in optimizing our processes and resources to address the issue of overbooking and rescheduling of appointments at British Gas, a Service function of Centrica. Our customers rely on us to resolve their problems quickly and efficiently, especially when it pertains to our Homecare product insurance offering that requires engineer visits for installation, repair, or service. To ensure customer satisfaction and timely resolution of their problems, it is imperative to optimize our processes and allocate resources efficiently.
+> The core business challenge that we are addressing lies in optimizing our processes and resources to address the issue of overbooking and rescheduling of appointments at British Gas, a Service function of Centrica. 
+
+Our customers rely on us to resolve their problems quickly and efficiently, especially when it pertains to our Homecare product insurance offering that requires engineer visits for installation, repair, or service. To ensure customer satisfaction and timely resolution of their problems, it is imperative to optimize our processes and allocate resources efficiently.
 
 Upon conducting a thorough analysis, we identified a key problem - engineers were completing their tasks much faster than the allotted time and on occasion 'gaming the system', which resulted in inefficiencies and a lack of accurate job time predictions.
 
@@ -37,12 +37,18 @@ This is achieved by reducing allocated job times in accordance with actual time 
 
 ## The approach 
 
-### Model choice
+### Model
 
-In order to implement our Data Science solution, I needed to run an automated pyspark regression model on Azure Databricks that would provide optimised engineer job times. The model including some of the following features:
+In order to implement our Data Science solution, I needed to run an automated pyspark regression model on Azure Databricks that would provide optimised engineer job times. Various models were compared against each other, including random forest, gradient boosting and deep learning - even stacking a few with each other. The model including some of the following features created with some engineering:
 
-
-
+- Holidays
+- Weather (Temp, Solar Rad, Precip, Cloud Cover)
+- Location
+- Contractor Y/N
+- Priority Y/N
+- Landlord Y/N
+- Type of Boiler
+- Many More :)
 
 ### Experimental Design
 
@@ -52,15 +58,17 @@ In order to implement our model in the real world, I had a few consideration
 (2) How do we implement this whilst ensuring guardrails are present
 (3) How will this be percieved by our engineers on the ground?
 
-In order to answer the first - it was key to setup an experimental design and a two step process, soft trial & hard trial.
+In order to answer the first - it was key to setup an experimental design and a two step process - namely a soft trial & hard trial.
 
+ - Soft Trial: I would simulate the changes by running my model side-by-side with the actual jobs for a period of 2 weeks, without officially changing the times in the system. In doing so, at the end of the two weeks I would compare my results against actual job times and assess performance.
+ 
+ - Hard Trial: Upon sucessful performance from the Soft Trial, changes would be made to the live system and monitoring and guardrails in place to assess performance. The changes would require a 'change request' being issued and field managers were not able to inform any engineers, as this was confidential and could affect engineer morale.
 
-, I needed to engage with the stakeholders  first needed to 
-Test Patch
-Control Patch
-
+- Test & Control Patch : During the hard trial, I would monitor the performance of the patches but also compare it's performance against another patch of similar conditions that were still using the old times. The patch changed served as the 'Control Patch' whilst the patch of similar conditions would become the 'Test Patch'
 
 ## Soft Trial
+
+- A 2 week trial showed we outperformed current times at a ratio of 7 to 3, saving time on each and every job performed by our engineers. Scaling these times up represents huge savings in the additional number of jobs we can perform, the speed at which we can tackle our backlog during winter and customer satisfaaction in reducing forced errors.
 
 
 
@@ -69,10 +77,11 @@ Control Patch
 
 ## Mlflow
 
-
+Mlflow was used to track model metrics and artifcats, manage ML end-to-end 
 
 ## Databricks Workflow
 
+The model was scheduled using Databricks Workflows - this allows you to schedule your tasks
 
 
 ## Deep learning pyspark
