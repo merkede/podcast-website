@@ -37,23 +37,32 @@ Upon initial review of the issue, two potential solutions presented themselves: 
 
 This includes conducting a cost-benefit analysis to determine the potential impact of a solution and to weigh the resources required against the value they will bring to the organization. By taking a strategic and data-driven approach, we can ensure that any solution we implement aligns with our overall business goals and delivers a meaningful return on investment.
 
-### First Principles Thinking
-
-
-
-The short answer, if I was a betting man, would be 'I think so'. Perhaps another answer could involve
-answering the questions with a series of questions:
-
-1) Why are you asking?
-2) What problem are you trying to solve?
-3) Is it a problem worth solving?
-4) Do we collect the data --- data collection is huge here!!
-
+- First Principles Thinking
 
 > Using IoT and data analytics to predict and prevent breakdowns can reduce overall downtime by 50%. (McKinsey)
 
 [Have](https://www.databricks.com/glossary/predictive-maintenance)
 
+### Unearthed instance of inadequate procedures.
+
+The picture below is of a motorised valve.  
+
+------------------
+{{< figure src="image001.png" caption="A motorised valve, typically costing £25" >}}
+------------------
+
+A motorised valve is comprised of the following:
+ 
+- (1) Powerhead also known as an actuator (the silver box at the top)
+- (2) The 2 or 3 port body (the brass part underneath)
+ 
+In addition, the actuator (silver box on top) contains the follow and more inside it
+ 
+- Micro switch
+- Spring return
+- Synchron motor
+ 
+Engineers attempted cost-saving by modifying motorised valve parts instead of replacing them for £25. However, this was identified as a false economy as fixing the part led to future breakdowns within 2 months. By replacing the part, significant cost savings were achieved, and future breakdowns prevented. This change was one of the successful outcomes of the project.
 
 
 ### Time to failure
