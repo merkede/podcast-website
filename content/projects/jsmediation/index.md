@@ -20,7 +20,7 @@ links:
 
 ### TL;DR
 
-TL;DR - I developed an R Shiny app that assists field engineers in choosing the best parts for repairs, whilst at the customers property, to enhance customer satisfaction. The app presented at the highest 'Services & Logistics Management' meetings influenced business decisions on the procurement and installation of original parts, reducing repeat appointments and boosting customer NPS.
+I developed an R Shiny app that assists field engineers in choosing the best parts for repairs, whilst at the customers property, to enhance customer satisfaction. The app presented at the highest 'Services & Logistics Management' meetings influenced business decisions on the procurement and installation of original parts, reducing repeat appointments and boosting customer NPS.
 
 **From a business perspective:**
 
