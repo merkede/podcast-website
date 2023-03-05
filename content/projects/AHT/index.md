@@ -51,7 +51,7 @@ Lacking a comprehensive system for tracking and monitoring the parts installed a
 {{< figure src="image001-01.png" caption="Breaking down a problem" >}}
 
 
-### What is the problem, Is it a problem worth solving ...
+### Defining the problem
 
 
 
