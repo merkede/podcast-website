@@ -114,12 +114,18 @@ These insights enabled our procurement and services management team to craft a v
 
 ### Association rule mining
 
+Association rule mining is a powerful technique used in data mining and machine learning to identify interesting relationships between variables in large datasets. I applied the Apriori algorithm to understand the associations between parts ordered during an engineer job repair at British Gas. Using the arulesViz library, I was able to visualise these associations and label them so they could easily be understood by an engineer.
 
 
 ------------------
 
 {{< figure src="excel1.jpg" caption="Association between parts that are ordered together by field engineers during a domestic boiler gas repair" >}}
 
+------------------
+
+Understanding these part associations gave engineers on-site guidance on which parts to order together, preventing repeat visits and failure demand. Ultimately, this resulted in significant benefits for customers, including fewer visits and uninterrupted heating and hot water supply.
+
+------------------
 
 {{< figure src="excel2.jpg" caption="Association maps between parts that are ordered together during a domestic boiler gas repair" >}}
 
@@ -130,7 +136,8 @@ These insights enabled our procurement and services management team to craft a v
 
 > Monitoring anomaly part order detection was tricky as engineers have stock of parts in the van. Therefore an engineer may order 
 
-------------------
+To improve our procurement processes and reduce repeat visits, I designed an anomaly part detection visualization using control charts with upper and lower bounds. This enabled us to track which parts were being used and needed to be stocked in engineer vans. By ensuring these parts were always available on-site, we could prevent the need for ordering and reduce the chances of repeat visits. Ultimately, this led to faster and more efficient service delivery, improving our customers' satisfaction.
+
 
 {{< figure src="excel3.jpg" caption="A control chart highlighting unusually high / low part orders made by field engineers, triggering alert notifications " >}}
 
