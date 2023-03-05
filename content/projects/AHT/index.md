@@ -22,8 +22,6 @@ links:
 
 This project sparked my interest in the philosophy of science, leading me to take a course on the subject at Oxford University's Department for Contiuning Education. As part of my coursework, I wrote an assignment entilted 'The demarcation between science and pseudoscience', which relates to the importance of falsifiability and testability of hypotheses. This concept proved relevant in the project, as various opinions on the causes of rising AHT were expressed without adequate evidence. 
 
-- Karl Popper
-
 Karl Popper's view of falsification and his theory of knowledge had a profound impact on my understanding of the philosophy of science. Popper believed that scientific theories should not be based on verification but on falsifiability. In other words, it is impossible to prove a theory correct, but it is possible to prove it false. 
 
 Popper's theory of knowledge emphasizes the importance of critical thinking and openness to criticism. He argued that knowledge is not absolute, but rather tentative and subject to change based on new evidence. This idea is particularly relevant in this project and helped me develop a more critical and rigorous mindset, always questioning and testing my assumptions to ensure that I was making accurate predictions and delivering value to our customers.
@@ -55,17 +53,7 @@ Lacking a comprehensive system for tracking and monitoring the parts installed a
 
 ### What is the problem, Is it a problem worth solving ...
 
-# What is Hedging ...
 
-- Our stakeholder approaches us with the problem 'Are breakdowns predictable?'
-
-The short answer, if I was a betting man, would be 'I think so'. Perhaps another answer could involve
-answering the questions with a series of questions:
-
-1) Why are you asking?
-2) What problem are you trying to solve?
-3) Is it a problem worth solving?
-4) Do we collect the data --- data collection is huge here!!
 
 Effects things have on other are sometimes indirect. Let's take an example
 involving a soccer ball and a broken glass. Sometimes, you will break a glass by
@@ -90,11 +78,4 @@ they percieved the drugs as more dangerous. While there are several ways to
 conduct mediation analysis, the `JSmediation` package implements the best one
 of them[^3]: joint-significance.
 
-Have a look at [the documentation](https://jsmediation.cedricbatailler.me/) and 
-give it a shot!
 
-[^1]: Yeah. It happens.
-
-[^2]: Dohle, S., & Siegrist, M. (2014). Fluency of pharmaceutical drug names predicts perceived hazardousness, assumed side effects and willingness to buy. _Journal of Health Psychology_, _19_(10), 1241-1249. doi: 10.1177/1359105313488974
-
-[^3]: This has to be understood as the one with the lowest number of false positive. Yzerbyt, V., Muller, D., **Batailler, C.**, & Judd, C. M. (2018). New recommendations for testing indirect effects in medi‑ational models: The need to report and test component paths. _Journal of Personality and Social Psychology_, _115_(6), 929–943. 10.1037/pspa0000132
