@@ -49,12 +49,10 @@ The picture below is of a motorised valve.
 {{< figure src="image001.png" caption="A motorised valve, typically costing £25" >}}
 
 A motorised valve is comprised of the following:
- 
 - (1) Powerhead also known as an actuator (the silver box at the top)
 - (2) The 2 or 3 port body (the brass part underneath)
  
-In addition, the actuator (silver box on top) contains the follow and more inside it
- 
+In addition, the actuator (silver box on top) contains the follow and more inside it:
 - Micro switch
 - Spring return
 - Synchron motor
