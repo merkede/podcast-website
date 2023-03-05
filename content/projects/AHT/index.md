@@ -48,7 +48,6 @@ It is imperative that we adopt a scientific and data-driven approach to comprehe
 
 Lacking a comprehensive system for tracking and monitoring the parts installed and improving the notes taken by engineers during their visits to identify the causes of breakdowns, we will continue to lack the necessary data collection to enhance our service offering. 
 
-{{< figure src="img/Agent_Wrap.jpg" caption="A well performing soft trial allowed for the progression to a hard trial and productionisation of the model" >}}
 
 
 ### Defining the problem
@@ -70,12 +69,28 @@ on which was the glass[^1]. Indirect.
 ------------------------------------------------------------------------
 
 
-# Is this a problem? Is it worth solving?
+### Agent New Starters
 
-**Mediation analysis** is a statistical tool that can be use to find out that 
-the reason why people are less likely to buy drugs with complex name is because 
-they percieved the drugs as more dangerous. While there are several ways to
-conduct mediation analysis, the `JSmediation` package implements the best one
-of them[^3]: joint-significance.
+------------------------------------------------------------------------
+
+{{< figure src="img/Agent_New_Starter.jpg" caption="Average Agent Tenure and volumes of Agents by Tenure" >}}
+
+------------------------------------------------------------------------
+
+### Agent - Engage Time
 
 
+------------------------------------------------------------------------
+
+{{< figure src="img/Agent_Engage.jpg" caption="Agent engage time" >}}
+
+------------------------------------------------------------------------
+
+### Agent - Wrap Time
+
+
+------------------------------------------------------------------------
+
+{{< figure src="img/Agent_Wrap.jpg" caption="Agent wrap time" >}}
+
+------------------------------------------------------------------------
