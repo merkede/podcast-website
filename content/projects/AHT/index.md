@@ -40,6 +40,18 @@ Popper's theory of knowledge emphasizes the importance of critical thinking and 
 
 
 
+**How is the problem allowed to happen?'**
+
+The challenge of repeat breakdowns at British Gas persists due to several contributing factors, including deficient procurement checks and insufficient field training. Furthermore, as the customers' homes operate as black boxes, it becomes arduous to track and monitor all activities, leading to a dearth of knowledge concerning the cause of breakdowns. This inadequate understanding makes it difficult to forestall these issues from arising.
+
+**How is something allowed to persist?'**
+
+It is imperative that we adopt a scientific and data-driven approach to comprehensively understand our current situation.
+
+Lacking a comprehensive system for tracking and monitoring the parts installed and improving the notes taken by engineers during their visits to identify the causes of breakdowns, we will continue to lack the necessary data collection to enhance our service offering. 
+
+{{< figure src="image001-01.png" caption="Breaking down a problem" >}}
+
 
 ### What is the problem, Is it a problem worth solving ...
 
