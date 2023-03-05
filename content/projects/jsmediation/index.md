@@ -32,9 +32,7 @@ Predictive Maintenance app covers:
 
 ### Defining the problem
 
-- Managing stakeholders
-
-*Our stakeholder approaches me with the problem 'Are breakdowns predictable?'*
+*A senior business stakeholder approaches me with the problem 'Are breakdowns predictable?'*
 
 The impetus for this project was the rise in repeat breakdowns at British Gas, without a clear understanding of the root cause. 
 
