@@ -69,7 +69,7 @@ on which was the glass[^1]. Indirect.
 
 
 
-{{< figure src="img/Agent_Call_Types_copy.jpg" caption="Agent Call Types" >}}
+{{< figure src="img/Agent_Call_Types_copy.jpeg" caption="Agent Call Types" >}}
 
 ### Agent New Starters
 
