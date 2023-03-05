@@ -20,23 +20,27 @@ links:
 
 ### TL;DR
 
-TL;DR - I developed an R Shiny app that assists field engineers choose the best parts for repairs, available on their tablets during a job, to enhance customer satisfaction. The app influenced business decisions on the procurement and installation of original parts, reducing repeat appointments and boosting customer NPS.
+TL;DR - I developed an R Shiny app that assists field engineers in choosing the best parts for repairs, whilst at the customers property, to enhance customer satisfaction. The app influenced business decisions on the procurement and installation of original parts, reducing repeat appointments and boosting customer NPS.
 
+Predictive Maintenance app covers:
+
+- Time to Failure
+- Association Rules
+- Unusual part order detection
 
 ## AFT and Cox-Propotional Hazard (CPH) ... survival analysis using SPARK
 
-### Defining the probem
+### Defining the problem
 
 - Managing stakeholders
 
-> Our stakeholder approaches us with the problem 'Are breakdowns predictable?'
+*Our stakeholder approaches me with the problem 'Are breakdowns predictable?'*
 
-Upon initial review of the issue, two potential solutions presented themselves: utilizing historical time-series data to forecast equipment breakdowns or implementing a time-to-failure algorithm. However, prior to pursuing these technical approaches, it is crucial to gain a thorough understanding of the business problem being addressed. 
+The impetus for this project was the rise in repeat breakdowns at British Gas, without a clear understanding of the root cause. 
 
-This includes conducting a cost-benefit analysis to determine the potential impact of a solution and to weigh the resources required against the value they will bring to the organization. By taking a strategic and data-driven approach, we can ensure that any solution we implement aligns with our overall business goals and delivers a meaningful return on investment.
+To address this issue, I sought to predict when customers would experience a breakdown by taking a first principles approach - identifying that a breakdown occurs when a part within the boiler fails. By predicting when a part would fail, I could predict, with some probability, when a breakdown would likely occur.
 
-- First Principles Thinking
-
+> The first principles approach is a problem-solving methodology that involves breaking down a complex problem into its fundamental elements and then reassembling them to arrive at a solution.
 
 [Have](https://www.databricks.com/glossary/predictive-maintenance)
 
