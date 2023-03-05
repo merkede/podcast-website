@@ -62,35 +62,35 @@ cat will end up scared which will result in a jump right onto a table, table
 on which was the glass[^1]. Indirect.
 
 
-------------------------------------------------------------------------
+
 
 {{< figure src="img/Agent_Tenure.jpg" caption="Average Agent Tenure and volumes of Agents by Tenure" >}}
 
-------------------------------------------------------------------------
+
 
 
 ### Agent New Starters
 
-------------------------------------------------------------------------
+
 
 {{< figure src="img/Agent_New_Starter.jpg" caption="Average Agent Tenure and volumes of Agents by Tenure" >}}
 
-------------------------------------------------------------------------
+
 
 ### Agent - Engage Time
 
 
-------------------------------------------------------------------------
+
 
 {{< figure src="img/Agent_Engage.jpg" caption="Agent engage time" >}}
 
-------------------------------------------------------------------------
+
 
 ### Agent - Wrap Time
 
 
-------------------------------------------------------------------------
+
 
 {{< figure src="img/Agent_Wrap.jpg" caption="Agent wrap time" >}}
 
-------------------------------------------------------------------------
+
