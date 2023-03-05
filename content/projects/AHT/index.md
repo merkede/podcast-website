@@ -26,8 +26,10 @@ Karl Popper's view of falsification and his theory of knowledge suggest scientif
 
 ### TL;DR
 
+As a result of my efforts to address problematic behaviours and retrain call agents at specific call sites, average call handling times at British Gas were reduced by an average of 2 minutes. These changes also led to a significant decrease in wrap times and eliminated bad practices of agents prematurely ending calls or transferring them. 
 
-
+I developed and implemented an anomaly detection algorithm that performed batch inference on D+2 (day +2) data to identify unusually high numbers of "short calls" - the best indicator of agent malpractice. Significant system changes were implemented, rerouting calls tagged as 'Null' to the dial pad selection option, instead of sending them to the 'General Enquiries', preventing unnecessary call transfers.
+ 
 **Business perspective - **
 
 
