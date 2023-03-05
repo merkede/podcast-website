@@ -4,7 +4,7 @@ summary: |
   Let's not work to solve a problem, let us try In social science, statistical mediation models are a popular method to show
   causality. The `JSmediation` package implements mediation models in an 
   easy-to-use R package.
-date: 2019-06-13
+date: 2021-06-14
 categories:
   - R package
 
