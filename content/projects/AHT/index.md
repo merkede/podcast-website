@@ -11,21 +11,37 @@ links:
   - icon: link
     icon_pack: fas
     name: docs
-    url: https://jsmediation.cedricbatailler.me/
+    url: 
   - icon: github
     icon_pack: fab
     name: source
-    url: https://github.com/cedricbatailler/jsmediation
+    url: 
 ---
 
+### Inspiration
 
-# TL;DR
+This project sparked my interest in the philosophy of science, leading me to take a course on the subject at Oxford University's Department for Contiuning Education. As part of my coursework, I wrote an assignment entilted 'The demarcation between science and pseudoscience', which relates to the importance of falsifiability and testability of hypotheses. This concept proved relevant in the project, as various opinions on the causes of rising AHT were expressed without adequate evidence. 
 
-TL;DR - 
+- Karl Popper
+
+Karl Popper's view of falsification and his theory of knowledge had a profound impact on my understanding of the philosophy of science. Popper believed that scientific theories should not be based on verification but on falsifiability. In other words, it is impossible to prove a theory correct, but it is possible to prove it false. 
+
+Popper's theory of knowledge emphasizes the importance of critical thinking and openness to criticism. He argued that knowledge is not absolute, but rather tentative and subject to change based on new evidence. This idea is particularly relevant in this project and helped me develop a more critical and rigorous mindset, always questioning and testing my assumptions to ensure that I was making accurate predictions and delivering value to our customers.
+
+### TL;DR
 
 
 
-# What is the problem, Is it a problem worth solving ...
+**Business perspective - **
+
+
+
+**Customers perspective - **
+
+
+
+
+### What is the problem, Is it a problem worth solving ...
 
 # What is Hedging ...
 
