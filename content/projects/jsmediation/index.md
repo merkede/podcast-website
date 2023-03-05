@@ -42,7 +42,7 @@ To address this issue, I sought to predict when customers would experience a bre
 
 As the project advanced through sprint cycles, I enhanced the app to include features such as part associations and anomaly part order detection, enabling engineers to order parts efficiently and minimize the need for multiple appointments. Additionally, the app helped the business manage its inventory by detecting unusual part orders and ensuring that vans were stocked with parts in short supply[.](https://www.databricks.com/glossary/predictive-maintenance)
 
-### Uncovering poor procedures.
+### Uncovering poor procedures (EDA)
 
 The picture below is of a motorised valve.  
 
