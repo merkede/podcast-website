@@ -48,14 +48,11 @@ Our project began by analyzing the time to failure of common parts in our custom
 
 The challenge of repeat breakdowns at British Gas persists due to several contributing factors, including deficient procurement checks and insufficient field training. Furthermore, as the customers' homes operate as black boxes, it becomes arduous to track and monitor all activities, leading to a dearth of knowledge concerning the cause of breakdowns. This inadequate understanding makes it difficult to forestall these issues from arising.
 
-**How is something allowed to persist?'**
+**How is problem allowed to persist?'**
 
 It is imperative that we adopt a scientific and data-driven approach to comprehensively understand our current situation.
 
 Lacking a comprehensive system for tracking and monitoring the parts installed and improving the notes taken by engineers during their visits to identify the causes of breakdowns, we will continue to lack the necessary data collection to enhance our service offering. 
-
-{{< figure src="image001-1.png" caption="Breaking down a problem" >}}
-
 
 ### Uncovering poor procedures (EDA)
 
