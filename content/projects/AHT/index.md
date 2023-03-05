@@ -48,7 +48,7 @@ It is imperative that we adopt a scientific and data-driven approach to comprehe
 
 Lacking a comprehensive system for tracking and monitoring the parts installed and improving the notes taken by engineers during their visits to identify the causes of breakdowns, we will continue to lack the necessary data collection to enhance our service offering. 
 
-{{< figure src="image001-01.png" caption="Breaking down a problem" >}}
+{{< figure src="img/Picture_1.jpg" caption="A well performing soft trial allowed for the progression to a hard trial and productionisation of the model" >}}
 
 
 ### Defining the problem
