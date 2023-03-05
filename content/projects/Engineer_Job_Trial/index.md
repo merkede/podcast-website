@@ -71,18 +71,15 @@ Upon successful performance in the soft trial, changes were made to the live sys
 
 During the hard trial, I monitored the performance of the patches and compared it against a control patch of similar conditions that still used the old times to ensure that the changes were effective. This approach helped us implement the changes while minimizing disruption and ensuring that we delivered improvements that met our goals.
 
-------------------------------------------------------------------------
 {{< figure src="images/control.jpeg" caption="Designing an experiment in which engineers with new times form the test and engineers with standard times form control group" >}}
-------------------------------------------------------------------------
+
 
 ### Soft Trial
 
 - After conducting a 2-week trial, we found that our engineers were able to complete their tasks significantly faster using our new method, outperforming the current times at a ratio of 7 to 3. This time savings on each job adds up quickly when scaled across the total number of jobs we perform, resulting in substantial cost savings and increased capacity for additional jobs. Moreover, the improved efficiency of our engineers during winter backlog periods results in improved customer satisfaction by reducing forced errors.
 
 
-------------------------------------------------------------------------
 {{< figure src="images/Picture_1.jpg" caption="A well performing soft trial allowed for the progression to a hard trial and productionisation of the model" >}}
-------------------------------------------------------------------------
 
 
 ### Hard Trial
@@ -102,10 +99,7 @@ Due to infrastructure limitations, batch inference was the only viable option fo
 
 Databricks Workflow allowed me to schedule and connect notebooks, creating an end-to-end pipeline that streamlined the entire process. The automation of the data ingestion pipeline and intermediary pipelines through to model registry, model performance, and unit/integration testing enabled me to track and monitor the performance of the models in real-time.
 
-------------------------------------------------------------------------
 {{< figure src="images/workflows.jpeg" caption="Databricks workflows allows you to schedule multiple scripts (ingestion to inference) to run on different clusters." >}}
-------------------------------------------------------------------------
-
 
 ### Monitoring model performance
 
@@ -113,9 +107,7 @@ In order to effectively monitor the performance of the model, I engaged a data e
 
 To ensure seamless and accessible visualization of the project's progress, I decided to integrate PowerBI with Databricks. Although Databricks has in-built dashboard features, it would require stakeholders to obtain a license or for the dashboard endpoint to be hosted as a web service, which could be cumbersome. As each member of the company has access to PowerBI by default, integrating the two platforms was the most practical choice. 
 
-------------------------------------------------------------------------
 {{< figure src="images/powerbi.jpeg" caption="Databricks workflows allows you to schedule multiple scripts (ingestion to inference) to run on different clusters." >}}
-------------------------------------------------------------------------
 
 ## Making an impact
 
