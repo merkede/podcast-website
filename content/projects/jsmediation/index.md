@@ -47,9 +47,7 @@ This includes conducting a cost-benefit analysis to determine the potential impa
 
 The picture below is of a motorised valve.  
 
-------------------
 {{< figure src="image001.png" caption="A motorised valve, typically costing £25" >}}
-------------------
 
 A motorised valve is comprised of the following:
  
