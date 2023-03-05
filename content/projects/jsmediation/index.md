@@ -30,9 +30,6 @@ The business was able to make better procurement decisions, negotiate with suppl
 
 With better part procurement, association insights and increased engineer field capacity, customers are able to enjoy uninterrupted supply of heat and hot water and not troubled into contacting our contact centres. 
 
-
-## AFT and Cox-Propotional Hazard (CPH) ... survival analysis using SPARK
-
 ### Defining the problem
 
 **A senior business stakeholder approaches me with the problem 'Are breakdowns predictable?'**
@@ -47,11 +44,18 @@ Our project began by analyzing the time to failure of common parts in our custom
 
 > Our customers take out boiler breakdown insurance cover hoping to enjoy uninterrupted supply of heat and hot water. What better way to achieve this then antcipating a breakdown and preventing it from happening!
 
-Predictive Maintenance app covers:
+**How is the problem allowed to happen?'**
 
-- Time to Failure
-- Association Rules
-- Unusual part order detection
+The challenge of repeat breakdowns at British Gas persists due to several contributing factors, including deficient procurement checks and insufficient field training. Furthermore, as the customers' homes operate as black boxes, it becomes arduous to track and monitor all activities, leading to a dearth of knowledge concerning the cause of breakdowns. This inadequate understanding makes it difficult to forestall these issues from arising.
+
+**How is something allowed to persist?'**
+
+It is imperative that we adopt a scientific and data-driven approach to comprehensively understand our current situation.
+
+Lacking a comprehensive system for tracking and monitoring the parts installed and improving the notes taken by engineers during their visits to identify the causes of breakdowns, we will continue to lack the necessary data collection to enhance our service offering. 
+
+{{< figure src="image001-01.png" caption="Breaking down a problem" >}}
+
 
 ### Uncovering poor procedures (EDA)
 
@@ -70,18 +74,20 @@ In addition, the actuator (silver box on top) contains the follow and more insid
  
 Engineers attempted cost-saving by modifying motorised valve parts instead of replacing them for £25. However, this was identified as a false economy as fixing the part led to future breakdowns within 2 months. By replacing the part, significant cost savings were achieved, and future breakdowns prevented. This change was one of the successful outcomes of the project.
 
-
 ### Time to failure
 
 - Cox Hazard
 
 The Cox proportional hazards model, also known as the Cox regression model, is a type of survival analysis method used to model time-to-event data. It's particularly useful when examining the relationship between predictor variables and a time-to-event outcome, such as predicting when a part in a boiler will fail.
 
+{{< figure src="excel_graph2.jpg" caption="Comparing lifetime of different Synchron motors aiding engineers and procurement teams in making critical decisions" >}}
+
 - Left and Right censoring
 
-Left censoring occurs when some of the event times are not known precisely but only known to be at least as large as some value. Right censoring, on the other hand, occurs when some of the event times are not observed because the study ends before they occur. 
+Left censoring occurs when some of the event times are not known precisely but only known to be at least as large as some value. 
+Right censoring, on the other hand, occurs when some of the event times are not observed because the study ends before they occur. 
 
-In this project, I used the Cox-Hazard method to run a survival analysis on the time-to-failure of common parts across boiler makes in our customer base. By taking left and right censoring into account and scaling the model using sparklyR, we were able to accurately predict when a part was likely to fail, allowing us to schedule preventative maintenance and reduce the number of breakdowns.
+In this project, I used the Cox-Hazard method to run a survival analysis on the time-to-failure of common parts across boiler makes in our customer base. By taking left and right censoring into account and scaling the model using sparklyR, I was able to accurately predict when a part was likely to fail, allowing us to schedule preventative maintenance and reduce the number of breakdowns.
 
 {{< figure src="excel_graph.jpg" caption="Analysing time to failure of a particular part used by British Gas engineers during boiler repair visits" >}}
 
@@ -106,8 +112,6 @@ These insights enabled our procurement and services management team to craft a v
 {{< figure src="excel_graph6.jpg" caption="Comparing lifetime of two different PCB brand parts for a BAXI boiler & a refubished equivalent (blue)" >}}
 
 {{< figure src="excel_graph5.jpg" caption="Comparing lifetime of two different PCB brand parts for a Gloworm boiler & a refubished equivalent (blue)" >}}
-
-{{< figure src="excel_graph2.jpg" caption="Comparing lifetime of different Synchron motors aiding engineers and procurement teams in making critical decisions" >}}
 
 ------------------
 
