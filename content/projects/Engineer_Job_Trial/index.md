@@ -22,8 +22,15 @@ links:
 
 ### TL;DR
 
-**Productionisation of an end-to-end machine learning model built using Azure ML and Databricks, reducing allocated engineer job times by 15%, saving £2million per annum, driving efficiencies and cost savings.**
+Productionisation of an end-to-end machine learning model built using Azure ML and Databricks, reducing allocated engineer job times by 15%, saving £2million per annum, driving efficiencies and cost savings.
 
+**From a business perspective:**
+
+Optimizing our processes and resources to address the issue of overbooking and rescheduling of appointments has significant benefits for our business. By reducing inefficiencies, we can maximize our profitability and increase the number of jobs completed in a day. This not only saves us money but also improves our reputation and customer satisfaction. Implementing guardrails and optimizing our systems can prevent gaming of the system, further reducing inefficiencies and improving overall performance.
+
+**From a customer perspective:**
+
+Our customers rely on us to provide quick and efficient resolution of their problems. By optimizing our processes and allocating resources efficiently, we can reduce the number of reschedules and provide customers with more precise job time predictions. This means that they will not have to waste their time waiting for engineers to arrive or rescheduling appointments, improving overall customer satisfaction. By putting our customer first, we can better customer experience and increase the likelihood of customer retention.
 
 ### Defining the problem
 
