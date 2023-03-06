@@ -22,76 +22,29 @@ links:
 
 ### TL;DR
 
-This project was an engagement between Centrica and NEAS Energy (based in Denmark). The high-level solution was an R package containing a model that detected anomalies in current fuel levels, applied SVM filters to clean data and a prediction model that would predict future fuel levels  
+Through collaboration between Centrica's Data Science team and NEAS Energy's ATS in Denmark, the development of an R forecasting package was achieved, resulting in a significant profit increase of £10k for NEAS Energy's ATS team. This innovative solution not only increased profits for NEAS Energy's ATS team but has also paved the way for future collaborations and advancements in the field of energy trading.
 
+The forecasting package is highly scalable and applicable across various biogas assets. The solution includes an anomaly detection model that applies SVM filters to clean data and a predictive model that accurately forecasts future biogas tank fuel levels. This information is then fed into NEAS Energy's Lebrade trading algorithm, which leverages optimal spot prices and employs hedging strategies to determine the most profitable time to sell power generated.
 
 **Business perspective - **
 
+NEAS Energy's Algorithmic Trading Solutions (ATS) team sought to acquire and manage energy generating assets that were often overlooked by larger energy companies due to their problems. To achieve this strategy, they acquired a biogas asset with a faulty sensor and turned to Centrica's Data Science team to create a more accurate prediction model for the biogas fuel level. The resulting R package contained a model that detected anomalies and predicted future fuel levels, allowing NEAS Energy to sell the generated power at optimal spot prices using the Lebrade trading algorithm. 
 
+By acquiring seemingly undesirable assets at scale with small profit margins, NEAS Energy could generate significant profits when aggregated. This project resulted in a net profit of 10k for NEAS Energy's ATS team and the development of a universal forecasting package that could be scaled across multiple biogas assets, providing long-term value for the company.
 
 **Customers perspective - **
 
+The successful collaboration on this project between NEAS Energy and the customer has solidified the relationship and fostered a collaborative approach that benefits both parties. As a result, the project has opened up many new opportunities for future projects and further collaboration. This has resulted in a stronger, more profitable relationship between the two companies. The project's success demonstrates the value of a collaborative and straightforward approach to business relationships, leading to mutual benefits and long-term success.
 
 ### Defining the problem
 
+NEAS Energy was facing a significant business problem in acquiring biogas assets that were not turning a profit due to faulty sensors and inaccurate fuel level readings. This lack of visibility into fuel levels made it difficult to determine how much fuel could be fed into the CHB turbine to generate power for the Lebrade algorithm to hedge. 
 
+> Faulty sensor readings in a biogas asset hinder efficient power production and sales due to uncertainty in fuel level.
 
-**How is the problem allowed to happen?'**
+The development of a reliable and accurate forecasting solution was critical to enable NEAS Energy to acquire seemingly undesirable assets on a large scale for a small profit margin and generate significant profits when these assets are effectively managed.
 
-A vast number of our calls do not contain NLCS (natural language call steering) tags and even more contain the tag 'NONE COLLECTED' suggesting either the customer was silent or the speech recognition was not upto task.
-
-
-**How is something allowed to persist?'**
-
-Questions also remain regarding 
-
-It is imperative that we adopt a scientific and data-driven approach to comprehensively understand our current situation.
-
-Lacking a comprehensive system for tracking and monitoring the parts installed and improving the notes taken by engineers during their visits to identify the causes of breakdowns, we will continue to lack the necessary data collection to enhance our service offering. 
-
-
-
-
-
-Effects things have on other are sometimes indirect. Let's take an example
-involving a soccer ball and a broken glass. Sometimes, you will break a glass by
-shooting the ball right onto it. But sometimes not. Sometimes, the ball will
-land next to a cat, a cat peacefully sleeping on someone's lap. Sometimes, the 
-cat will end up scared which will result in a jump right onto a table, table 
-on which was the glass[^1]. Indirect.
-
-
-
-
-{{< figure src="img/Agent_Tenure.jpg" caption="Average Agent Tenure and volumes of Agents by Tenure" >}}
-
-
-
-{{< figure src="img/Agent_Call_Types_copy.jpeg" caption="Agent Call Types" >}}
-
-### Agent New Starters
-
-
-
-{{< figure src="img/Agent_New_Starter.jpg" caption="Average Agent Tenure and volumes of Agents by Tenure" >}}
-
-
-
-### Agent - Engage Time
-
-
-
-
-{{< figure src="img/Agent_Engage.jpg" caption="Agent engage time" >}}
-
-
-
-### Agent - Wrap Time
-
-
-
-
-{{< figure src="img/Agent_Wrap.jpg" caption="Agent wrap time" >}}
+{{< figure src="img/biogas.jpg" caption="My simplified understanding of the end-to-end process" >}}
 
 
 
