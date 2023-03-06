@@ -46,5 +46,28 @@ The development of a reliable and accurate forecasting solution was critical to 
 
 {{< figure src="img/biogas.jpg" caption="My simplified understanding of the end-to-end process" >}}
 
+### Privacy agreement
+
+The model incorporates client data such as input biomass, daily schedule, and location-specific weather information, as well as sensitive information related to NEAS Energy's proprietary Lebrade algorithm. To ensure the security of this data, a privacy impact assessment (PIA) was conducted, and secure measures were implemented for safe data transfer and automatic deletion.
+
+### Data Cleaning
+
+My approach to cleaning the biogas asset data involved implementing a smoothing technique called loess smoothing. This technique allowed me to eliminate the volatility in the fuel level data, which could have resulted in inaccurate predictions of power generation and decreased profits for NEAS Energy.
+
+To ensure the accuracy of my model, I calculated the mean square error (mse) between the original data and the loess line. I then split the entire time series into multiple chunks and calculated the mean square error per chunk. This helped identify and remove any outliers that could have skewed the results.
+
+{{< figure src="img/svm.jpg" caption="A one-class SVM identifying cases where mean square error between loess trend and actuals are extreme" >}}
+
+------------------------------
+
+Another important task was differentiating between charging and discharging of the fuel tank. When fuel levels are increasing with time, I flag this as charging and when fuel levels decrease with time the tank level is discharging.
+
+> Constant values in the production table signal a connection loss
+
+By creating an increasing and decreasing label for the fuel levels, I was able to identify significant periods of time where the levels remained constant. This was a critical step as it allowed me to identify that these periods of constant values represented a disconnection with the faulty sensor - often followed by a sudden spike or dip in the fuel level, indicating an incorrect reading. This helped me to more accurately clean the data and remove outliers, leading to more reliable and accurate predictions.
+
+{{< figure src="img/outlier.jpg" caption="Observing cases when the sensor is behaving odd and providing faulty readings" >}}
+
+### Model
 
 
