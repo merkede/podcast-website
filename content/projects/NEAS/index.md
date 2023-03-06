@@ -22,9 +22,7 @@ links:
 
 ### TL;DR
 
-Through collaboration between Centrica's Data Science team and NEAS Energy's ATS in Denmark, the development of an R forecasting package was achieved, resulting in a significant profit increase of £10k for NEAS Energy's ATS team. This innovative solution not only increased profits for NEAS Energy's ATS team but has also paved the way for future collaborations and advancements in the field of energy trading.
-
-The forecasting package is highly scalable and applicable across various biogas assets. The solution includes an anomaly detection model that applies SVM filters to clean data and a predictive model that accurately forecasts future biogas tank fuel levels. This information is then fed into NEAS Energy's Lebrade trading algorithm, which leverages optimal spot prices and employs hedging strategies to determine the most profitable time to sell power generated.
+Through collaboration between Centrica's Data Science team and NEAS Energy's ATS in Denmark, the development of an R fuel-level forecasting package was achieved, resulting in a significant profit increase of £10k for NEAS Energy's ATS team. This innovative solution not only increased profits for NEAS Energy's ATS team but has also paved the way for future collaborations and advancements in the field of energy trading.
 
 **Business perspective**
 
@@ -41,6 +39,8 @@ The successful collaboration on this project between NEAS Energy and the custome
 NEAS Energy was facing a significant business problem in acquiring biogas assets that were not turning a profit due to faulty sensors and inaccurate fuel level readings. This lack of visibility into fuel levels made it difficult to determine how much fuel could be fed into the CHB turbine to generate power for the Lebrade algorithm to hedge. 
 
 > Faulty sensor readings in a biogas asset hinder efficient power production and sales due to uncertainty in fuel level.
+
+This information is then fed into NEAS Energy’s Lebrade trading algorithm, which leverages optimal spot prices and employs hedging strategies to determine the most profitable time to sell power generated.
 
 The development of a reliable and accurate forecasting solution was critical to enable NEAS Energy to acquire seemingly undesirable assets on a large scale for a small profit margin and generate significant profits when these assets are effectively managed.
 
