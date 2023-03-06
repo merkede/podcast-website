@@ -1,7 +1,7 @@
 ---
 title: Fuel-level & trade optimisation
 summary: |
-  Understanding how to reduce OPEX with our call centres
+  Generating £10k profit for NEAS Energy's ATS team
   
 date: 2011-01-13
 categories:
