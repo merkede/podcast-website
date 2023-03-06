@@ -58,8 +58,6 @@ To ensure the accuracy of my model, I calculated the mean square error (mse) bet
 
 {{< figure src="img/svm.jpg" caption="A one-class SVM identifying cases where mean square error between loess trend and actuals are extreme" >}}
 
-------------------------------
-
 Another important task was differentiating between charging and discharging of the fuel tank. When fuel levels are increasing with time, I flag this as charging and when fuel levels decrease with time the tank level is discharging.
 
 > Constant values in the production table signal a connection loss
@@ -68,6 +66,13 @@ By creating an increasing and decreasing label for the fuel levels, I was able t
 
 {{< figure src="img/outlier.jpg" caption="Observing cases when the sensor is behaving odd and providing faulty readings" >}}
 
+### Noise v/s signal
+
+Constant values in the production table signal a connection loss. To maintain a continuous time-series view of the data, I identified periods of signal loss in the production table as 'FALSE' or noise and inferred these values. The signal was referred to as 'TRUE'.
+
+{{< figure src="img/correct.jpg" caption="Constant values in the production table signal a connection loss" >}}
+
 ### Model
+
 
 
