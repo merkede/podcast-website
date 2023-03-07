@@ -26,9 +26,10 @@ Through collaboration between Centrica's Data Science team and NEAS Energy's ATS
 
 **Business perspective**
 
-NEAS Energy's Algorithmic Trading Solutions (ATS) team sought to acquire and manage energy generating assets that were often overlooked by larger energy companies due to their problems. To achieve this strategy, they acquired a biogas asset with a faulty sensor and turned to Centrica's Data Science team to create a more accurate prediction model for the biogas fuel level. The resulting R package contained a model that detected anomalies and predicted future fuel levels, allowing NEAS Energy to sell the generated power at optimal spot prices using the Lebrade trading algorithm. 
+NEAS Energy's Algorithmic Trading Solutions (ATS) team sought to acquire and manage energy generating assets that were often overlooked by larger energy companies due to their problems. By acquiring seemingly undesirable assets at scale with small profit margins, NEAS Energy could generate significant profits at scale. 
 
-By acquiring seemingly undesirable assets at scale with small profit margins, NEAS Energy could generate significant profits when aggregated. This project resulted in a net profit of 10k for NEAS Energy's ATS team and the development of a universal forecasting package that could be scaled across multiple biogas assets, providing long-term value for the company.
+To achieve this strategy, they acquired a biogas asset with a faulty sensor and turned to Centrica's Data Science team to create a more accurate prediction model for the biogas fuel level. The resulting R package contained a model that detected anomalies and predicted future fuel levels, allowing NEAS Energy to sell the generated power at optimal spot prices using the Lebrade trading algorithm. 
+
 
 **Customers perspective**
 
@@ -36,7 +37,7 @@ The successful collaboration on this project between NEAS Energy and the custome
 
 ### Defining the problem
 
-NEAS Energy was facing a significant business problem in acquiring biogas assets that were not turning a profit due to faulty sensors and inaccurate fuel level readings. This lack of visibility into fuel levels made it difficult to determine how much fuel could be fed into the CHB turbine to generate power for the Lebrade algorithm to hedge. 
+NEAS Energy was facing a significant business problem in acquiring biogas assets that were not turning a profit due to faulty sensors and inaccurate fuel level readings. This lack of visibility into fuel levels made it difficult to determine how much fuel could be fed into the CHP engines to generate power for the Lebrade algorithm to hedge. 
 
 > Faulty sensor readings in a biogas asset hinder efficient power production and sales due to uncertainty in fuel level.
 
@@ -76,3 +77,14 @@ Constant values in the production table signal a connection loss. To maintain a 
 
 
 
+
+
+{{< figure src="img/iter.jpg" caption="Constant values in the production table signal a connection loss" >}}
+
+
+
+
+{{< figure src="img/mae.jpg" caption="Constant values in the production table signal a connection loss" >}}
+
+
+{{< figure src="img/validation.jpg" caption="Constant values in the production table signal a connection loss" >}}
