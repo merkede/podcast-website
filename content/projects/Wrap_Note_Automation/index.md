@@ -63,7 +63,7 @@ The model is called "Text-to-Text" because it is designed to handle a wide range
 
 T5 is a transformer-based model, which means it is built on the architecture of the transformer model introduced in the 2017 paper "Attention is All You Need."
 
-{{< figure src="images/new_text_to_text.jpg" caption="A T5 transformer-based model" >}}
+{{< figure src="img/new_text_to_text.jpg" caption="A T5 transformer-based model" >}}
 
 ### Pre-trained model
 
