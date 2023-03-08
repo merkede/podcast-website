@@ -1,6 +1,6 @@
 ---
 title: "Hamzah Javaid"
-subtitle: "Lead Data scientist with philosophical tendencies"
+subtitle: "Lead Data scientist ... with philosophical tendencies"
 
 description: "**TL;DR**  | I am a Data Scientist with a passion for philosophy.
        \
