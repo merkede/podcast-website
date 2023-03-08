@@ -6,6 +6,7 @@ date: 2021-06-13
 categories:
   - Azure Machine Learning
   - Hugging Face transformers
+  - NLP
 
 links:
   - icon: link
