@@ -22,7 +22,7 @@ links:
 
 ### Inspiration
 
-**This project served as inspiration for my studies in Oxford University's 'Algorithmic Trading Programme'**
+This project served as inspiration for my studies in Oxford University's 'Algorithmic Trading Programme'
 
 ### TL;DR
 
