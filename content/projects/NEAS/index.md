@@ -20,16 +20,19 @@ links:
     url: 
 ---
 
+### Inspiration
+
+**This project served as inspiration for my studies in Oxford University's 'Algorithmic Trading Programme'**
+
 ### TL;DR
 
-Through collaboration between Centrica's Data Science team and NEAS Energy's ATS in Denmark, the development of an R fuel-level forecasting package was achieved, resulting in a significant profit increase of £10k for NEAS Energy's ATS team. This innovative solution not only increased profits for NEAS Energy's ATS team but has also paved the way for future collaborations and advancements in the field of energy trading.
+Through collaboration between Centrica's Data Science team and NEAS Energy's ATS in Denmark, the development of an R fuel-level forecasting package was achieved, resulting in a significant profit increase of £10k for NEAS Energy's ATS team. This innovative solution not only increased profits for NEAS Energy's ATS team but has also paved the way for future collaborations and advancements in energy trading.
 
 **Business perspective**
 
 NEAS Energy's Algorithmic Trading Solutions (ATS) team sought to acquire and manage energy generating assets that were often overlooked by larger energy companies due to their problems. By acquiring seemingly undesirable assets at scale with small profit margins, NEAS Energy could generate significant profits at scale. 
 
 To achieve this strategy, they acquired a biogas asset with a faulty sensor and turned to Centrica's Data Science team to create a more accurate prediction model for the biogas fuel level. The resulting R package contained a model that detected anomalies and predicted future fuel levels, allowing NEAS Energy to sell the generated power at optimal spot prices using the Lebrade trading algorithm. 
-
 
 **Customers perspective**
 
@@ -67,24 +70,32 @@ By creating an increasing and decreasing label for the fuel levels, I was able t
 
 {{< figure src="img/outlier.jpg" caption="Observing cases when the sensor is behaving odd and providing faulty readings" >}}
 
-### Noise v/s signal
+### Separating noise from signal
 
-Constant values in the production table signal a connection loss. To maintain a continuous time-series view of the data, I identified periods of signal loss in the production table as 'FALSE' or noise and inferred these values. The signal was referred to as 'TRUE'.
+Constant values in the production table signal a connection loss. To maintain a continuous time-series view of the data, I identified periods of signal loss in the production table as 'FALSE' or noise and inferred these values. The fuel tank level, signal was referred to as 'TRUE'.
 
 {{< figure src="img/correct.jpg" caption="Constant values in the production table signal a connection loss" >}}
 
 ### Model
 
+xgboost is an advanced gradient boosting library that uses decision trees as base learners. It works by iteratively adding new trees to the model while minimizing the loss function, which in this case is the mean squared error. Typically, it is superior to traditional ensemble techniques in its ability to handle missing values, feature importance selection, and regularization such as L1 and L2 regularization. 
 
+During the hyperparameter tuning process, I found that training the model for 600 iterations produced the optimal performance.
 
+{{< figure src="img/iter.jpg" caption="Finding the optimal number of training iterations" >}}
 
+In machine learning, it is common to use cross-validation and a hold-out set to evaluate the performance of a model. Cross-validation involves partitioning the data into multiple subsets and training the model on each subset, while using the remaining subset for validation. This helps to ensure that the model is not overfitting to the training data and is able to generalize well to new, unseen data.
 
-{{< figure src="img/iter.jpg" caption="Constant values in the production table signal a connection loss" >}}
+By comparing the actual fuel tank levels with the predicted on the hold-out set, I can determine how well the model is able to generalize to new data. 
 
+{{< figure src="img/validation.jpg" caption="The models performance against actuals in predicting fuel tank levels" >}}
 
+### Delivery
 
+In delivering ths project, I came to understand the importantance to understand of delivering functional, usable, and testable code that can be easily integrated into existing systems. To achieve this, I utilized various R libraries to wrap my code and documentation into a well-structured R package. Specifically, I leveraged the devtools library to develop and build the R package, roxygen2 to write documentation, testthat to automate testing, and pkgdown to create a website for the package. 
 
-{{< figure src="img/mae.jpg" caption="Constant values in the production table signal a connection loss" >}}
+By using roxygen2, I was able to write detailed documentation for the NEAS ATS team, which simplified their understanding of how to use and integrate the code. This approach facilitated the seamless integration of the R package into their existing systems, increasing their efficiency and productivity. Overall, this approach to packaging and documenting R code is critical in MLops, as it ensures that code is delivered in a functional, usable, and testable format, making it easy for end-users to adopt and incorporate into their work.
 
+### Lebrade algorithm
 
-{{< figure src="img/validation.jpg" caption="Constant values in the production table signal a connection loss" >}}
+"NEAS Energy's ATS team utilized this R package in conjunction with their proprietary 'Lebrade algorithm' to trade the power output from their CHP engines in the market."
