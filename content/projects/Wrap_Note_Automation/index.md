@@ -63,12 +63,15 @@ The model is called "Text-to-Text" because it is designed to handle a wide range
 
 T5 is a transformer-based model, which means it is built on the architecture of the transformer model introduced in the 2017 paper "Attention is All You Need."
 
+{{< figure src="images/new_text_to_text.jpg" caption="A T5 transformer-based model" >}}
+
 ### Pre-trained model
 
 My chosen model, from Hugging face, for the text-summarisaton task was a summarisation model based on the T5 architecture. T5 is a transformer-based model that was pre-trained on a large corpus of text data using a combination of unsupervised and supervised learning. The model was trained to perform a variety of NLP tasks, including language translation, question answering, and summarization.
 
 The model was fine-tuned on a specific dataset of meeting summaries, which enables it to generate high-quality summaries of meeting transcripts. At a high-level, the summarization model works by first encoding the input text using the T5 transformer. The encoded representation of the input is then passed through a series of decoder layers, which generate the output summary one token at a time. The decoder layers use a combination of attention mechanisms and recurrent neural networks (RNNs) to generate the summary in a way that is both accurate and coherent.
 
+### Output
 
 
 Providing customers with a spare replacement hub adaptor for every purchase costs less than the combined cost of customers calling to order a replacement and filing a complaint for a broken adaptor. This is because the cost of these customer service interactions is higher than the unit cost of the product.
