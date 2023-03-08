@@ -4,7 +4,6 @@ summary: |
   Using IoT and data analytics to predict and prevent breakdowns can reduce overall downtime by 50%. [McKinsey].
 date: 2021-06-14
 categories:
-  - R
   - R Shiny
   - Time to Failure
   - Association Rules
