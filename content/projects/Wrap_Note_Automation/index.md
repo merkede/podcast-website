@@ -63,10 +63,11 @@ Webchat transcript - A Webchat transcript is a complete written record of a conv
 **There are two main types of summarization: extractive and abstractive**
 
 Extractive summarisation involves selecting a subset of sentences or phrases from the original text and using them to create a summary. This approach is relatively simple and can be very effective for summarising news articles or scientific papers, where the main ideas are often conveyed in a few key sentences. However, extractive summarisation can be less effective for longer or more complex texts, where the main ideas may be spread out across multiple sentences.
+  
+{{< figure src="img/summary.jpg" caption="The difference between abstractive and extractive summarisation" >}}
 
 Abstractive summarisation, on the other hand, involves generating a summary that is not simply a copy of a subset of the original text, but rather a new text that conveys the main ideas and concepts of the original text in a concise and coherent manner. This approach can be more effective for summarising longer and more complex texts, as it allows the summariser to capture the main ideas of the text even when they are not expressed in a single sentence or paragraph. However, abstractive summarisation can be more challenging than extractive summarisation, as it requires the summariser to have a deeper understanding of the text and to be able to generate new text that is both accurate and coherent.
 
-{{< figure src="img/summary.jpg" caption="The difference between abstractive and extractive summarisation" >}}
 
 ### T5 transformer-model
 
