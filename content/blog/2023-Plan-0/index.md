@@ -33,8 +33,9 @@ Part 1: Drawing the Map to Your Destination
 
 If there is anything 5 years of applied data science has taught me, it's so important to have a clear understanding of the destination you're aiming for. Just like planning a trip, this involves drawing a map that outlines the steps needed to get there. In the context of a Data Science project, this means defining your goals and outlining the key steps needed to achieve them.
 
+----------------------------
 - What's your Why?
-
+----------------------------
 > **“Management is doing things right; leadership is doing the right things.”** - Peter Drucker
 
 
