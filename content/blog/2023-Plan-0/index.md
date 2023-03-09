@@ -39,6 +39,7 @@ To help organize and communicate these steps, it can be helpful to create a one-
 
 In addition to outlining the key steps and milestones, it's important to identify any potential roadblocks or challenges that may arise along the way. This could include data quality issues, technical constraints, or limitations in available resources. By identifying these challenges upfront, you can proactively plan for them and ensure that they don't derail your project.
 
+{{< figure src="img/mapp.jpg" caption="Draw a map, have a clear goal and roadmap" >}}
 
 Part 2: Working Backwards
 
