@@ -33,36 +33,58 @@ Part 1: Drawing the Map to Your Destination
 
 If there is anything 5 years of applied data science has taught me, it's so important to have a clear understanding of the destination you're aiming for. Just like planning a trip, this involves drawing a map that outlines the steps needed to get there. In the context of a Data Science project, this means defining your goals and outlining the key steps needed to achieve them.
 
-----------------------------
 - What's your Why?
-----------------------------
+
 > **“Management is doing things right; leadership is doing the right things.”** - Peter Drucker
 
+It's so easy to jump straight into weeds - discussing the models, getting started with the EDA - without ever asking "Why?".
+ - What is the problem you are trying to solve?
+ - Is it even worth solving/solvable?
+ - Why are we trying to solve it?
 
-
-To start, you'll need to define clear and specific goals for your project. This could be anything from optimizing a business process, to predicting future trends, to building a machine learning model that can classify data accurately. Whatever your goal may be, it's important to clearly define it upfront, as this will guide the rest of your project.
-
-Once you have a clear goal in mind, the next step is to break it down into smaller, actionable steps. This involves outlining the key tasks and milestones that will be needed to achieve your goal. For example, if your goal is to build a machine learning model, some of the key steps might include data cleaning, feature engineering, model selection, and testing.
-
-To help organize and communicate these steps, it can be helpful to create a one-page overview of your project. This can be as simple as a flowchart or a list of bullet points, and should clearly outline the key steps and milestones that will be needed to achieve your goal. This one-pager can be shared with stakeholders and team members, and can help ensure that everyone is on the same page and working towards the same goal.
-
-In addition to outlining the key steps and milestones, it's important to identify any potential roadblocks or challenges that may arise along the way. This could include data quality issues, technical constraints, or limitations in available resources. By identifying these challenges upfront, you can proactively plan for them and ensure that they don't derail your project.
+The data science solution could potentially impact only a small group of customers and have limited long-term potential. Perhaps the ask isn't even a problem or not significant enough to solve. It's crucial to take a step back and reflect on the project's purpose and rationale. Your plan should define clear goals for your project and break them into actionable steps. This can then be followed up with a one-page overview to communicate the steps and milestones to stakeholders and team members. Be sure to also identify potential roadblocks (e.g. data quality issues, technical constraints) and plan proactively for them to avoid project derailment.
 
 {{< figure src="img/mapp.jpg" caption="Draw a map, have a clear goal and roadmap" >}}
 
-Part 2: Working Backwards
+--------------------
+Choose the approach carefully:
 
-Once you have a clear map to your destination, the next step is to work backwards from your goal to identify the data and methods needed to achieve it. This involves identifying the data sources you'll need to collect, the analysis techniques you'll use, and the models or algorithms that will help you reach your goal.
+- Working Backwards 
 
-To start, it's important to consider what data you'll need to collect or access in order to achieve your goal. This could include structured data from databases, unstructured data from web scraping, or external data sources such as APIs or third-party datasets. It's important to consider both the quantity and quality of the data, as well as any potential limitations or biases that may affect your analysis.
+According the "Working Backwards" authors Colin Bryar and Bill Carr, "in a working-backwards world, starting with the customer and working backwards is the only way to build products and services that customers actually want." The approach is centered around the customer's needs and incorporates sentiments of testing and validation during the development process. As Bryar and Carr explain, "The sooner you can validate an assumption, the sooner you can move on to the next assumption or pivot your approach."
 
-Once you have a clear understanding of the data you'll need, the next step is to consider the analysis techniques you'll use to extract insights and build models. This could include statistical analysis, machine learning algorithms, or other data analysis techniques. It's important to consider the strengths and limitations of each technique, and to choose the approach that best fits your goals and data.
+This is also emphasised by Peter Drucker in his writing:
 
-Finally, it's important to consider the models or algorithms that will help you achieve your goal. This could include predictive models, classification algorithms, or other machine learning techniques. It's important to consider the trade-offs between accuracy and interpretability, as well as any potential biases or limitations of the model.
+> "The purpose of a business is to create a customer. The test of the organisation is its capacity to create customers."
 
-Throughout this process, it's important to keep your end goal in mind and to constantly reassess your approach based on the data and insights you uncover. This may involve adjusting your data sources or analysis techniques, refining your models or algorithms, or iterating on your approach based on feedback from stakeholders.
+"Build It And They Will Come" is an approach where the team develops the solution with the assumption that there is a demand for it. This approach is useful when there is a high level of certainty that the solution will be useful to customers, and there is no need for further validation.
+The "Build It And They Will Come" approach assumes that there is a demand for the product or service, but this is not always the case
 
-Part 3: Constraints vs. Boundaries
+{{< figure src="img/working_backwards.jpg" caption="Working Backwards" authors Colin Bryar and Bill Carr" >}}
+
+--------------------
+
+- Defining the Outcome (What)
+
+Define success by specifying the desired outcome in quantifiable terms. This prevents chasing a moving target and helps decide which projects to pursue. Measuring success through business metrics such as conversion or savings from fraud reduction is crucial.
+
+> ***“If you can’t measure it, you can’t change it.”*** - Peter Drucker
+
+Limited resources (e.g. time, money, external support) require prioritisation, so it is critical to choose to invest in something more worthwhile instead of pursuing a problem that requires high accuracy.
+
+- Creating a Deliverable: How to Proceed?
+
+To achieve our desired outcomes, we must design a deliverable that meets our intentions and integrates with our current system. For example, an e-commerce platform may seek to improve product discovery and purchase experiences. We can choose to enhance search, recommendations, or email campaigns. If we opt for recommendations, we need to decide on the deployment method, such as using a daily updating cache or a service that accepts input and returns recommendations.
+
+While a detailed plan is unnecessary, we should sketch out the basics to get buy-in from our business, product, and tech teams. 
+
+> It's crucial to receive feedback on this plan to avoid creating a feature-rich deliverable that doesn't deliver results or can't be integrated. 
+
+Avoid developing an overly complex recommender, for instance, if it cannot be integrated into the system.
+
+-------------------------------
+
+Part 2: Constraints vs. Boundaries
 
 One of the most important considerations in any Data Science project is the distinction between constraints and boundaries. While constraints refer to limitations imposed by the available data, resources, and time, boundaries refer to ethical and moral considerations that guide your approach and decision-making.
 
@@ -70,7 +92,7 @@ One of the most important considerations in any Data Science project is the dist
 
 **Boundaries** - refer to ethical and moral considerations that guide your approach and decision-making. This could include considerations around data privacy, bias and fairness, and transparency in your analysis and decision-making. 
 
-{{< figure src="img/boundaries-vs-constraints.jpg" caption="Avoid the constrints, stay within boundaries" >}}
+{{< figure src="img/boundaries-vs-constraints.jpg" caption="Avoid the constraints, stay within boundaries" >}}
 
 **Growth mindset** - Don't let the concept of boundaries restrict your mindset! When defining boundaries, ensure that you're approaching your project with a growth mindset, rather than a fixed mindset. A growth mindset involves a willingness to learn and adapt based on feedback and new information, while a fixed mindset can lead to rigid and inflexible approaches that are often ineffective.
 
