@@ -1,3 +1,32 @@
+---
+date: 2022-06-10
+
+title: Project prerequisites
+subtitle: |
+
+summary: |
+  “Foresight is not about predicting the future, it’s about minimizing surprise.” - Karl Schroeder
+
+description: |
+    my journey managing a non-tech graduate in the tech field of data science.
+
+author: Hamzah Javaid
+
+show_post_date: true
+show_author_byline: true
+
+format: hugo
+
+draft: false
+
+freeze: auto
+tags:
+- Project Management
+- mechanism
+- data science
+
+---
+
 Part 1: Drawing the Map to Your Destination
 
 Before beginning any Data Science project, it's important to have a clear understanding of the destination you're aiming for. Just like planning a trip, this involves drawing a map that outlines the steps needed to get there. In the context of a Data Science project, this means defining your goals and outlining the key steps needed to achieve them.
