@@ -3,9 +3,15 @@ date: 2022-06-10
 
 title: Project Success 
 subtitle: |
+  Social Learning Theory, the brainchild of psychologist Albert Bandura, 
+  sheds light on the fact that humans are capable of learning through the 
+  observations and mimicking of those around them. 
 
 summary: |
-  “Foresight is not about predicting the future, it’s about minimizing surprise. - Karl Schroeder"
+  The theory sheds a new light on the old saying: "Actions speak louder than words."
+  Social Learning Theory, the brainchild of psychologist Albert Bandura, 
+  sheds light on the fact that humans are capable of learning through the 
+  observations and mimicking of those around them. 
 
 description: |
     my journey managing a non-tech graduate in the tech field of data science.
@@ -21,9 +27,8 @@ draft: false
 
 freeze: auto
 tags:
-- Project Management
-- mechanism
-- data science
+- behaviour
+- pyscology
 
 ---
 
