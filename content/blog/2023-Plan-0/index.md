@@ -1,13 +1,12 @@
 ---
-date: 2022-06-10
+date: 2022-06-11
 
 title: Project Success 
 subtitle: |
-
+  “Foresight is not about predicting the future, it’s about minimizing surprise. - Karl Schroeder"
 
 summary: |
   “Foresight is not about predicting the future, it’s about minimizing surprise. - Karl Schroeder"
-
 
 description: |
     my journey managing a non-tech graduate in the tech field of data science.
@@ -64,6 +63,8 @@ The "Build It And They Will Come" approach assumes that there is a demand for th
 {{< figure src="img/working_backwards.jpg" caption="Working Backwards - Colin Bryar and Bill Carr" >}}
 
 --------------------
+
+### What will you deliver?
 
 - Defining the Outcome (What)
 
