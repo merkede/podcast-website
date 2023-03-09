@@ -3,15 +3,11 @@ date: 2022-06-10
 
 title: Project Success 
 subtitle: |
-  Social Learning Theory, the brainchild of psychologist Albert Bandura, 
-  sheds light on the fact that humans are capable of learning through the 
-  observations and mimicking of those around them. 
+
 
 summary: |
-  The theory sheds a new light on the old saying: "Actions speak louder than words."
-  Social Learning Theory, the brainchild of psychologist Albert Bandura, 
-  sheds light on the fact that humans are capable of learning through the 
-  observations and mimicking of those around them. 
+  “Foresight is not about predicting the future, it’s about minimizing surprise. - Karl Schroeder"
+
 
 description: |
     my journey managing a non-tech graduate in the tech field of data science.
@@ -65,7 +61,7 @@ This is also emphasised by Peter Drucker in his writing:
 "Build It And They Will Come" is an approach where the team develops the solution with the assumption that there is a demand for it. This approach is useful when there is a high level of certainty that the solution will be useful to customers, and there is no need for further validation.
 The "Build It And They Will Come" approach assumes that there is a demand for the product or service, but this is not always the case
 
-{{< figure src="img/working_backwards.jpg" caption="Working Backwards" - Colin Bryar and Bill Carr" >}}
+{{< figure src="img/working_backwards.jpg" caption="Working Backwards - Colin Bryar and Bill Carr" >}}
 
 --------------------
 
