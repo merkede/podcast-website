@@ -60,7 +60,7 @@ This is also emphasised by Peter Drucker in his writing:
 "Build It And They Will Come" is an approach where the team develops the solution with the assumption that there is a demand for it. This approach is useful when there is a high level of certainty that the solution will be useful to customers, and there is no need for further validation.
 The "Build It And They Will Come" approach assumes that there is a demand for the product or service, but this is not always the case
 
-{{< figure src="img/working_backwards.jpg" caption="Working Backwards" authors Colin Bryar and Bill Carr" >}}
+{{< figure src="img/working_backwards.jpg" caption="Working Backwards" - Colin Bryar and Bill Carr" >}}
 
 --------------------
 
