@@ -56,22 +56,13 @@ Part 3: Constraints vs. Boundaries
 
 One of the most important considerations in any Data Science project is the distinction between constraints and boundaries. While constraints refer to limitations imposed by the available data, resources, and time, boundaries refer to ethical and moral considerations that guide your approach and decision-making.
 
-
-  <div style="display:flex; flex-direction:row;">
-  <div style="flex:0 0 60%; margin-right: 10px;">
-    **Constraints** - such as limited data availability, computing resources, or time constraints. It's important to be realistic about these constraints and to adjust your approach accordingly. This may involve prioritizing certain data sources or analysis techniques, or finding creative solutions to work within your constraints.
+**Constraints** - such as limited data availability, computing resources, or time constraints. It's important to be realistic about these constraints and to adjust your approach accordingly. This may involve prioritizing certain data sources or analysis techniques, or finding creative solutions to work within your constraints.
 
 **Boundaries** - refer to ethical and moral considerations that guide your approach and decision-making. This could include considerations around data privacy, bias and fairness, and transparency in your analysis and decision-making. 
-  </div>
-  <div style="flex:0 0 40%;">
-    {{< figure src="img/boundaries-vs-constraints.jpg" caption="Avoid the constrints, stay within boundaries" >}}
-  </div>
-</div>
-  
 
-  
+{{< figure src="img/boundaries-vs-constraints.jpg" caption="Avoid the constrints, stay within boundaries" >}}
 
-One key consideration when defining boundaries is to ensure that you're approaching your project with a growth mindset, rather than a fixed mindset. A growth mindset involves a willingness to learn and adapt based on feedback and new information, while a fixed mindset can lead to rigid and inflexible approaches that may not be ethical or effective.
+**Growth mindset** - Don't let the concept of boundaries restrict your mindset! When defining boundaries, ensure that you're approaching your project with a growth mindset, rather than a fixed mindset. A growth mindset involves a willingness to learn and adapt based on feedback and new information, while a fixed mindset can lead to rigid and inflexible approaches that are often ineffective.
 
 Finally, it's important to consider the broader societal impacts of your project and to ensure that your approach is aligned with your values and goals. This may involve engaging with stakeholders and experts in your field to gain a deeper understanding of the potential impacts of your work, as well as considering the potential unintended consequences of your approach.
 
