@@ -28,7 +28,7 @@ tags:
 
 ---
 
-Part 1: Drawing the Map to Your Destination
+### Drawing the Map to Your Destination
 
 >   **“Foresight is not about predicting the future, it’s about minimizing surprise.”** - Karl Schroeder
 
@@ -48,7 +48,7 @@ The data science solution could potentially impact only a small group of custome
 {{< figure src="img/mapp.jpg" caption="Draw a map, have a clear goal and roadmap" >}}
 
 --------------------
-Choose the approach carefully:
+### Choose the approach wisely
 
 - Working Backwards 
 
@@ -85,7 +85,7 @@ Avoid developing an overly complex recommender, for instance, if it cannot be in
 
 -------------------------------
 
-Part 2: Constraints vs. Boundaries
+### Constraints vs. Boundaries
 
 One of the most important considerations in any Data Science project is the distinction between constraints and boundaries. While constraints refer to limitations imposed by the available data, resources, and time, boundaries refer to ethical and moral considerations that guide your approach and decision-making.
 
