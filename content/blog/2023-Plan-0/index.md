@@ -1,11 +1,11 @@
 ---
 date: 2022-06-10
 
-title: Project Success I
+title: Project Success 
 subtitle: |
 
 summary: |
-  “Foresight is not about predicting the future, it’s about minimizing surprise.” - Karl Schroeder
+  “Foresight is not about predicting the future, it’s about minimizing surprise. - Karl Schroeder"
 
 description: |
     my journey managing a non-tech graduate in the tech field of data science.
