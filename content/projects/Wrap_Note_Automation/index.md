@@ -48,11 +48,11 @@ Webchat transcript - A Webchat transcript is a complete written record of a conv
 ### Hugging Face 
 
 
-<div>
-  <div style="float:left; width:50%;">
+  <div style="display:flex; flex-direction:row;">
+  <div style="flex:0 0 60%; margin-right: 20px;">
     Hugging Face is a popular open-source library for natural language processing (NLP) that provides a suite of pre-trained models for various NLP tasks such as text classification, question answering, language translation, and summarization. Hugging Face Transformers is the core of the library, providing an easy-to-use and efficient interface for working with these pre-trained models. It is built on top of PyTorch and TensorFlow, and provides a unified API for working with a wide range of pre-trained transformer-based models such as BERT, GPT, XLNet, and T5. The library also provides a number of tools for fine-tuning these pre-trained models on custom datasets, and for adapting them to specific downstream NLP tasks.
   </div>
-  <div style="float:right; width:50%;">
+  <div style="flex:0 0 40%;">
     {{< figure src="img/hugging.jpg" caption="Hugging Face Endpoints on Azure" >}}
   </div>
 </div>
