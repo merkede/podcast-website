@@ -25,15 +25,17 @@ Our recent proof of concept (POC) demonstrated the successful integration of AWS
 
 ### Defining the Problem
 
-Centrica is experiencing a surge in demand for its Net Zero division and strategy, resulting in a significant increase in expected customer contact. This presents a challenge for the company, as it anticipates a rise in operating expenses (OPEX) due to the additional web chat and contact centre interactions. In light of this, the business must determine how to manage the growing demand for Net Zero while keeping OPEX costs under control.
+Centrica is experiencing a surge in demand for its Net Zero division and strategy, resulting in a significant increase in expected customer contact. This presents a challenge for the company, as it anticipates a rise in operating expenses (OPEX) due to the additional web chat and contact centre interactions. In light of this, the business must determine how to manage the growing demand for Net Zero while keeping OPEX costs under control. To address the challenge of managing the growing demand for Net Zero while keeping OPEX costs in check, our proposed solution was to automate the web chat wrap notes.
 
 **Business perspective**
 
-To address the challenge of managing the growing demand for Net Zero while keeping OPEX costs in check, our proposed solution was to automate the web chat wrap notes. This approach would significantly reduce the time agents spend on each web chat conversation, allowing them to handle more calls and ultimately lower OPEX costs. By leveraging automation, Centrica would be able to effectively manage the increase in customer contact demand while optimizing its resources and maximizing efficiency.
+This approach would significantly reduce the time agents spend on each web chat conversation, allowing them to handle more calls and ultimately lower OPEX costs. By leveraging automation, Centrica would be able to effectively manage the increase in customer contact demand while optimizing its resources and maximizing efficiency.
 
 **Customers perspective**
 
-The benefits to our customers are two-fold. Firstly, by automating the web chat wrap notes, customers will be able to access a web chat agent more frequently, resulting in reduced wait times. Secondly, the use of summarization technology has the potential to increase the quality of repeat calls, as the algorithm is more effective in extracting key points of the conversation than agent notes. This will lead to a more efficient and effective customer experience, with faster response times and improved accuracy of the information provided.
+Customers will be able to access a web chat agent more frequently, resulting in reduced wait times. 
+The use of summarization technology has the potential to increase the quality of repeat calls, as the algorithm is more effective in extracting key points of the conversation than agent notes. 
+This will lead to a more efficient and effective customer experience, with faster response times and improved accuracy of the information provided.
 
 ### Definitions
 
@@ -46,6 +48,9 @@ Webchat transcript - A Webchat transcript is a complete written record of a conv
 ### Hugging Face 
 
 Hugging Face is a popular open-source library for natural language processing (NLP) that provides a suite of pre-trained models for various NLP tasks such as text classification, question answering, language translation, and summarization. Hugging Face Transformers is the core of the library, providing an easy-to-use and efficient interface for working with these pre-trained models. It is built on top of PyTorch and TensorFlow, and provides a unified API for working with a wide range of pre-trained transformer-based models such as BERT, GPT, XLNet, and T5. The library also provides a number of tools for fine-tuning these pre-trained models on custom datasets, and for adapting them to specific downstream NLP tasks.
+
+{{< figure src="img/hugging.jpg" caption="Hugging Face Endpoints on Azure" >}}
+
 
 ### Text Summarisation
 
