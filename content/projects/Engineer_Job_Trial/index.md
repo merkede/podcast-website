@@ -74,12 +74,13 @@ To measure performance, I ran my model alongside actual jobs for a period of two
 
 Upon successful performance in the soft trial, changes were made to the live system, and monitoring and guardrails were put in place to assess performance. Changes required a 'change request' to be issued, and field managers were not able to inform any engineers to maintain confidentiality and avoid affecting morale.
 
-- Test & Control Patch:
+- Treatment & Control Patch:
 
-During the hard trial, I monitored the performance of the patches and compared it against a control patch of similar conditions that still used the old times to ensure that the changes were effective. This approach helped us implement the changes while minimizing disruption and ensuring that we delivered improvements that met our goals.
+> Without adequate controls, any significant increase in complaints or reschedules on the patch in question could be attributed to the manipulation of job times, leading to misplaced blame.
+
+A well-designed experiment is essential to accurately determine the causal effects of changing engineer allocated job times. The potential for confounding variables that could undermine the validity of the experiment is high, hence, the need for an effective control mechanism. The control patch was included in the experiment to reduce the impact of external factors, and to establish a baseline for comparison with the test patch. 
 
 {{< figure src="images/control.jpeg" caption="Designing an experiment in which engineers with new times form the test and engineers with standard times form control group" >}}
-
 
 ### Soft Trial
 
