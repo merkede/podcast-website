@@ -2,7 +2,7 @@
 title: Engineer Job Trial
 summary: |
   Productionisation of an end-to-end machine learning model built using Azure ML and Databricks, reducing allocated engineer job times by 15%, saving £2million per annum, driving efficiencies and cost savings. 
-date: 2021-06-13
+date: 2021-06-12
 categories:
   - projects
   - engineer
