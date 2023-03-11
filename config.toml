@@ -130,7 +130,7 @@ googleAnalytics = ""
 [[params.social]]
     icon      = "cv" 
     icon_pack = "ai"
-    url       = "https://www.dropbox.com/s/56zmqa6krw5oxvq/Hamzah%20Javaid%20-%20Data%20Scientist%20-TECHNICAL.docx?dl=0"
+    url       = "https://sqltopyspark.netlify.app/pdf_location/test_CV_110323.pdf"
 
 # PRIVACY CONTENT -------------------------------------------------------------
 # see https://gohugo.io/about/hugo-and-gdpr/
