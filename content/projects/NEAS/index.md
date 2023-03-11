@@ -3,7 +3,7 @@ title: Fuel-level & trade optimisation
 summary: |
   Generating £10k profit for NEAS Energy's ATS team
   
-date: 2011-01-13
+date: 2021-06-13
 categories:
   - forecasting
   - trading
