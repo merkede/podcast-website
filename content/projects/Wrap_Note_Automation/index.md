@@ -2,7 +2,7 @@
 title: Wrap notes automation
 summary: |
   Led two junior data scientists on a Net Zero Strategy project, developed an automation tool providing cost savings of £200k per annum. Delivered key recommendations and insights to Director and senior leadership.
-date: 2021-06-13
+date: 2021-06-10
 categories:
   - Azure Machine Learning
   - Hugging Face transformers
