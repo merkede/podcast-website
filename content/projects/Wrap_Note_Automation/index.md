@@ -47,27 +47,29 @@ Webchat transcript - A Webchat transcript is a complete written record of a conv
 
 ### Hugging Face 
 
-
-  <div style="display:flex; flex-direction:row;">
-  <div style="flex:0 0 60%; margin-right: 20px;">
-    Hugging Face is a popular open-source library for natural language processing (NLP) that provides a suite of pre-trained models for various NLP tasks such as text classification, question answering, language translation, and summarization. Hugging Face Transformers is the core of the library, providing an easy-to-use and efficient interface for working with these pre-trained models. It is built on top of PyTorch and TensorFlow, and provides a unified API for working with a wide range of pre-trained transformer-based models such as BERT, GPT, XLNet, and T5. The library also provides a number of tools for fine-tuning these pre-trained models on custom datasets, and for adapting them to specific downstream NLP tasks.
-  </div>
-  <div style="flex:0 0 40%;">
-    {{< figure src="img/hugging.jpg" caption="Hugging Face Endpoints on Azure" >}}
-  </div>
-</div>
-
+Hugging Face is a popular open-source library for natural language processing (NLP) that provides a suite of pre-trained models for various NLP tasks such as text classification, question answering, language translation, and summarization. Hugging Face Transformers is the core of the library, providing an easy-to-use and efficient interface for working with these pre-trained models. It is built on top of PyTorch and TensorFlow, and provides a unified API for working with a wide range of pre-trained transformer-based models such as BERT, GPT, XLNet, and T5. The library also provides a number of tools for fine-tuning these pre-trained models on custom datasets, and for adapting them to specific downstream NLP tasks.
+    
+{{< figure src="img/hugging.jpg" caption="Hugging Face Endpoints on Azure" >}}
 
 ### Text Summarisation
 
+NLP summarisation is a challenging task that requires a deep understanding of language, context, and domain-specific vocabulary. One of the primary considerations is the ability to understand the context of the text and accurately identify the most salient information. Another is the need to consider the nuances and subtleties of the language. This includes accounting for things like sarcasm, irony, and metaphor, which can significantly impact the meaning of the text. Moreover, summarisation should take into account domain-specific vocabulary or jargon, and this often required the curation of a custom dictionary.
+
 **There are two main types of summarization: extractive and abstractive**
 
-Extractive summarisation involves selecting a subset of sentences or phrases from the original text and using them to create a summary. This approach is relatively simple and can be very effective for summarising news articles or scientific papers, where the main ideas are often conveyed in a few key sentences. However, extractive summarisation can be less effective for longer or more complex texts, where the main ideas may be spread out across multiple sentences.
+- Extractive summarisation 
+
+Involves selecting a subset of sentences or phrases from the original text and using them to create a summary. This approach is relatively simple and can be very effective for summarising news articles or scientific papers, where the main ideas are often conveyed in a few key sentences. 
+
+However, extractive summarisation can be less effective for longer or more complex texts, where the main ideas may be spread out across multiple sentences.
   
 {{< figure src="img/summary.jpg" caption="The difference between abstractive and extractive summarisation" >}}
 
-Abstractive summarisation, on the other hand, involves generating a summary that is not simply a copy of a subset of the original text, but rather a new text that conveys the main ideas and concepts of the original text in a concise and coherent manner. This approach can be more effective for summarising longer and more complex texts, as it allows the summariser to capture the main ideas of the text even when they are not expressed in a single sentence or paragraph. However, abstractive summarisation can be more challenging than extractive summarisation, as it requires the summariser to have a deeper understanding of the text and to be able to generate new text that is both accurate and coherent.
+- Abstractive summarisation
 
+Involves generating a summary that is not simply a copy of a subset of the original text, but rather a new text that conveys the main ideas and concepts of the original text in a concise and coherent manner. This approach can be more effective for summarising longer and more complex texts, as it allows the summariser to capture the main ideas of the text even when they are not expressed in a single sentence or paragraph. 
+
+However, abstractive summarisation can be more challenging than extractive summarisation, as it requires the summariser to have a deeper understanding of the text and to be able to generate new text that is both accurate and coherent.
 
 ### T5 transformer-model
 
@@ -85,18 +87,36 @@ My chosen model, from Hugging face, for the text-summarisaton task was a summari
 
 The model was fine-tuned on a specific dataset of meeting summaries, which enables it to generate high-quality summaries of meeting transcripts. At a high-level, the summarization model works by first encoding the input text using the T5 transformer. The encoded representation of the input is then passed through a series of decoder layers, which generate the output summary one token at a time. The decoder layers use a combination of attention mechanisms and recurrent neural networks (RNNs) to generate the summary in a way that is both accurate and coherent.
 
-### Output
+### POC
 
+- Data Cleaning
+
+I first preprocessed the chat transcripts by removing irrelevant information such as greetings, goodbyes, and other non-relevant utterances. This was important to not only reduce the length of the text but also because not all webchat conversations are transferred to an agent with many being handled by the automated bot.
+
+The size of the data used for the POC was wuite large - covering all conversations in 2022.
+
+- Transfer Learning
+
+I fine-tuned the pre-trained transformer model on a large dataset of web chat transcripts. I used a technique called transfer learning, which involves training the model on a large dataset and then fine-tuning it on a smaller dataset specific to the task at hand.
+
+During the fine-tuning process, I implemented a number of techniques inclding attention masking, learning rate scheduling, and gradient clipping to optimize the performance of the model. I also performed hyperparameter tuning to ensure that the model was fine-tuned with the best possible configuration.
 
 Providing customers with a spare replacement hub adaptor for every purchase costs less than the combined cost of customers calling to order a replacement and filing a complaint for a broken adaptor. This is because the cost of these customer service interactions is higher than the unit cost of the product.
 
+- Results
+
+The resulting summarisation system was highly effective in identifying the most important information in the transcripts. The model was able to produce summaries that were concise and informative, highlighting the most salient information from the conversation betweeen agent and customer - including phone numbers, reference booking numbers and reschedules dates.
+
+To evaluate the quality of the summaries, I used standard evaluation metrics such as ROUGE and F1 score. This proved my project successfull and demonstrated the effectiveness of using pre-trained transformer models for summarising web chat transcripts in a business setting.
 
 {{< figure src="img/summarisation.jpg" caption="The summarisation process" >}}
 
-### Mlflow
+### Delivery
 
+Following the success of our proof of concept, the AWS platform engineers and Salesforce architects collaborated to integrate our model into the HIVE web chat system. The integration was specifically focused on 'sales conversations'.
 
+In light of our findings, the business decided to conduct a trial by discontinuing the recording of wrap notes for web chat conversations. My analysis revealed that less than 30% of all HIVE calls were repeated, and there was little evidence that wrap notes were necessary.
 
-### Databricks
+This resulted in significant time and cost savings for the business, prompting a full transition to the AWS Connect platform. Once the transition is complete, my model will be reinstated and further tested.
 
-
+{{< figure src="img/AWS_Salesforce.png" caption="The trial helped justify the business move to connect Salesforce to AWS Connect" >}}
