@@ -109,7 +109,7 @@ The resulting summarisation system was highly effective in identifying the most 
 
 To evaluate the quality of the summaries, I used standard evaluation metrics such as ROUGE and F1 score. This proved my project successfull and demonstrated the effectiveness of using pre-trained transformer models for summarising web chat transcripts in a business setting.
 
-{{< figure src="img/summarisation.jpg" caption="The summarisation process" >}}
+{{< figure src="img/summarisation.png" caption="The summarisation process" >}}
 
 ### Delivery
 
