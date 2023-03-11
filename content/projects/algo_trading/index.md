@@ -3,7 +3,7 @@ title: Algorithmic trading bot
 summary: |
   I built a algorthmic trading bot that places optimal trades with virtual money. It taught me many important coding lesssons and broadened my understanding 
   of economic concepts
-date: 2021-06-13
+date: 2021-06-10
 categories:
   - R package
 
