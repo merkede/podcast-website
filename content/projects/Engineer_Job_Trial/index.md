@@ -92,8 +92,7 @@ A well-designed experiment is essential to accurately determine the causal effec
 
 ### Hard Trial
 
-
-- Mlflow 2.0
+- Mlflow
 
 Mlflow was the secret sauce that helped me create a top-performing model. With its advanced tracking and organization capabilities, I was able to streamline my workflow and optimize my models, all while keeping my track of all my experiments is a neat and organized manner.
 
@@ -111,11 +110,19 @@ Databricks Workflow allowed me to schedule and connect notebooks, creating an en
 
 ### Monitoring model performance
 
+- Model performance
+
 In order to effectively monitor the performance of the model, I engaged a data engineer to help connect Databricks with PowerBI to produce a dashboard that visualizes the mean absolute error (MAE) of the model over each run. By integrating these two powerful tools, I was able to create a seamless workflow that allowed for real-time monitoring of the model's performance. The dashboard provided stakeholders with a clear understanding of how the model was performing and helped to identify areas for improvement. 
 
 To ensure seamless and accessible visualization of the project's progress, I decided to integrate PowerBI with Databricks. Although Databricks has in-built dashboard features, it would require stakeholders to obtain a license or for the dashboard endpoint to be hosted as a web service, which could be cumbersome. As each member of the company has access to PowerBI by default, integrating the two platforms was the most practical choice. 
 
 {{< figure src="images/powerbi.jpeg" caption="Databricks workflows allows you to schedule multiple scripts (ingestion to inference) to run on different clusters." >}}
+
+- Contingency Plan: Guardrails and alerts
+
+During the rigorous trial period, the Planning and Dispatch team meticulously monitored the effect of our actions on the engineers on the ground, employing an engineer performance dashboard that was already in place. I remained closely engaged with them throughout this process, consistently monitoring the engineers' performance against our control patches.
+
+Notably, the Planning and Dispatch team had a 5-day lead time to revert to the original plan in case of any unforeseen complications. Fortunately, we did not have to exercise this contingency plan.
 
 ## Making an impact
 
