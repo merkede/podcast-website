@@ -96,6 +96,8 @@ In delivering ths project, I came to understand the importantance to understand 
 
 By using roxygen2, I was able to write detailed documentation for the NEAS ATS team, which simplified their understanding of how to use and integrate the code. This approach facilitated the seamless integration of the R package into their existing systems, increasing their efficiency and productivity. Overall, this approach to packaging and documenting R code is critical in MLops, as it ensures that code is delivered in a functional, usable, and testable format, making it easy for end-users to adopt and incorporate into their work.
 
+{{< figure src="img/R_packages.png" caption="Building an R package" >}}
+
 ### Lebrade algorithm
 
 "NEAS Energy's ATS team utilized this R package in conjunction with their proprietary 'Lebrade algorithm' to trade the power output from their CHP engines in the market."
