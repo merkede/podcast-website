@@ -141,7 +141,7 @@ Here could be a few steps:
   3 - Deploy to production
   4 - Operational Maintenance
 
-{{< figure src="img/time-boxed-iterations.png" caption="Examples of stages Time-boxed events" >}}
+{{< figure src="img/time-boxed-iterations.jpg" caption="Examples of stages Time-boxed events" >}}
 
 ### Concluding remarks
 
