@@ -1,5 +1,5 @@
 ---
-date: 2022-10-10
+date: 2022-12-20
 
 title: Charlie Munger - LatticeWork
 subtitle: |
