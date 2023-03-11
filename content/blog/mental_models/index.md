@@ -5,7 +5,7 @@ title: Charlie Munger - LatticeWork
 subtitle: |
 
 summary: |
-
+    "Spend less time trying to be brilliant and more time trying to avoid obvious stupidity."
 
 description: |
     my journey managing a non-tech graduate in the tech field of data science.
