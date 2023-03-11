@@ -91,6 +91,8 @@ The model was fine-tuned on a specific dataset of meeting summaries, which enabl
 Providing customers with a spare replacement hub adaptor for every purchase costs less than the combined cost of customers calling to order a replacement and filing a complaint for a broken adaptor. This is because the cost of these customer service interactions is higher than the unit cost of the product.
 
 
+{{< figure src="img/summarisation.jpg" caption="The summarisation process" >}}
+
 ### Mlflow
 
 
