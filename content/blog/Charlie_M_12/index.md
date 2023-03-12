@@ -1,5 +1,5 @@
 ---
-date: 2022-12-20
+date: 2022-11-20
 
 title: Charlie Munger - 12 key learnings
 subtitle: |
