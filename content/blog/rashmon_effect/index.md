@@ -39,17 +39,30 @@ The Rashomon effect, a term derived from Akira Kurosawa's classic film Rashomon,
 
 The Rashomon effect is a critical mental model that can help us understand how our perceptions and biases shape our understanding of reality. 
 
-> "The Rashomon effect reminds us that our minds filter the information we receive, shaping our perceptions and influencing our decisions."
+> ***"The Rashomon effect reminds us that our minds filter the information we receive, shaping our perceptions and influencing our decisions."***
 
 One of the most significant implications of the Rashomon effect is that it highlights the subjectivity of truth. As the philosopher Friedrich Nietzsche once said, "There are no facts, only interpretations." This statement is particularly relevant when it comes to the Rashomon effect because it shows that our understanding of reality is not absolute but rather influenced by our personal experiences, cultural background, and beliefs.
 
 - Morgan Housel, in his essay The Psychology of Money, writes :
 
-> *** "Your personal experiences make up maybe 0.00000001% of what’s happened in the world but maybe 80% of how you think the world works. If you were born in 1970 the stock market went up 10-fold adjusted for inflation in your teens and 20s – your young impressionable years when you were learning baseline knowledge about how investing and the economy work. If you were born in 1950, the same market went exactly nowhere in your teens and 20s.When everyone has experienced a fraction of what’s out there but uses those experiences to explain everything they expect to happen, a lot of people eventually become disappointed, confused, or dumbfounded at others’ decisions. Keep that quote in mind when debating people’s investing views. Or when you’re confused about their desire to hoard or blow money, their fear or greed in certain situations, or whenever else you can’t understand why people do what they do with money. Things will make more sense."***
+> ***"Your personal experiences make up maybe 0.00000001% of what’s happened in the world but maybe 80% of how you think the world works. If you were born in 1970 the stock market went up 10-fold adjusted for inflation in your teens and 20s – your young impressionable years when you were learning baseline knowledge about how investing and the economy work. If you were born in 1950, the same market went exactly nowhere in your teens and 20s.When everyone has experienced a fraction of what’s out there but uses those experiences to explain everything they expect to happen, a lot of people eventually become disappointed, confused, or dumbfounded at others’ decisions. Keep that quote in mind when debating people’s investing views. Or when you’re confused about their desire to hoard or blow money, their fear or greed in certain situations, or whenever else you can’t understand why people do what they do with money. Things will make more sense."***
 
 The Rashomon effect also has practical applications in fields such as law and journalism. In courtrooms, for example, witnesses are often called upon to provide their version of events, but the Rashomon effect suggests that their testimony may not always be reliable. Journalists, too, must be aware of the Rashomon effect when reporting on events as their own biases can influence their interpretation of the facts.
 
 However, the Rashomon effect can also be a valuable tool for self-reflection. By recognizing our own biases and the subjectivity of our understanding of reality, we can become more open-minded and better able to appreciate the perspectives of others. As Safal Niveshak writes, "If we can view the world through the eyes of others, we can gain new insights and see things from a different perspective."
+
+### Fooling ourselves
+
+Fooling ourselves is the easiest thing to do.
+
+Commenting on scientific truth-seeking, Richard Feynman says —
+
+> ***A kind of utter honesty — a kind of leaning over backwards. For example, if you’re doing an experiment, you should report everything that you think might make it invalid — not only what you think is right about it: other causes that could possibly explain your results…***
+
+{{< figure src="img/mirror.jpg" caption="Are we fooling ourselves looking into the mirror." >}}
+
+
+### Concluding remarks
 
 - Duke writes:
 
