@@ -3,6 +3,7 @@ date: 2022-12-20
 
 title: Charlie Munger - LatticeWork
 subtitle: |
+    "A multidisciplinary concept to thinking "
 
 summary: |
     "Spend less time trying to be brilliant and more time trying to avoid obvious stupidity."
@@ -26,9 +27,7 @@ tags:
 
 ---
 
-
-14563364-latticework-in-marble.jpg
-
+{{< figure src="img/14563364-latticework-in-marble.jpg" caption="Photo of LatticeWork." >}}
 
 Charlie Munger is known for his unique approach to decision-making, which he calls "latticework of mental models". This approach involves building a mental framework that consists of various models from different disciplines, which can be used to make better decisions.
 
