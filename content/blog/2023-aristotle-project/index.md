@@ -1,5 +1,5 @@
 ---
-date: 2022-06-10
+date: 2022-11-11
 
 title: Project Aristotle - Google
 subtitle: |
