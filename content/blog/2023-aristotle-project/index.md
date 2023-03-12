@@ -3,7 +3,7 @@ date: 2022-11-11
 
 title: Project Aristotle - Google
 subtitle: |
-
+  "Culture eats strategy for breakfast"
 
 summary: |
   Project Aristotle delves into the complex realm of human relationships and teamwork, offering a systematic approach to understanding and improving group 
@@ -46,24 +46,24 @@ The research showed that the most effective teams possess five critical attribut
 
 ## (1) Clear Goals
 
-Clear goals are the foundation of a high-performing team. They provide a shared vision and a sense of purpose, and ensure that everyone is working towards the same objective. Teams with clear goals have a roadmap for progress, which enables them to track their progress and make necessary adjustments along the way. Having clear goals helps to keep team members motivated and focused, and provides a sense of direction and momentum.
+**Clear goals** are the foundation of a high-performing team. They provide a shared vision and a sense of purpose, and ensure that everyone is working towards the same objective. Teams with clear goals have a roadmap for progress, which enables them to track their progress and make necessary adjustments along the way. Having clear goals helps to keep team members motivated and focused, and provides a sense of direction and momentum.
 
 
 ## (2) Open and Psychological Safety
 
-Psychological safety is a key factor in team success. It refers to the perception that team members can express their thoughts and opinions without fear of retaliation or being judged. Teams that promote psychological safety are more likely to have open and honest communication, and to be more innovative and creative. When team members feel safe to share their ideas, the whole team benefits, and everyone can bring their best work to the table.
+**Psychological safety** is a key factor in team success. It refers to the perception that team members can express their thoughts and opinions without fear of retaliation or being judged. Teams that promote psychological safety are more likely to have open and honest communication, and to be more innovative and creative. When team members feel safe to share their ideas, the whole team benefits, and everyone can bring their best work to the table.
 
 ## (3) Dependability
 
-Dependability is critical to building trust within a team. When team members are dependable, it means they can be relied upon to meet their commitments and follow through on their promises. This enables team members to collaborate seamlessly, and helps to foster a culture of trust and respect. Dependability also helps to create a sense of stability and security, which is essential for high-performing teams.
+**Dependability** is critical to building trust within a team. When team members are dependable, it means they can be relied upon to meet their commitments and follow through on their promises. This enables team members to collaborate seamlessly, and helps to foster a culture of trust and respect. Dependability also helps to create a sense of stability and security, which is essential for high-performing teams.
 
 ## (4) Structure and Clarity
 
-Structure and clarity provide the roadmap for progress, and help to ensure that everyone is aligned and working towards the same objective. Teams with clear structure and clarity have defined roles and responsibilities, which enables them to divide tasks and allocate resources effectively. This provides a clear line of sight for each team member, and enables them to focus on their work without distractions.
+**Structure** and clarity provide the roadmap for progress, and help to ensure that everyone is aligned and working towards the same objective. Teams with clear structure and clarity have defined roles and responsibilities, which enables them to divide tasks and allocate resources effectively. This provides a clear line of sight for each team member, and enables them to focus on their work without distractions.
 
 ## (5) Good Relationships
 
-Good relationships form the foundation of a positive team culture, and are critical to fostering teamwork and collaboration. Teams with strong relationships are more likely to have open and honest communication, and to be more supportive of one another. Good relationships also help to create a sense of belonging and connectedness, which is essential for team morale and motivation. By building strong relationships, teams can create a culture of trust and respect, which is essential for high-performance.
+**Good relationships** form the foundation of a positive team culture, and are critical to fostering teamwork and collaboration. Teams with strong relationships are more likely to have open and honest communication, and to be more supportive of one another. Good relationships also help to create a sense of belonging and connectedness, which is essential for team morale and motivation. By building strong relationships, teams can create a culture of trust and respect, which is essential for high-performance.
 
 ## Concluding remarks
 
