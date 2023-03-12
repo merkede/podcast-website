@@ -27,6 +27,9 @@ tags:
 
 ---
 
+{{< figure src="img/pager.jpg" caption="Taking the additional thinking and efforts can save a huge amount of effort!" >}}
+
+
 ### Drawing the Map to Your Destination
 
 >   **“Foresight is not about predicting the future, it’s about minimizing surprise.”** - Karl Schroeder
