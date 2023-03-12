@@ -27,6 +27,8 @@ tags:
 
 ---
 
+{{< figure src="img/talk.jpg" caption="Listening is often the hardest part" >}}
+
 ## What is Active Listening?
 
 Active listening is a communication skill that involves paying full attention to the speaker, understanding their message, and responding appropriately. It is a deliberate effort to comprehend the speaker's message without being judgmental or distracted. Active listening requires both verbal and non-verbal cues, such as nodding, eye contact, and appropriate facial expressions, to show that the listener is engaged and interested.
