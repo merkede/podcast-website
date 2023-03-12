@@ -29,6 +29,9 @@ tags:
 
 ---
 
+{{< figure src="img/teamwork-2.jpg" caption="What is the secret to a great team?" >}}
+
+
 Project Aristotle, the ambitious research initiative by Google, sought to unlock the secrets of team success and uncover the elusive recipe for high-performing teams. Named after the renowned Greek philosopher Aristotle's famous saying, "the whole is greater than the sum of its parts," Project Aristotle aimed to delve into the depths of team dynamics and understand what makes teams tick. And what a journey it was! The findings of Project Aristotle were nothing short of game-changing and have far-reaching implications for organizations everywhere.
 
 The research showed that the most effective teams possess five critical attributes: 
@@ -63,6 +66,8 @@ Structure and clarity provide the roadmap for progress, and help to ensure that 
 Good relationships form the foundation of a positive team culture, and are critical to fostering teamwork and collaboration. Teams with strong relationships are more likely to have open and honest communication, and to be more supportive of one another. Good relationships also help to create a sense of belonging and connectedness, which is essential for team morale and motivation. By building strong relationships, teams can create a culture of trust and respect, which is essential for high-performance.
 
 ## Concluding remarks
+
+{{< figure src="img/culture.jpg" caption="Culture eats strategy for breakfast" >}}
 
 These attributes work in harmony to create an environment where team members can thrive and bring their best selves to the table. Clear goals provide a shared vision and a sense of purpose, and psychological safety allows team members to speak their minds without fear of retaliation. Dependability breeds trust and enables seamless collaboration, while structure and clarity provide a roadmap for progress and clearly defined roles and responsibilities. Good relationships form the foundation of a positive team culture and are the key to fostering teamwork and collaboration.
 
