@@ -59,3 +59,6 @@ Continuous learning is another important aspect of the Latticework, with Munger 
 
 ***"What you need is a latticework of mental models in your head. And, with that system, things gradually fit together in a way that enhances cognition."***
 
+### Latticework of models
+
+> “You’ve got to have models in your head. And you’ve got to array your experience ‑ both vicarious and direct ‑ on this latticework of models. You may have noticed students who just try to remember and pound back what is remembered. Well, they fail in school and in life. You’ve got to hang experience on a latticework of models in your head.” -Charlie Munger
