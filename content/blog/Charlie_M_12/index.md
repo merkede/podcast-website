@@ -26,9 +26,9 @@ tags:
 
 ---
 
-Truth-Copy-27.png
+{{< figure src="img/Truth-Copy-27.png" caption="12 pieces of advice I resonate with from Charlie Munger." >}}
 
-Here are 12 quotes from Charlie Munger that have influenced me the most:
+Here are the 12 quotes from Charlie Munger that have influenced me the most:
 
 ### 1) "I never allow myself to have an opinion on anything that I don’t know the other side’s argument better than they do."
 
