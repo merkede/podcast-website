@@ -32,6 +32,19 @@ It would follow, that should half-hour be accurate enough to predict settlement 
 In order to test this – SMART and Settlement values have been compared under 2 iteration.
 
 
+
+### The settlement process
+
+In the UK, the power market settles every half-hour, and the settlement process involves a complex chain of activities that determine the cost of electricity consumed during that period. The settlement process involves a range of participants, including power generators, power traders, energy suppliers, and the Balancing and Settlement Code Company (BSCCo). 
+
+Energy suppliers play a crucial role in the settlement process as they are responsible for providing electricity to end-users and paying for the electricity they consume. The settlement process begins with the supplier reading the smart meter data of their customers every half-hour. This data is transmitted to the data collector, who aggregates the data from multiple smart meters and sends it to the data aggregator
+
+The data aggregator then processes the data, validates it, and creates a set of half-hourly meter readings for each supplier. These readings are used to calculate the total energy consumed by each supplier during the half-hour period. The settlement system then calculates the charges that the supplier must pay for the energy consumed during that period.
+
+The charges are calculated based on the imbalance between the energy consumed by the supplier's customers and the energy that the supplier contracted to buy from the wholesale market. If the supplier's customers consumed more energy than the supplier bought, the supplier incurs a deficit, and they must pay a penalty. Conversely, if the supplier bought more energy than their customers consumed, they have a surplus, and they receive a credit.
+
+The settlement process also involves the use of various market indices and prices, including the National Grid Balancing Mechanism (BM) and the Day-Ahead Wholesale Market. These indices and prices are used to determine the cost of electricity during the settlement period and are factored into the calculation of the supplier's charges.
+
 ------------------------------------------------------------------------
 
 {{< figure src="img/HH_Settlement_1.jpg" caption="HH Smart consumption v/s settlement values" >}}
@@ -88,41 +101,3 @@ In order to test this – SMART and Settlement values have been compared under 2
 
 # What is Hedging ...
 
-- Our stakeholder approaches us with the problem 'Are breakdowns predictable?'
-
-The short answer, if I was a betting man, would be 'I think so'. Perhaps another answer could involve
-answering the questions with a series of questions:
-
-1) Why are you asking?
-2) What problem are you trying to solve?
-3) Is it a problem worth solving?
-4) Do we collect the data --- data collection is huge here!!
-
-Effects things have on other are sometimes indirect. Let's take an example
-involving a soccer ball and a broken glass. Sometimes, you will break a glass by
-shooting the ball right onto it. But sometimes not. Sometimes, the ball will
-land next to a cat, a cat peacefully sleeping on someone's lap. Sometimes, the 
-cat will end up scared which will result in a jump right onto a table, table 
-on which was the glass[^1]. Indirect.
-
-And, sometimes, it is important to investigate how these indirect effets are 
-chained. It is known that people are less likely to buy drugs with complex 
-name[^2]. But why? What is the chain behind this effect?
-
-
-# Is this a problem? Is it worth solving?
-
-**Mediation analysis** is a statistical tool that can be use to find out that 
-the reason why people are less likely to buy drugs with complex name is because 
-they percieved the drugs as more dangerous. While there are several ways to
-conduct mediation analysis, the `JSmediation` package implements the best one
-of them[^3]: joint-significance.
-
-Have a look at [the documentation](https://jsmediation.cedricbatailler.me/) and 
-give it a shot!
-
-[^1]: Yeah. It happens.
-
-[^2]: Dohle, S., & Siegrist, M. (2014). Fluency of pharmaceutical drug names predicts perceived hazardousness, assumed side effects and willingness to buy. _Journal of Health Psychology_, _19_(10), 1241-1249. doi: 10.1177/1359105313488974
-
-[^3]: This has to be understood as the one with the lowest number of false positive. Yzerbyt, V., Muller, D., **Batailler, C.**, & Judd, C. M. (2018). New recommendations for testing indirect effects in medi‑ational models: The need to report and test component paths. _Journal of Personality and Social Psychology_, _115_(6), 929–943. 10.1037/pspa0000132
