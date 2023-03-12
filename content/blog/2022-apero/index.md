@@ -1,5 +1,5 @@
 ---
-date: 2022-10-26
+date: 2022-12-18
 
 title: First Principles Thinking
 subtitle: Philosophy and reasoning without analogy.
