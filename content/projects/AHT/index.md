@@ -45,11 +45,6 @@ A vast number of our calls do not contain NLCS (natural language call steering) 
 
 **How is something allowed to persist?'**
 
-Questions also remain regarding 
-
-It is imperative that we adopt a scientific and data-driven approach to comprehensively understand our current situation.
-
-Lacking a comprehensive system for tracking and monitoring the parts installed and improving the notes taken by engineers during their visits to identify the causes of breakdowns, we will continue to lack the necessary data collection to enhance our service offering. 
 
 
 
