@@ -5,7 +5,7 @@ summary: |
   
 date: 2011-01-13
 categories:
-  - R package
+  - Analysis
 
 links:
   - icon: link
@@ -57,41 +57,50 @@ Lacking a comprehensive system for tracking and monitoring the parts installed a
 
 
 
-Effects things have on other are sometimes indirect. Let's take an example
-involving a soccer ball and a broken glass. Sometimes, you will break a glass by
-shooting the ball right onto it. But sometimes not. Sometimes, the ball will
-land next to a cat, a cat peacefully sleeping on someone's lap. Sometimes, the 
-cat will end up scared which will result in a jump right onto a table, table 
-on which was the glass[^1]. Indirect.
+{{< figure src="img/Agent_Call_Types_copy.jpeg" caption="Agent Call Types" >}}
 
 
+### Changes to Agent Tenure
+
+After analyzing the data, I observed a decline in agent tenure starting from the winter of 2018. In addition, two significant findings emerged:
+
+The percentage of long-serving agents is diminishing.
+The retention of new agents is inadequate.
 
 
 {{< figure src="img/Agent_Tenure.jpg" caption="Average Agent Tenure and volumes of Agents by Tenure" >}}
 
-
-
-{{< figure src="img/Agent_Call_Types_copy.jpeg" caption="Agent Call Types" >}}
+This finding is of great importance as it establishes a null hypothesis: does an increase in call agent turnover result in a higher average handling time (AHT)?
 
 ### Agent New Starters
 
-
-
 {{< figure src="img/Agent_New_Starter.jpg" caption="Average Agent Tenure and volumes of Agents by Tenure" >}}
 
+Below is a graph of AHT attrition with no. of interactions (2018-2019 combined) - across three different call types
 
+- The first graph indicates that new starters face a steep and prolonged learning curve, which eventually levels off into a steady improvement. To cope with this learning curve, it is recommended to assign a specialist to handle this particular call type since new starters need a considerable amount of practice interactions before reaching a stable performance level.
 
+- The second graph indicates new starters face a steep but brief learning curve, which is followed by a gradual but consistent improvement. This call type is better suited for new starters who receive some additional initial training since it does not demand as many practice interactions before performance levels become stable.
+
+- The third graph indicates new starters face a shallow but long learning curve, followed by a steadily slow improvement. To cope with this learning curve, it is recommended to assign a specialist to handle this particular call type since new starters need a considerable amount of practice interactions before reaching a stable performance level.
+
+### Agent Performance
 
 {{< figure src="img/Attempt_1.jpg" caption="" >}}
 
+An ellipse algorithm was employed to overlay the first graph and identify the 'normal' population in terms of agent performance, as evaluated by the average handling time.
+
 {{< figure src="img/Attempt_2.jpg" caption="" >}}
+
+Agent performance in 2019 (orange) is worse - has a higher mean AHT - than compared with agent performance in 2018 (blue)
 
 {{< figure src="img/Attempt_3.jpg" caption="" >}}
 
+Although the key has been removed from this graph, it displays the performance of every agent, with each call center location represented by a distinct colour. The graph indicates that agents in the Leeds call center handle calls with significantly shorter duration compared to agents in the Manchester call center.
+
 {{< figure src="img/Attempt_4.jpg" caption="" >}}
 
-
-
+The graph illustrates the performance of each agent across a sample of call types, enabling me to identify call types that exhibit consistent agent performance.
 
 ### Agent - Engage Time
 
