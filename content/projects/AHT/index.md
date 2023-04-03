@@ -122,17 +122,3 @@ The graph illustrates the performance of each agent across a sample of call type
 
 
 
-<div>
-  <div style="float:left; width:60%;">
-    Effects things have on other are sometimes indirect. Let's take an example
-    involving a soccer ball and a broken glass. Sometimes, you will break a glass by
-    shooting the ball right onto it. But sometimes not. Sometimes, the ball will
-    land next to a cat, a cat peacefully sleeping on someone's lap. Sometimes, the 
-    cat will end up scared which will result in a jump right onto a table, table 
-    on which was the glass[^1]. Indirect.
-  </div>
-  <div style="float:right; width:40%;">
-    {{< figure src="img/Agent_Tenure.jpg" caption="Average Agent Tenure and volumes of Agents by Tenure" >}}
-  </div>
-</div>
-
