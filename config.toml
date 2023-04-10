@@ -87,11 +87,11 @@ googleAnalytics = ""
     url = "/blog/"
     weight = 1
     
-  [[menu.header]]
-    name = "Projects"
-    title = "My project portfolio"
-    url = "/projects/"
-    weight = 2
+#  [[menu.header]]
+#    name = "Projects"
+#    title = "My project portfolio"
+#    url = "/projects/"
+#    weight = 2
     
   [[menu.header]]
     name = "Podcast"
