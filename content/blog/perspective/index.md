@@ -2,7 +2,7 @@
 ---
 date: 2022-12-20
 
-title: Charlie Munger - LatticeWork
+title: Perspective
 subtitle: |
     "The world of the small is as vast as the stars"
 
