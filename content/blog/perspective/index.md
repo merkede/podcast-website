@@ -1,6 +1,6 @@
 
 ---
-date: 2022-12-20
+date: 2020-12-20
 
 title: Perspective
 subtitle: |
@@ -19,7 +19,7 @@ show_author_byline: true
 
 format: hugo
 
-draft: false
+draft: true
 
 freeze: auto
 tags:
