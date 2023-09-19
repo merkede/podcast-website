@@ -22,12 +22,12 @@ draft: true
 
 freeze: auto
 tags:
-- Manager
+- Thinking modelann
 - Reflections
 
 ---
 
-{{< figure src="img/14563364-latticework-in-marble.jpg" caption="Photo of LatticeWork." >}}
+{{< figure src="img/mathematical_reasoning.jpg" caption="Gaussian Thinking." >}}
 
 Charlie Munger is known for his unique approach to decision-making, which he calls "latticework of mental models". This approach involves building a mental framework that consists of various models from different disciplines, which can be used to make better decisions.
 
