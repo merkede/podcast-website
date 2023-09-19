@@ -1,12 +1,12 @@
 ---
-date: 2022-12-20
+date: 2022-12-21
 
 title: Carl Friedrich Gauss
 subtitle: |
     "A mathematical guide to thinking with the end in mind"
 
 summary: |
-    "A mathematical guide to thinking with the end in mind."
+    "As human beings, we have an innate affinity for order, often adhering to the adage "first things first." However, Gauss demonstrated the advantages of conceiving the end before beginning."
 
 description: |
     my journey managing a non-tech graduate in the tech field of data science.
