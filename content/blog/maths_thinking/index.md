@@ -1,12 +1,12 @@
 ---
 date: 2022-12-20
 
-title: Charlie Munger - LatticeWork
+title: Gauss thinking
 subtitle: |
-    "A multidisciplinary concept to thinking "
+    "A mathematical guide to thinking with the end in mind"
 
 summary: |
-    "Spend less time trying to be brilliant and more time trying to avoid obvious stupidity."
+    "A mathematical guide to thinking with the end in mind."
 
 description: |
     my journey managing a non-tech graduate in the tech field of data science.
