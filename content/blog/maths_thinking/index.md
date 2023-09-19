@@ -18,7 +18,7 @@ show_author_byline: true
 
 format: hugo
 
-draft: false
+draft: true
 
 freeze: auto
 tags:
