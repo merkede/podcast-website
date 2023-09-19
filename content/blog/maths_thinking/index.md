@@ -1,7 +1,7 @@
 ---
 date: 2022-12-20
 
-title: Gauss thinking
+title: Carl Friedrich Gauss
 subtitle: |
     "A mathematical guide to thinking with the end in mind"
 
