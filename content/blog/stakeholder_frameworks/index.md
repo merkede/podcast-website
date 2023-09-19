@@ -27,7 +27,7 @@ tags:
 
 ---
 
-{{< figure src="img/security.jpg" caption="Complex projects require clear communication of roles and responsibilities" >}}
+{{< figure src="img/security.png" caption="Complex projects require clear communication of roles and responsibilities" >}}
 
 
 In the world of project management, clarity and accountability are key. That's where the RACI model and stakeholder mapping come into play. The RACI model—short for Responsible, Accountable, Consulted, and Informed—serves as a straightforward framework for defining roles and responsibilities within a project team. On the other hand, stakeholder mapping helps you identify and prioritize the individuals or groups who will be affected by the project.
@@ -39,7 +39,7 @@ When applied to a business case project, these tools are not just beneficial; th
 
 Demonstration - RACI Model
 
-{{< figure src="img/raci.jpg" caption="Complex projects require clear communication of roles and responsibilities" >}}
+{{< figure src="img/raci.png" caption="Complex projects require clear communication of roles and responsibilities" >}}
 
 **Responsible**
 
