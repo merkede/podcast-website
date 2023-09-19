@@ -29,30 +29,38 @@ tags:
 
 {{< figure src="img/mathematical_reasoning.jpg" caption="Gaussian Thinking." >}}
 
-Carl Friedrich Gauss, one of the most important mathmaticians of all time, was a prodigy at a young age (or so the story goes). One day, his teacher asked the class to add all the numbers from 1 to 100. Gauss quickly figured that adding the first number with the last, (100+1), resulted in 101. In fact, adding 99 and 2, or 98 and 3 also resulted in 101. There were in fact 50 pairs of 101 between 0 and 100.
+Carl Friedrich Gauss, a towering figure in the realm of mathematics, achieved great feats from a young age. As the anecdotes recount, Gauss's teacher tasked the class with adding all numbers from 1 to 100. Gauss, displaying his mathematical brilliance,  discerned that adding the first and last numbers, 1 and 100, yielded 101. The same result was true from combining 2 and 99, 3 and 98, and so forth. Gauss's insight revealed that there were precisely 50 pairs totalling 101 within the range of 0 to 100.
 
-### Mathemtical Thinking - first thing is first
+### Mathemtical Thinking - the art of the shortcut
 
-As humans, we love order. The saying goes 'first thing is first'. But as Gauss was able to show there is benefit in having the end in mind before beginning. In fact, this type of thinking is key in mathematics - suprisingly much of mathematics revolves around shorcuts. By adding the end and beginning at the offset, Gauss was applying Amazon's philosophy of 'working backwards' from a problem but also thinking outside the box.
+As human beings, we have an innate affinity for order, often adhering to the adage "first things first." However, Gauss demonstrated the advantages of conceiving the end before beginning. In mathematics, this approach is akin to a shortcut—an art form where the destination is envisioned even before the journey begins. Gauss's method mirrors Amazon's philosophy of "working backwards" from a problem, a testament to thinking outside the box.
 
-Many times at work and in our projects, we jump into work without having the end in mind. There is a belief that we need to re-invent the wheel, we need to start from scratch, "first thing is first". Rarely do we ever search the world wide web/pick up a book and perform a thorough 'literture review' as a means of understanding what currently exists, what solutions have worked or not worked. In similar vain to Gauss, why not explore different thinking and shortcuts rather than a linear, brute force approach.
+In our professional endeavors, whether at work or within projects, we frequently plunge headlong into tasks without a clear vision of the final outcome. There exists a pervasive belief that innovation necessitates reinventing the wheel, starting from scratch, adhering doggedly to "first things first." Rarely do we conduct comprehensive literature reviews, browsing resources on the internet or literature, to discern existing solutions. Emulating Gauss's approach, why not explore diverse avenues of thought and shortcuts, rather than adhering to a linear, brute-force methodology?
 
 Consider a data science project:
 
 ##### Beginning
 
-Identifying the 'lay of the land' , understanding what data is available, where the data exists, initial blockers and problems. Sprint Zero
+Initiate by surveying the landscape—comprehend the available data, its sources, and identify initial obstacles. This initial phase often aligns with what's referred to as "Sprint Zero."
 
 ##### End
 
-How is the model going to be served (cloud, api (fast api), batch inference, streaming), how is it going to be productionised , how is it going to be monitored?
+Contemplate the eventual deployment and service of the model—cloud-based, through an API (such as FastAPI), or for batch inference and streaming. Delve into the intricacies of productionisation and monitoring.
 
-##### End
+##### Laying the track, digging the tunnel
 
 Consider both the beginning and end in mind when formulating the problem 
 
+> "7 Habits of Successful People, Habit 2: Begin with the end in mind"
 
-### Ending note on Aristotle
+{{< figure src="img/tracks.jpg" caption="Lay the groundwork first." >}}
 
 
+### Closing Thoughts Inspired by Aristotle
 
+Aristotle distinguished between two distinct types of work:
+
+- Praxis: Work undertaken for its inherent value.
+- Poesis: Work directed toward a specific goal or objective.
+  
+We can harness Carl Friedrich Gauss's philosophy of starting with the end in mind, embracing shortcuts, to achieve success in Poesis while retaining the freedom to engage in activities akin to Praxis—activities that bring us closer to the essence of human freedom.
