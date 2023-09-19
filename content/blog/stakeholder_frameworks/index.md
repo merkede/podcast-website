@@ -39,8 +39,6 @@ When applied to a business case project, these tools are not just beneficial; th
 
 Demonstration - RACI Model
 
-{{< figure src="img/raci.png" caption="Complex projects require clear communication of roles and responsibilities" >}}
-
 **Responsible**
 
 - Identification & Designation: The first step is to identify the skill sets required for each task and match them with individuals who possess those skills. This is often done through a skills matrix or competency framework.
@@ -65,6 +63,7 @@ Demonstration - RACI Model
 
 - Tools and Channels: Tools like project management software, intranet portals, and communication platforms are used to ensure transparency and open lines of communication.
 
+{{< figure src="img/raci.png" caption="Complex projects require clear communication of roles and responsibilities" >}}
 
 At the end of the day, it's crucial to remain flexible and adapt the model as needed to fit the unique needs and challenges of each project or initiative.
 
