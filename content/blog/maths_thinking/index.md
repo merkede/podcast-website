@@ -51,9 +51,13 @@ Initiate by surveying the landscape—comprehend the available data, its sources
 
 Contemplate the eventual deployment and service of the model—cloud-based, through an API (such as FastAPI), or for batch inference and streaming. Delve into the intricacies of productionisation and monitoring.
 
+{{< figure src="img/roadmap.jpg" caption="The beginning and the end - both are equally important!" >}}
+
+
 ### Two approaches
 
 - 1) Working Backwards
+  
 According the "Working Backwards" authors Colin Bryar and Bill Carr, "in a working-backwards world, starting with the customer and working backwards is the only way to build products and services that customers actually want." The approach is centered around the customer's needs and incorporates sentiments of testing and validation during the development process. As Bryar and Carr explain, "The sooner you can validate an assumption, the sooner you can move on to the next assumption or pivot your approach."
 
 This is also emphasised by Peter Drucker in his writing:
