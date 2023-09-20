@@ -33,7 +33,7 @@ tags:
 
 -------------------------
 
-Carl Friedrich Gauss, a towering figure in the realm of mathematics, achieved great feats from a young age. As the anecdotes recount, Gauss's teacher tasked the class with adding all numbers from 1 to 100. Gauss, displaying his mathematical brilliance,  discerned that adding the first and last numbers, 1 and 100, yielded 101. The same result was true from combining 2 and 99, 3 and 98, and so forth. Gauss's insight revealed that there were precisely 50 pairs totalling 101 within the range of 0 to 100.
+Carl Friedrich Gauss, a towering figure in the realm of mathematics, achieved great feats from a young age. As the anecdotes recount, Gauss's teacher tasked the class with adding all numbers from 1 to 100. Gauss, displaying his mathematical brilliance,  discerned that adding the first and last numbers, 1 and 100, yielded 101. The same result was true from combining 2 and 99, 3 and 98, and so forth. Gauss's insight revealed that there were precisely 50 pairs totalling 101 within the range of 0 to 100. The answer to the question therefore was simply 5050, short and simple.
 
 ### Mathematical Thinking - the art of the shortcut
 
