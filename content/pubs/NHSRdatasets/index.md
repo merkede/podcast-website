@@ -9,5 +9,8 @@ layout: single-sidebar
 
 ---
 
-![Coming Soon](featured-hex.png)
+https://www.amazon.co.uk/dp/1738418804
+
+
+![SQL to PySpark](featured-hex.png)
 
