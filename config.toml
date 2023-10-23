@@ -129,6 +129,12 @@ googleAnalytics = ""
     title = "Personal Blog"
     url = "https://www.hamzahj.com"
     weight = 3
+
+  [[menu.footer]]
+    name = "Medium"
+    title = "Medium"
+    url = "https://www.medium.com/@hamzahjavaid"
+    weight = 4
     
 [[params.social]]
     icon      = "linkedin" 
@@ -138,6 +144,16 @@ googleAnalytics = ""
     icon      = "cv" 
     icon_pack = "ai"
     url       = "https://sqltopyspark.netlify.app/pdf_location/test_CV2.pdf"
+
+[[params.social]]
+    icon      = "google-scholar" 
+    icon_pack = "ai"
+    url       = "https://www.hamzahj.com"
+    
+[[params.social]]
+    icon = "mastodon"
+    icon_pack = "fab"
+    url = "https://www.medium.com/@hamzahjavaid"
 
 # PRIVACY CONTENT -------------------------------------------------------------
 # see https://gohugo.io/about/hugo-and-gdpr/
