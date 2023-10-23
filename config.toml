@@ -123,6 +123,12 @@ googleAnalytics = ""
     title = "linkedin"
     url = "https://www.linkedin.com/in/hamzah-j/"
     weight = 2
+
+  [[menu.footer]]
+    name = "Personal Blog"
+    title = "Personal Blog"
+    url = "https://www.hamzahj.com"
+    weight = 3
     
 [[params.social]]
     icon      = "linkedin" 
