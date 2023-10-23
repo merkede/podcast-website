@@ -95,7 +95,7 @@ googleAnalytics = ""
     weight = 2
     
   [[menu.header]]
-    name = "Podcast"
+    name = "Books"
     title = "My project portfolio"
     url = "/pubs/"
     weight = 3
