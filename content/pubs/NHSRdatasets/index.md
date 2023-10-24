@@ -14,3 +14,4 @@ https://www.amazon.co.uk/dp/1738418804
 
 ![SQL to PySpark](featured-hex.png)
 
+https://www.goodreads.com/book/show/200531702-sql-to-pyspark
