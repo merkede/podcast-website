@@ -135,6 +135,13 @@ googleAnalytics = ""
     title = "Medium"
     url = "https://www.medium.com/@hamzahjavaid"
     weight = 4
+
+  [[menu.footer]]
+    name = "Good Reads"
+    title = "Good Reeds"
+    url = "https://www.goodreads.com/book/show/200531702-sql-to-pyspark"
+    weight = 5
+
     
 [[params.social]]
     icon      = "linkedin" 
@@ -149,6 +156,11 @@ googleAnalytics = ""
     icon      = "google-scholar" 
     icon_pack = "ai"
     url       = "https://www.hamzahj.com"
+
+[[params.social]]
+    icon      = "github" 
+    icon_pack = "fab"
+    url       = "https://www.goodreads.com/book/show/200531702-sql-to-pyspark"
     
 [[params.social]]
     icon = "mastodon"
