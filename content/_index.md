@@ -1,6 +1,6 @@
 ---
 title: "Hamzah Javaid"
-subtitle: "Data Science & Analytics ... with philosophical tendencies"
+subtitle: "Senior Data Scientist... with philosophical tendencies"
 
 description: "**TL;DR**  | I am a Senior Data Scientist
        \
