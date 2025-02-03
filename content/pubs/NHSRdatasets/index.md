@@ -9,7 +9,7 @@ layout: single-sidebar
 
 ---
 
-https://www.amazon.co.uk/dp/1738418804
+#https://www.amazon.co.uk/dp/1738418804
 
 
 ![SQL to PySpark](featured-hex.png)
